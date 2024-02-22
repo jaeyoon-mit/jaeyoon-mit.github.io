@@ -27,19 +27,19 @@
 
 			<h3>Overall Analysis Questions</h3>
 			<ol>
-				<li>QUESTION_1</li>
+				<li>Is the housing prices increasing?</li>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, molestiae neque? 
 					Maiores ipsum eaque quibusdam eligendi iure asperiores minus libero enim voluptatibus! 
 					Inventore quia molestias cum nobis facere ducimus sunt.</p>
-				<li>QUESTION_2</li>
+				<li>What factors are causing the rise in housing prices?</li>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, molestiae neque? 
 					Maiores ipsum eaque quibusdam eligendi iure asperiores minus libero enim voluptatibus! 
 					Inventore quia molestias cum nobis facere ducimus sunt.</p>
-				<li>QUESTION_3</li>
+				<li>What is the impact of investment on the Greater Boston housing market?</li>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, molestiae neque? 
 					Maiores ipsum eaque quibusdam eligendi iure asperiores minus libero enim voluptatibus! 
 					Inventore quia molestias cum nobis facere ducimus sunt.</p>
-				<li>...</li>
+				<li>How does the practices of house flipping influence the housing market?</li>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, molestiae neque? 
 					Maiores ipsum eaque quibusdam eligendi iure asperiores minus libero enim voluptatibus! 
 					Inventore quia molestias cum nobis facere ducimus sunt.</p>
@@ -52,14 +52,23 @@
 			<figure>
 				<img src="./visualizations/1-usage_histogram.jpg" alt="" />
 				<figcaption>
-				ENTER IMAGE CAPTION HERE.
+					Our investigation begins with an examination of individual variables, aiming to address any data quality issues that may arise. 
+					The initial step involves a comprehensive review of our dataset, with a specific focus on the frequency distribution of each property type. 
+					The chart above illustrates this distribution, revealing that the majority of data points predominantly belong to the condominium category.
+					To ensure the integrity and relevance of subsequent analyses, our approach involves excluding commercial or other non-residential property types. 
+					Consequently, our scrutiny is concentrated solely on the subset of residential housing, as highlighted in red in the chart (i.e., condominiums, 1/2/3-family residences, and apartments). 
+					This targeted focus enhances the precision of our analyses, helping the understanding of trends within the specific realm of residential real estate in the dataset.
 				</figcaption>
 			</figure>
 
 			<figure>
 				<img src="./visualizations/2-zip_heatmap.svg" alt="" />
 				<figcaption>
-				ENTER IMAGE CAPTION HERE.
+					The heatmap shows the frequency of transactions across different zip codes, sorted in ascending order. 
+					A notable observation is that the dataset exhibits considerable sparsity for the majority of the zip codes. 
+					In response to this pattern, we decided to narrow our focus and include only the thirteen zip codes positioned at the bottom, which have sufficient data. 
+					This selection ensures a more representative analysis, focusing on areas where transaction data is more uniformly distributed across years, 
+					and thus allowing for a more robust exploration within those specific locales.
 				</figcaption>
 			</figure>
 

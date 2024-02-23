@@ -27,22 +27,20 @@
 
 			<h3>Overall Analysis Questions</h3>
 			<ol>
-				<li>Is the housing prices increasing?</li>
+				<li>To what extent is the Boston housing market becoming unaffordable over time?</li>
+				<p></p>
+				<li>What is the impact of growing investments on the housing market?</li>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, molestiae neque? 
 					Maiores ipsum eaque quibusdam eligendi iure asperiores minus libero enim voluptatibus! 
 					Inventore quia molestias cum nobis facere ducimus sunt.</p>
-				<li>What factors are causing the rise in housing prices?</li>
+				<li>How does the profit margin differ when selling luxury homes as opposed to non-luxury homes?</li>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, molestiae neque? 
-					Maiores ipsum eaque quibusdam eligendi iure asperiores minus libero enim voluptatibus! 
-					Inventore quia molestias cum nobis facere ducimus sunt.</p>
-				<li>What is the impact of investment on the Greater Boston housing market?</li>
+				The article "Reckoning with Boston's Towers of Wealth" illustrates how Boston is building luxury housing for the wealthy at the expense of affordable housing.
+				Inventore quia molestias cum nobis facere ducimus sunt.</p>
+				<li>What proportion of Boston's luxury high-rises are owned by corporations?</li>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, molestiae neque? 
-					Maiores ipsum eaque quibusdam eligendi iure asperiores minus libero enim voluptatibus! 
-					Inventore quia molestias cum nobis facere ducimus sunt.</p>
-				<li>How does the practices of house flipping influence the housing market?</li>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, molestiae neque? 
-					Maiores ipsum eaque quibusdam eligendi iure asperiores minus libero enim voluptatibus! 
-					Inventore quia molestias cum nobis facere ducimus sunt.</p>
+				Maiores ipsum eaque quibusdam eligendi iure asperiores minus libero enim voluptatibus! 
+				Inventore quia molestias cum nobis facere ducimus sunt.</p>
 			</ol>
 		</section>
 
@@ -73,74 +71,85 @@
 			</figure>
 
 			<figure>
-				<img src="TODO" alt="" width="600"/>
+				<img src="./visualizations/3-rising_prices.svg" alt="" />
 				<figcaption>
-				ENTER IMAGE CAPTION HERE.
+					In the initial phase of our exploratory data analysis, we delve into the trajectory of housing prices to answer the first analysis question. 
+					The line graph above shows the temporal evolution of residential transaction prices in both nominal and real-dollar values. 
+					Notably, the real-dollar values are adjusted using the consumer price index (CPI) from the US government. 
+					The graph reveals a consistent upward trend in both nominal and real prices over time. 
+					This observation implies that the escalation in housing prices persists even after adjusting for inflation, 
+					emphasizing a significant rise in the real economic value of residential transactions. 
+					Such a significant increase highlights how housing prices are becoming more and more unaffordable for average Bostonians.
 				</figcaption>
 			</figure>
 
 			<figure>
 				<img src="./visualizations/4-price_year.svg" alt="" />
 				<figcaption>
-				ENTER IMAGE CAPTION HERE.
+					To see more nuanced dynamics of how housing prices are changing over time, we constructed a bubble chart spanning 23 years (2000-2022). 
+					This chart categorizes the years into five bins and divides transaction prices into six distinct bins. 
+					Each bubble within the chart represents a price group within the corresponding year group. 
+					We can observe that low-priced transactions are decreasing, whereas high-priced transactions are slightly increasing. 
+					This aligns with the article "Reckoning with Boston's Towers of Wealth," 
+					which illustrates how Boston is increasingly building luxury housing for the wealthy at the expense of affordable housing.				</figcaption>
+			</figure>
+
+			<figure>
+				<img src="./visualizations/5-yearly_investment.svg" alt="" />
+				<figcaption>
+					What is the impact of growing investments on the housing market? 
+					To answer this question, we first examine a scatter plot of residential transactions with the year on the x-axis and the sale price on the y-axis. 
+					The color of the dots represents whether the transaction was an investment or not. 
+					A transaction is categorized as an investment if the buyer is a small, medium, large, or institutional investor. 
+					Otherwise, it is a non-investment transaction. 
+					Looking at this scatter plot, it becomes evident that the high end of the price points is dominated by investment transactions, 
+					whereas the lower-priced ones are mostly non-investments. 
+					Notably, there is an upward trend in the involvement of hi-rises and luxury housing for investment purposes over time. 
+					This trend suggests that the surge in high-priced transactions is primarily driven by investment interests, 
+					rather than serving the demand for affordable housing for individuals seeking permanent residence.
 				</figcaption>
 			</figure>
 
 			<figure>
-				<img src="IMAGE_FILENAME" alt="" />
+				<img src="./visualizations/6-maps.jpg" alt="" />
+				<figcaption>
+					In exploring the geographical dimension, we analyze maps representing the years 2000, 2010, and 2020, each with a decade interval. 
+					These maps illustrate the temporal progression of investment transactions in the Boston area. 
+					The color gradation signifies the percentage of investment transactions within each region relative to the overall transactions.
+					A discernible trend emerges, revealing a clear increase in investment activity across various regions, 
+					with some areas reaching a substantial 30% proportion of investment transactions. 
+					This spatial analysis provides a visual narrative of the evolving landscape of investment dynamics in the Boston real estate market over decades. 
+				</figcaption>
+			</figure>
+
+			<figure>
+				<img src="./visualizations/7-investment_type.svg" alt="" />
 				<figcaption>
 				ENTER IMAGE CAPTION HERE.
 				</figcaption>
 			</figure>
 
 			<figure>
-				<img src="./visualizations/6-yearly_investment.svg" alt="" />
+				<img src="./visualizations/8-corr.svg" alt="" />
 				<figcaption>
 				ENTER IMAGE CAPTION HERE.
 				</figcaption>
 			</figure>
 
 			<figure>
-				<img src="IMAGE_FILENAME" alt="" />
+				<img src="./visualizations/9-luxury_diff.svg" alt="" />
 				<figcaption>
 				ENTER IMAGE CAPTION HERE.
 				</figcaption>
 			</figure>
 
 			<figure>
-				<img src="IMAGE_FILENAME" alt="" />
+				<img src="./visualizations/10-luxury_type.svg" alt="" />
 				<figcaption>
 				ENTER IMAGE CAPTION HERE.
 				</figcaption>
 			</figure>
 
-			<figure>
-				<img src="IMAGE_FILENAME" alt="" />
-				<figcaption>
-				ENTER IMAGE CAPTION HERE.
-				</figcaption>
-			</figure>
-
-			<figure>
-				<img src="IMAGE_FILENAME" alt="" />
-				<figcaption>
-				ENTER IMAGE CAPTION HERE.
-				</figcaption>
-			</figure>
-
-			<figure>
-				<img src="IMAGE_FILENAME" alt="" />
-				<figcaption>
-				ENTER IMAGE CAPTION HERE.
-				</figcaption>
-			</figure>
-
-			<figure>
-				<img src="IMAGE_FILENAME" alt="" />
-				<figcaption>
-				ENTER IMAGE CAPTION HERE.
-				</figcaption>
-			</figure>
 		</section>
 
 		<section>

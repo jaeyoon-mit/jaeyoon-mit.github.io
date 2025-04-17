@@ -1,0 +1,578 @@
+[
+  {
+    "event_id": "evt_001",
+    "title": "Custom Tattoo Session – Client",
+    "related_entities": ["Tattoo Client"],
+    "start_time": "2025-01-20T15:00:00",
+    "end_time": "2025-01-20T18:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_002",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-01-21T13:00:00",
+    "end_time": "2025-01-21T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_003",
+    "title": "Open Studio Livestream",
+    "related_entities": ["Instagram Live"],
+    "start_time": "2025-01-22T14:00:00",
+    "end_time": "2025-01-22T15:30:00",
+    "location": "Simone's Studio"
+  },
+  {
+    "event_id": "evt_004",
+    "title": "Sketching Session – St. Claude Underpass Mural",
+    "related_entities": ["Self"],
+    "start_time": "2025-01-23T15:00:00",
+    "end_time": "2025-01-23T18:00:00",
+    "location": "St. Claude Underpass"
+  },
+  {
+    "event_id": "evt_005",
+    "title": "Walk‑in Tattoo Block",
+    "related_entities": ["Walk‑in Clients"],
+    "start_time": "2025-01-24T16:00:00",
+    "end_time": "2025-01-24T20:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_006",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-01-28T13:00:00",
+    "end_time": "2025-01-28T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_007",
+    "title": "Open Studio Livestream",
+    "related_entities": ["Instagram Live"],
+    "start_time": "2025-01-29T14:00:00",
+    "end_time": "2025-01-29T15:30:00",
+    "location": "Simone's Studio"
+  },
+  {
+    "event_id": "evt_008",
+    "title": "Custom Tattoo Session – Client",
+    "related_entities": ["Tattoo Client"],
+    "start_time": "2025-01-27T15:00:00",
+    "end_time": "2025-01-27T18:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_009",
+    "title": "Walk‑in Tattoo Block",
+    "related_entities": ["Walk‑in Clients"],
+    "start_time": "2025-01-31T16:00:00",
+    "end_time": "2025-01-31T20:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_010",
+    "title": "Mural Painting – St. Claude Underpass (Day 1)",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-03T12:30:00",
+    "end_time": "2025-02-03T17:30:00",
+    "location": "St. Claude Underpass"
+  },
+  {
+    "event_id": "evt_011",
+    "title": "Mural Painting – St. Claude Underpass (Day 2)",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-04T12:30:00",
+    "end_time": "2025-02-04T17:30:00",
+    "location": "St. Claude Underpass"
+  },
+  {
+    "event_id": "evt_012",
+    "title": "Color Theory Workshop (Facilitator)",
+    "related_entities": ["NOCCA"],
+    "start_time": "2025-02-05T16:00:00",
+    "end_time": "2025-02-05T19:00:00",
+    "location": "NOCCA Riverfront"
+  },
+  {
+    "event_id": "evt_013",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-02-04T13:00:00",
+    "end_time": "2025-02-04T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_014",
+    "title": "Open Studio Livestream",
+    "related_entities": ["Instagram Live"],
+    "start_time": "2025-02-05T14:00:00",
+    "end_time": "2025-02-05T15:30:00",
+    "location": "Simone's Studio"
+  },
+  {
+    "event_id": "evt_015",
+    "title": "Frenchmen Art Market Stall",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-08T13:00:00",
+    "end_time": "2025-02-08T20:00:00",
+    "location": "Frenchmen Art Market"
+  },
+  {
+    "event_id": "evt_016",
+    "title": "Community Paint‑Along – Underpass Mural",
+    "related_entities": ["Neighborhood Volunteers"],
+    "start_time": "2025-02-10T15:00:00",
+    "end_time": "2025-02-10T17:00:00",
+    "location": "St. Claude Underpass"
+  },
+  {
+    "event_id": "evt_017",
+    "title": "Custom Tattoo Session – Client",
+    "related_entities": ["Tattoo Client"],
+    "start_time": "2025-02-10T15:00:00",
+    "end_time": "2025-02-10T18:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_018",
+    "title": "Walk‑in Tattoo Block",
+    "related_entities": ["Walk‑in Clients"],
+    "start_time": "2025-02-14T16:00:00",
+    "end_time": "2025-02-14T20:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_019",
+    "title": "Krewe du Vieux Parade Watch",
+    "related_entities": ["Friends"],
+    "start_time": "2025-02-22T18:00:00",
+    "end_time": "2025-02-22T23:00:00",
+    "location": "French Quarter – Decatur Street"
+  },
+  {
+    "event_id": "evt_020",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-02-18T13:00:00",
+    "end_time": "2025-02-18T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_021",
+    "title": "Equipment Maintenance – Tattoo Machines",
+    "related_entities": ["Machine Shop NOLA"],
+    "start_time": "2025-03-04T12:30:00",
+    "end_time": "2025-03-04T13:30:00",
+    "location": "Machine Shop NOLA"
+  },
+  {
+    "event_id": "evt_022",
+    "title": "Bywater Street Art Walk",
+    "related_entities": ["Bywater Merchants Assoc."],
+    "start_time": "2025-03-01T12:00:00",
+    "end_time": "2025-03-01T17:00:00",
+    "location": "St. Claude Avenue"
+  },
+  {
+    "event_id": "evt_023",
+    "title": "Jazz & Ink Night",
+    "related_entities": ["Mid‑City Jazz Collective"],
+    "start_time": "2025-03-07T20:00:00",
+    "end_time": "2025-03-07T23:00:00",
+    "location": "Maple Leaf Bar"
+  },
+  {
+    "event_id": "evt_024",
+    "title": "Custom Tattoo Session – Client",
+    "related_entities": ["Tattoo Client"],
+    "start_time": "2025-03-03T15:00:00",
+    "end_time": "2025-03-03T18:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_025",
+    "title": "Walk‑in Tattoo Block",
+    "related_entities": ["Walk‑in Clients"],
+    "start_time": "2025-03-07T16:00:00",
+    "end_time": "2025-03-07T20:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_026",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-03-04T13:00:00",
+    "end_time": "2025-03-04T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_027",
+    "title": "Open Studio Livestream",
+    "related_entities": ["Instagram Live"],
+    "start_time": "2025-03-05T14:00:00",
+    "end_time": "2025-03-05T15:30:00",
+    "location": "Simone's Studio"
+  },
+  {
+    "event_id": "evt_028",
+    "title": "Gallery Opening – “Chromatic Crescents”",
+    "related_entities": ["St. Roch Gallery"],
+    "start_time": "2025-03-14T18:00:00",
+    "end_time": "2025-03-14T22:00:00",
+    "location": "St. Roch Gallery"
+  },
+  {
+    "event_id": "evt_029",
+    "title": "Dental Checkup",
+    "related_entities": ["Bright Smiles Dental"],
+    "start_time": "2025-03-18T13:00:00",
+    "end_time": "2025-03-18T14:00:00",
+    "location": "Bright Smiles Dental Clinic"
+  },
+  {
+    "event_id": "evt_030",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-03-11T13:00:00",
+    "end_time": "2025-03-11T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_031",
+    "title": "Open Studio Livestream",
+    "related_entities": ["Instagram Live"],
+    "start_time": "2025-03-12T14:00:00",
+    "end_time": "2025-03-12T15:30:00",
+    "location": "Simone's Studio"
+  },
+  {
+    "event_id": "evt_032",
+    "title": "Custom Tattoo Session – Client",
+    "related_entities": ["Tattoo Client"],
+    "start_time": "2025-03-10T15:00:00",
+    "end_time": "2025-03-10T18:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_033",
+    "title": "Walk‑in Tattoo Block",
+    "related_entities": ["Walk‑in Clients"],
+    "start_time": "2025-03-14T16:00:00",
+    "end_time": "2025-03-14T20:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_034",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-03-18T13:00:00",
+    "end_time": "2025-03-18T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_035",
+    "title": "Open Studio Livestream",
+    "related_entities": ["Instagram Live"],
+    "start_time": "2025-03-19T14:00:00",
+    "end_time": "2025-03-19T15:30:00",
+    "location": "Simone's Studio"
+  },
+  {
+    "event_id": "evt_036",
+    "title": "Custom Tattoo Session – Client",
+    "related_entities": ["Tattoo Client"],
+    "start_time": "2025-03-17T15:00:00",
+    "end_time": "2025-03-17T18:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_037",
+    "title": "Walk‑in Tattoo Block",
+    "related_entities": ["Walk‑in Clients"],
+    "start_time": "2025-03-21T16:00:00",
+    "end_time": "2025-03-21T20:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_038",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-03-25T13:00:00",
+    "end_time": "2025-03-25T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_039",
+    "title": "Open Studio Livestream",
+    "related_entities": ["Instagram Live"],
+    "start_time": "2025-03-26T14:00:00",
+    "end_time": "2025-03-26T15:30:00",
+    "location": "Simone's Studio"
+  },
+  {
+    "event_id": "evt_040",
+    "title": "Custom Tattoo Session – Client",
+    "related_entities": ["Tattoo Client"],
+    "start_time": "2025-03-24T15:00:00",
+    "end_time": "2025-03-24T18:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_041",
+    "title": "Walk‑in Tattoo Block",
+    "related_entities": ["Walk‑in Clients"],
+    "start_time": "2025-03-28T16:00:00",
+    "end_time": "2025-03-28T20:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_042",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-04-01T13:00:00",
+    "end_time": "2025-04-01T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_043",
+    "title": "Open Studio Livestream",
+    "related_entities": ["Instagram Live"],
+    "start_time": "2025-04-02T14:00:00",
+    "end_time": "2025-04-02T15:30:00",
+    "location": "Simone's Studio"
+  },
+  {
+    "event_id": "evt_044",
+    "title": "Tattoo Machine Tune‑up",
+    "related_entities": ["Machine Shop NOLA"],
+    "start_time": "2025-04-03T13:30:00",
+    "end_time": "2025-04-03T15:00:00",
+    "location": "Machine Shop NOLA"
+  },
+  {
+    "event_id": "evt_045",
+    "title": "Custom Tattoo Session – Client",
+    "related_entities": ["Tattoo Client"],
+    "start_time": "2025-03-31T15:00:00",
+    "end_time": "2025-03-31T18:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_046",
+    "title": "Walk‑in Tattoo Block",
+    "related_entities": ["Walk‑in Clients"],
+    "start_time": "2025-04-04T16:00:00",
+    "end_time": "2025-04-04T20:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_047",
+    "title": "Community Mural Workshop",
+    "related_entities": ["Arts Council NOLA"],
+    "start_time": "2025-04-06T14:00:00",
+    "end_time": "2025-04-06T18:00:00",
+    "location": "Markey Park Wall"
+  },
+  {
+    "event_id": "evt_048",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-04-08T13:00:00",
+    "end_time": "2025-04-08T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_049",
+    "title": "Open Studio Livestream",
+    "related_entities": ["Instagram Live"],
+    "start_time": "2025-04-09T14:00:00",
+    "end_time": "2025-04-09T15:30:00",
+    "location": "Simone's Studio"
+  },
+  {
+    "event_id": "evt_050",
+    "title": "Second Saturday Art Walk",
+    "related_entities": ["St. Claude Arts District"],
+    "start_time": "2025-04-12T17:00:00",
+    "end_time": "2025-04-12T20:00:00",
+    "location": "St. Claude Avenue"
+  },
+  {
+    "event_id": "evt_051",
+    "title": "Custom Tattoo Session – Client",
+    "related_entities": ["Tattoo Client"],
+    "start_time": "2025-04-07T15:00:00",
+    "end_time": "2025-04-07T18:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_052",
+    "title": "Walk‑in Tattoo Block",
+    "related_entities": ["Walk‑in Clients"],
+    "start_time": "2025-04-11T16:00:00",
+    "end_time": "2025-04-11T20:00:00",
+    "location": "InkWitch Studio"
+  },
+  {
+    "event_id": "evt_053",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-04-15T13:00:00",
+    "end_time": "2025-04-15T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_054",
+    "title": "Open Studio Livestream",
+    "related_entities": ["Instagram Live"],
+    "start_time": "2025-04-16T14:00:00",
+    "end_time": "2025-04-16T15:30:00",
+    "location": "Simone's Studio"
+  },
+  {
+    "event_id": "evt_055",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-04-22T13:00:00",
+    "end_time": "2025-04-22T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_056",
+    "title": "Open Studio Livestream",
+    "related_entities": ["Instagram Live"],
+    "start_time": "2025-04-23T14:00:00",
+    "end_time": "2025-04-23T15:30:00",
+    "location": "Simone's Studio"
+  },
+  {
+    "event_id": "evt_057",
+    "title": "Finalize Morocco Travel Itinerary",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-25T15:00:00",
+    "end_time": "2025-04-25T17:00:00",
+    "location": "Studio Desk"
+  },
+  {
+    "event_id": "evt_058",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-04-29T13:00:00",
+    "end_time": "2025-04-29T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_059",
+    "title": "Flight MSY → JFK (Leg 1)",
+    "related_entities": ["Delta Airlines"],
+    "start_time": "2025-04-30T17:45:00",
+    "end_time": "2025-04-30T21:10:00",
+    "location": "Louis Armstrong New Orleans International Airport (MSY)"
+  },
+  {
+    "event_id": "evt_060",
+    "title": "Red‑eye JFK → CMN (Leg 2)",
+    "related_entities": ["Royal Air Maroc"],
+    "start_time": "2025-04-30T23:30:00",
+    "end_time": "2025-05-01T11:00:00",
+    "location": "John F. Kennedy International Airport (JFK)"
+  },
+  {
+    "event_id": "evt_061",
+    "title": "Train Casablanca → Chefchaouen",
+    "related_entities": ["ONCF"],
+    "start_time": "2025-05-01T13:00:00",
+    "end_time": "2025-05-01T18:30:00",
+    "location": "Casa‑Voyageurs Station"
+  },
+  {
+    "event_id": "evt_062",
+    "title": "Blue Medina Photo Walk",
+    "related_entities": ["Self"],
+    "start_time": "2025-05-02T12:00:00",
+    "end_time": "2025-05-02T17:00:00",
+    "location": "Chefchaouen Medina"
+  },
+  {
+    "event_id": "evt_063",
+    "title": "Local Dye Workshop",
+    "related_entities": ["Dar Sidi"],
+    "start_time": "2025-05-03T14:00:00",
+    "end_time": "2025-05-03T17:00:00",
+    "location": "Chefchaouen Art Co‑op"
+  },
+  {
+    "event_id": "evt_064",
+    "title": "Hiking Talassemtane Park",
+    "related_entities": ["Guide Ahmed"],
+    "start_time": "2025-05-04T12:00:00",
+    "end_time": "2025-05-04T18:00:00",
+    "location": "Talassemtane National Park"
+  },
+  {
+    "event_id": "evt_065",
+    "title": "Bus Chefchaouen → Tangier",
+    "related_entities": ["CTM"],
+    "start_time": "2025-05-05T09:00:00",
+    "end_time": "2025-05-05T12:00:00",
+    "location": "Chefchaouen Bus Station"
+  },
+  {
+    "event_id": "evt_066",
+    "title": "Flight TNG → CMN",
+    "related_entities": ["Royal Air Maroc"],
+    "start_time": "2025-05-05T14:00:00",
+    "end_time": "2025-05-05T15:00:00",
+    "location": "Tangier Ibn Battouta Airport (TNG)"
+  },
+  {
+    "event_id": "evt_067",
+    "title": "Flight CMN → JFK",
+    "related_entities": ["Royal Air Maroc"],
+    "start_time": "2025-05-05T18:00:00",
+    "end_time": "2025-05-06T01:35:00",
+    "location": "Casablanca Mohammed V Airport (CMN)"
+  },
+  {
+    "event_id": "evt_068",
+    "title": "Flight JFK → MSY",
+    "related_entities": ["Delta Airlines"],
+    "start_time": "2025-05-06T08:00:00",
+    "end_time": "2025-05-06T10:30:00",
+    "location": "John F. Kennedy International Airport (JFK)"
+  },
+  {
+    "event_id": "evt_069",
+    "title": "Recovery Day – Unpack & Laundry",
+    "related_entities": ["Self"],
+    "start_time": "2025-05-07T13:00:00",
+    "end_time": "2025-05-07T17:00:00",
+    "location": "Home"
+  },
+  {
+    "event_id": "evt_070",
+    "title": "Bywater Art Collective Check‑in",
+    "related_entities": ["Bywater Art Collective"],
+    "start_time": "2025-05-13T13:00:00",
+    "end_time": "2025-05-13T14:00:00",
+    "location": "Rusty Pelican Café Back Patio"
+  },
+  {
+    "event_id": "evt_071",
+    "title": "Open Studio Livestream (Tentative)",
+    "related_entities": ["Instagram Live"],
+    "start_time": "2025-05-14T14:00:00",
+    "end_time": "2025-05-14T15:00:00",
+    "location": "Simone's Studio"
+  },
+  {
+    "event_id": "evt_072",
+    "title": "Tentative: Murals in Motion Exhibition Planning",
+    "related_entities": ["Bywater Gallery"],
+    "start_time": "2025-05-10T14:00:00",
+    "end_time": "2025-05-10T15:30:00",
+    "location": "TBD"
+  }
+]

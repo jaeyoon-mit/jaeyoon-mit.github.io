@@ -1,0 +1,1490 @@
+[
+  {
+    "event_id": "evt_001",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-20T09:00:00",
+    "end_time": "2025-01-20T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_002",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-01-20T09:30:00",
+    "end_time": "2025-01-20T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_003",
+    "title": "Sprint Planning",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-20T14:00:00",
+    "end_time": "2025-01-20T15:00:00",
+    "location": "Hybrid – Conf Room Alpha"
+  },
+  {
+    "event_id": "evt_004",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-21T09:00:00",
+    "end_time": "2025-01-21T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_005",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-01-21T09:30:00",
+    "end_time": "2025-01-21T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_006",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-22T09:00:00",
+    "end_time": "2025-01-22T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_007",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-01-22T09:30:00",
+    "end_time": "2025-01-22T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_008",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-01-22T10:30:00",
+    "end_time": "2025-01-22T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_009",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-23T09:00:00",
+    "end_time": "2025-01-23T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_010",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-01-23T09:30:00",
+    "end_time": "2025-01-23T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_011",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-24T09:00:00",
+    "end_time": "2025-01-24T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_012",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-01-24T09:30:00",
+    "end_time": "2025-01-24T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_013",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-24T16:00:00",
+    "end_time": "2025-01-24T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_014",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-27T09:00:00",
+    "end_time": "2025-01-27T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_015",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-01-27T09:30:00",
+    "end_time": "2025-01-27T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_016",
+    "title": "Sprint Planning",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-27T14:00:00",
+    "end_time": "2025-01-27T15:00:00",
+    "location": "Hybrid – Conf Room Alpha"
+  },
+  {
+    "event_id": "evt_017",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-28T09:00:00",
+    "end_time": "2025-01-28T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_018",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-01-28T09:30:00",
+    "end_time": "2025-01-28T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_019",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-29T09:00:00",
+    "end_time": "2025-01-29T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_020",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-01-29T09:30:00",
+    "end_time": "2025-01-29T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_021",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-01-29T10:30:00",
+    "end_time": "2025-01-29T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_022",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-30T09:00:00",
+    "end_time": "2025-01-30T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_023",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-01-30T09:30:00",
+    "end_time": "2025-01-30T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_024",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-31T09:00:00",
+    "end_time": "2025-01-31T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_025",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-01-31T09:30:00",
+    "end_time": "2025-01-31T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_026",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-01-31T16:00:00",
+    "end_time": "2025-01-31T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_027",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-03T09:00:00",
+    "end_time": "2025-02-03T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_028",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-03T09:30:00",
+    "end_time": "2025-02-03T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_029",
+    "title": "Sprint Planning",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-03T14:00:00",
+    "end_time": "2025-02-03T15:00:00",
+    "location": "Hybrid – Conf Room Alpha"
+  },
+  {
+    "event_id": "evt_030",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-04T09:00:00",
+    "end_time": "2025-02-04T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_031",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-04T09:30:00",
+    "end_time": "2025-02-04T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_032",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-05T09:00:00",
+    "end_time": "2025-02-05T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_033",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-05T09:30:00",
+    "end_time": "2025-02-05T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_034",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-02-05T10:30:00",
+    "end_time": "2025-02-05T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_035",
+    "title": "Boston Robotics Meetup",
+    "related_entities": ["Boston Robotics Meetup"],
+    "start_time": "2025-02-05T18:30:00",
+    "end_time": "2025-02-05T20:30:00",
+    "location": "District Hall Boston"
+  },
+  {
+    "event_id": "evt_036",
+    "title": "Overlapping Coffee Chat",
+    "related_entities": ["College Friend Mike"],
+    "start_time": "2025-02-06T11:00:00",
+    "end_time": "2025-02-06T11:30:00",
+    "location": "Thinking Cup Café"
+  },
+  {
+    "event_id": "evt_037",
+    "title": "Cancelled: Coffee Chat (reschedule)",
+    "related_entities": ["College Friend Mike"],
+    "start_time": "2025-02-06T11:00:00",
+    "end_time": "2025-02-06T11:30:00",
+    "location": "Google Calendar – Cancelled"
+  },
+  {
+    "event_id": "evt_038",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-06T09:00:00",
+    "end_time": "2025-02-06T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_039",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-06T09:30:00",
+    "end_time": "2025-02-06T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_040",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-07T09:00:00",
+    "end_time": "2025-02-07T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_041",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-07T09:30:00",
+    "end_time": "2025-02-07T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_042",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-07T16:00:00",
+    "end_time": "2025-02-07T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_043",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-10T09:00:00",
+    "end_time": "2025-02-10T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_044",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-10T09:30:00",
+    "end_time": "2025-02-10T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_045",
+    "title": "Sprint Planning",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-10T14:00:00",
+    "end_time": "2025-02-10T15:00:00",
+    "location": "Hybrid – Conf Room Alpha"
+  },
+  {
+    "event_id": "evt_046",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-11T09:00:00",
+    "end_time": "2025-02-11T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_047",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-11T09:30:00",
+    "end_time": "2025-02-11T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_048",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-12T09:00:00",
+    "end_time": "2025-02-12T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_049",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-12T09:30:00",
+    "end_time": "2025-02-12T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_050",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-02-12T10:30:00",
+    "end_time": "2025-02-12T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_051",
+    "title": "Dental Cleaning",
+    "related_entities": ["Bright Dental"],
+    "start_time": "2025-02-12T13:00:00",
+    "end_time": "2025-02-12T14:00:00",
+    "location": "Bright Dental Clinic"
+  },
+  {
+    "event_id": "evt_052",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-13T09:00:00",
+    "end_time": "2025-02-13T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_053",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-13T09:30:00",
+    "end_time": "2025-02-13T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_054",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-14T09:00:00",
+    "end_time": "2025-02-14T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_055",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-14T09:30:00",
+    "end_time": "2025-02-14T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_056",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-14T16:00:00",
+    "end_time": "2025-02-14T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_057",
+    "title": "Friend's Birthday Dinner",
+    "related_entities": ["Ava"],
+    "start_time": "2025-02-15T19:00:00",
+    "end_time": "2025-02-15T21:30:00",
+    "location": "Shanti Indian Cuisine"
+  },
+  {
+    "event_id": "evt_058",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-17T09:00:00",
+    "end_time": "2025-02-17T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_059",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-17T09:30:00",
+    "end_time": "2025-02-17T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_060",
+    "title": "Sprint Planning",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-17T14:00:00",
+    "end_time": "2025-02-17T15:00:00",
+    "location": "Hybrid – Conf Room Alpha"
+  },
+  {
+    "event_id": "evt_061",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-18T09:00:00",
+    "end_time": "2025-02-18T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_062",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-18T09:30:00",
+    "end_time": "2025-02-18T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_063",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-19T09:00:00",
+    "end_time": "2025-02-19T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_064",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-19T09:30:00",
+    "end_time": "2025-02-19T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_065",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-02-19T10:30:00",
+    "end_time": "2025-02-19T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_066",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-20T09:00:00",
+    "end_time": "2025-02-20T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_067",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-20T09:30:00",
+    "end_time": "2025-02-20T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_068",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-21T09:00:00",
+    "end_time": "2025-02-21T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_069",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-21T09:30:00",
+    "end_time": "2025-02-21T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_070",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-21T16:00:00",
+    "end_time": "2025-02-21T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_071",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-24T09:00:00",
+    "end_time": "2025-02-24T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_072",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-24T09:30:00",
+    "end_time": "2025-02-24T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_073",
+    "title": "Sprint Planning",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-24T14:00:00",
+    "end_time": "2025-02-24T15:00:00",
+    "location": "Hybrid – Conf Room Alpha"
+  },
+  {
+    "event_id": "evt_074",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-25T09:00:00",
+    "end_time": "2025-02-25T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_075",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-25T09:30:00",
+    "end_time": "2025-02-25T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_076",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-26T09:00:00",
+    "end_time": "2025-02-26T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_077",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-26T09:30:00",
+    "end_time": "2025-02-26T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_078",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-02-26T10:30:00",
+    "end_time": "2025-02-26T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_079",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-27T09:00:00",
+    "end_time": "2025-02-27T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_080",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-27T09:30:00",
+    "end_time": "2025-02-27T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_081",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-28T09:00:00",
+    "end_time": "2025-02-28T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_082",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-02-28T09:30:00",
+    "end_time": "2025-02-28T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_083",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-02-28T16:00:00",
+    "end_time": "2025-02-28T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_084",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-03T09:00:00",
+    "end_time": "2025-03-03T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_085",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-03T09:30:00",
+    "end_time": "2025-03-03T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_086",
+    "title": "Sprint Planning",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-03T14:00:00",
+    "end_time": "2025-03-03T15:00:00",
+    "location": "Hybrid – Conf Room Alpha"
+  },
+  {
+    "event_id": "evt_087",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-04T09:00:00",
+    "end_time": "2025-03-04T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_088",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-04T09:30:00",
+    "end_time": "2025-03-04T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_089",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-05T09:00:00",
+    "end_time": "2025-03-05T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_090",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-05T09:30:00",
+    "end_time": "2025-03-05T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_091",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-03-05T10:30:00",
+    "end_time": "2025-03-05T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_092",
+    "title": "Reminder: Renew Gym Membership",
+    "related_entities": ["Planet Fitness"],
+    "start_time": "2025-03-05T08:00:00",
+    "end_time": "2025-03-05T08:15:00",
+    "location": "Google Tasks"
+  },
+  {
+    "event_id": "evt_093",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-06T09:00:00",
+    "end_time": "2025-03-06T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_094",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-06T09:30:00",
+    "end_time": "2025-03-06T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_095",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-07T09:00:00",
+    "end_time": "2025-03-07T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_096",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-07T09:30:00",
+    "end_time": "2025-03-07T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_097",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-07T16:00:00",
+    "end_time": "2025-03-07T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_098",
+    "title": "Hackathon (24‑h)",
+    "related_entities": ["HackBoston"],
+    "start_time": "2025-03-01T10:00:00",
+    "end_time": "2025-03-02T10:00:00",
+    "location": "MIT Stata Center"
+  },
+  {
+    "event_id": "evt_099",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-10T09:00:00",
+    "end_time": "2025-03-10T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_100",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-10T09:30:00",
+    "end_time": "2025-03-10T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_101",
+    "title": "Sprint Planning",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-10T14:00:00",
+    "end_time": "2025-03-10T15:00:00",
+    "location": "Hybrid – Conf Room Alpha"
+  },
+  {
+    "event_id": "evt_102",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-11T09:00:00",
+    "end_time": "2025-03-11T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_103",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-11T09:30:00",
+    "end_time": "2025-03-11T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_104",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-12T09:00:00",
+    "end_time": "2025-03-12T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_105",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-12T09:30:00",
+    "end_time": "2025-03-12T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_106",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-03-12T10:30:00",
+    "end_time": "2025-03-12T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_107",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-13T09:00:00",
+    "end_time": "2025-03-13T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_108",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-13T09:30:00",
+    "end_time": "2025-03-13T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_109",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-14T09:00:00",
+    "end_time": "2025-03-14T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_110",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-14T09:30:00",
+    "end_time": "2025-03-14T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_111",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-14T16:00:00",
+    "end_time": "2025-03-14T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_112",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-17T09:00:00",
+    "end_time": "2025-03-17T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_113",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-17T09:30:00",
+    "end_time": "2025-03-17T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_114",
+    "title": "Sprint Planning",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-17T14:00:00",
+    "end_time": "2025-03-17T15:00:00",
+    "location": "Hybrid – Conf Room Alpha"
+  },
+  {
+    "event_id": "evt_115",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-18T09:00:00",
+    "end_time": "2025-03-18T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_116",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-18T09:30:00",
+    "end_time": "2025-03-18T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_117",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-19T09:00:00",
+    "end_time": "2025-03-19T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_118",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-19T09:30:00",
+    "end_time": "2025-03-19T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_119",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-03-19T10:30:00",
+    "end_time": "2025-03-19T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_120",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-20T09:00:00",
+    "end_time": "2025-03-20T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_121",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-20T09:30:00",
+    "end_time": "2025-03-20T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_122",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-21T09:00:00",
+    "end_time": "2025-03-21T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_123",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-21T09:30:00",
+    "end_time": "2025-03-21T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_124",
+    "title": "Flight BOS → LGA",
+    "related_entities": ["JetBlue"],
+    "start_time": "2025-03-21T17:30:00",
+    "end_time": "2025-03-21T18:55:00",
+    "location": "Boston Logan International Airport"
+  },
+  {
+    "event_id": "evt_125",
+    "title": "MetroCard & Ramen Night",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-21T20:00:00",
+    "end_time": "2025-03-21T22:00:00",
+    "location": "Ichiran Brooklyn"
+  },
+  {
+    "event_id": "evt_126",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-21T16:00:00",
+    "end_time": "2025-03-21T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_127",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-24T09:00:00",
+    "end_time": "2025-03-24T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_128",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-24T09:30:00",
+    "end_time": "2025-03-24T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_129",
+    "title": "Sprint Planning",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-24T14:00:00",
+    "end_time": "2025-03-24T15:00:00",
+    "location": "Hybrid – Conf Room Alpha"
+  },
+  {
+    "event_id": "evt_130",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-25T09:00:00",
+    "end_time": "2025-03-25T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_131",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-25T09:30:00",
+    "end_time": "2025-03-25T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_132",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-26T09:00:00",
+    "end_time": "2025-03-26T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_133",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-26T09:30:00",
+    "end_time": "2025-03-26T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_134",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-03-26T10:30:00",
+    "end_time": "2025-03-26T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_135",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-27T09:00:00",
+    "end_time": "2025-03-27T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_136",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-27T09:30:00",
+    "end_time": "2025-03-27T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_137",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-28T09:00:00",
+    "end_time": "2025-03-28T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_138",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-28T09:30:00",
+    "end_time": "2025-03-28T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_139",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-28T16:00:00",
+    "end_time": "2025-03-28T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_140",
+    "title": "Return Flight JFK → BOS",
+    "related_entities": ["Delta"],
+    "start_time": "2025-03-23T20:30:00",
+    "end_time": "2025-03-23T22:00:00",
+    "location": "John F. Kennedy International Airport"
+  },
+  {
+    "event_id": "evt_141",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-31T09:00:00",
+    "end_time": "2025-03-31T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_142",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-03-31T09:30:00",
+    "end_time": "2025-03-31T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_143",
+    "title": "Sprint Planning",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-03-31T14:00:00",
+    "end_time": "2025-03-31T15:00:00",
+    "location": "Hybrid – Conf Room Alpha"
+  },
+  {
+    "event_id": "evt_144",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-01T09:00:00",
+    "end_time": "2025-04-01T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_145",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-01T09:30:00",
+    "end_time": "2025-04-01T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_146",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-02T09:00:00",
+    "end_time": "2025-04-02T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_147",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-02T09:30:00",
+    "end_time": "2025-04-02T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_148",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-04-02T10:30:00",
+    "end_time": "2025-04-02T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_149",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-03T09:00:00",
+    "end_time": "2025-04-03T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_150",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-03T09:30:00",
+    "end_time": "2025-04-03T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_151",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-04T09:00:00",
+    "end_time": "2025-04-04T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_152",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-04T09:30:00",
+    "end_time": "2025-04-04T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_153",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-04T16:00:00",
+    "end_time": "2025-04-04T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_154",
+    "title": "Eye Exam",
+    "related_entities": ["Boston Vision"],
+    "start_time": "2025-04-08T13:30:00",
+    "end_time": "2025-04-08T14:30:00",
+    "location": "Boston Vision Center"
+  },
+  {
+    "event_id": "evt_155",
+    "title": "Book Flights: Boston → Tokyo (Tentative)",
+    "related_entities": ["ANA"],
+    "start_time": "2025-04-20T15:00:00",
+    "end_time": "2025-04-20T16:00:00",
+    "location": "Home"
+  },
+  {
+    "event_id": "evt_156",
+    "title": "Haircut",
+    "related_entities": ["Fade Barber"],
+    "start_time": "2025-04-27T12:00:00",
+    "end_time": "2025-04-27T12:30:00",
+    "location": "Fade Barber Shop"
+  },
+  {
+    "event_id": "evt_157",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-16T09:00:00",
+    "end_time": "2025-04-16T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_158",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-16T09:30:00",
+    "end_time": "2025-04-16T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_159",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-04-16T10:30:00",
+    "end_time": "2025-04-16T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_160",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-17T09:00:00",
+    "end_time": "2025-04-17T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_161",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-17T09:30:00",
+    "end_time": "2025-04-17T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_162",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-18T09:00:00",
+    "end_time": "2025-04-18T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_163",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-18T09:30:00",
+    "end_time": "2025-04-18T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_164",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-18T16:00:00",
+    "end_time": "2025-04-18T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_165",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-21T09:00:00",
+    "end_time": "2025-04-21T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_166",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-21T09:30:00",
+    "end_time": "2025-04-21T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_167",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-22T09:00:00",
+    "end_time": "2025-04-22T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_168",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-22T09:30:00",
+    "end_time": "2025-04-22T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_169",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-23T09:00:00",
+    "end_time": "2025-04-23T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_170",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-23T09:30:00",
+    "end_time": "2025-04-23T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_171",
+    "title": "1:1 with Mentor (Sam)",
+    "related_entities": ["Sam"],
+    "start_time": "2025-04-23T10:30:00",
+    "end_time": "2025-04-23T11:00:00",
+    "location": "Meeting Room Beta"
+  },
+  {
+    "event_id": "evt_172",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-24T09:00:00",
+    "end_time": "2025-04-24T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_173",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-24T09:30:00",
+    "end_time": "2025-04-24T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_174",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-25T09:00:00",
+    "end_time": "2025-04-25T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_175",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-25T09:30:00",
+    "end_time": "2025-04-25T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_176",
+    "title": "Sprint Demo & Retro",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-25T16:00:00",
+    "end_time": "2025-04-25T17:00:00",
+    "location": "Office/Common Space"
+  },
+  {
+    "event_id": "evt_177",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-28T09:00:00",
+    "end_time": "2025-04-28T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_178",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-28T09:30:00",
+    "end_time": "2025-04-28T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_179",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-29T09:00:00",
+    "end_time": "2025-04-29T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_180",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-29T09:30:00",
+    "end_time": "2025-04-29T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_181",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-04-30T09:00:00",
+    "end_time": "2025-04-30T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_182",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-04-30T09:30:00",
+    "end_time": "2025-04-30T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_183",
+    "title": "Daily Stand‑up",
+    "related_entities": ["Dev Team"],
+    "start_time": "2025-05-01T09:00:00",
+    "end_time": "2025-05-01T09:15:00",
+    "location": "Zoom"
+  },
+  {
+    "event_id": "evt_184",
+    "title": "Focus Coding Block",
+    "related_entities": ["Self"],
+    "start_time": "2025-05-01T09:30:00",
+    "end_time": "2025-05-01T12:00:00",
+    "location": "Office Desk"
+  },
+  {
+    "event_id": "evt_185",
+    "title": "Mom's Birthday Call",
+    "related_entities": ["Mom"],
+    "start_time": "2025-05-06T20:00:00",
+    "end_time": "2025-05-06T20:30:00",
+    "location": "FaceTime"
+  },
+  {
+    "event_id": "evt_186",
+    "title": "Tentative: Berlin Trip Planning",
+    "related_entities": ["Self"],
+    "start_time": "2025-05-12T19:00:00",
+    "end_time": "2025-05-12T20:00:00",
+    "location": "Apartment"
+  }
+]

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Persona Calendars</title>
+  <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/index.global.min.css" rel="stylesheet">
+  <style>
+    body{font-family:system-ui, sans-serif;margin:0;padding:0}
+    #tabs{display:flex;border-bottom:1px solid #ccc}
+    #tabs button{flex:1;padding:.6rem;border:none;background:#f5f5f5;cursor:pointer}
+    #tabs button.active{background:#fff;border-bottom:3px solid #1976d2;color:#1976d2;font-weight:600}
+    .calendar-wrap{display:none;padding:1rem}
+    .calendar-wrap.active{display:block}
+  </style>
+</head>
+<body>
+  <div id="tabs"></div>
+
+  <!-- calendar containers (one per persona) will be injected here -->
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/index.global.min.js"></script>
+  <script>
+    // Mapping label -> JSON file
+    const personas = {
+      "Alondra Reyes": "calendar1.json",
+      "Marcus Chen":   "calendar2.json",
+      "Simone Hartfield": "calendar3.json",
+      "Jordan Patel":  "calendar4.json",
+      "Cheryl Dawson": "calendar5.json"
+    };
+
+    const tabsDiv = document.getElementById('tabs');
+
+    // Build a tab + calendar element for each persona
+    Object.entries(personas).forEach(([name, file], idx) => {
+      // add tab button
+      const btn = document.createElement('button');
+      btn.textContent = name;
+      if (idx === 0) btn.classList.add('active');
+      tabsDiv.appendChild(btn);
+
+      // add calendar container
+      const wrap = document.createElement('div');
+      wrap.id = `cal-${idx}`;
+      wrap.className = 'calendar-wrap' + (idx === 0 ? ' active' : '');
+      document.body.appendChild(wrap);
+
+      // fetch JSON then render calendar
+      fetch(file)
+        .then(res => res.json())
+        .then(data => {
+          const events = data.map(e => ({
+            id:     e.event_id,
+            title:  e.title,
+            start:  e.start_time,
+            end:    e.end_time,
+            extendedProps: {
+              location: e.location,
+              related:  e.related_entities.join(', ')
+            }
+          }));
+
+          new FullCalendar.Calendar(wrap, {
+            initialView: 'dayGridMonth',
+            height: 'auto',
+            headerToolbar: {
+              left: 'prev,next today',
+              center: 'title',
+              right: 'dayGridMonth,timeGridWeek'
+            },
+            eventTimeFormat: { hour: '2-digit', minute: '2-digit', hour12: false },
+            events,
+            eventDidMount: info => {
+              info.el.title = `${info.event.extendedProps.location}
+${info.event.extendedProps.related}`;
+            }
+          }).render();
+        });
+
+      // tab click handler
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('#tabs button').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.calendar-wrap').forEach(c => c.classList.remove('active'));
+        btn.classList.add('active');
+        wrap.classList.add('active');
+      });
+    });
+  </script>
+</body>
+</html>

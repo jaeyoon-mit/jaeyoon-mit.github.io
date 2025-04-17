@@ -1,0 +1,434 @@
+[
+  {
+    "event_id": "evt_001",
+    "title": "Morning Huddle",
+    "related_entities": ["Pediatric Team"],
+    "start_time": "2025-01-20T07:30",
+    "end_time": "2025-01-20T07:55",
+    "location": "Clinic Conference Room"
+  },
+  {
+    "event_id": "evt_002",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-01-20T08:00",
+    "end_time": "2025-01-20T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_003",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-01-21T08:00",
+    "end_time": "2025-01-21T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_004",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-01-22T08:00",
+    "end_time": "2025-01-22T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_005",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-01-23T08:00",
+    "end_time": "2025-01-23T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_006",
+    "title": "Admin Work (Remote)",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-01-24T09:00",
+    "end_time": "2025-01-24T15:00",
+    "location": "Home Office"
+  },
+  {
+    "event_id": "evt_007",
+    "title": "Emma's Chess Invitational",
+    "related_entities": ["Emma Chen"],
+    "start_time": "2025-01-25T09:00",
+    "end_time": "2025-01-25T14:00",
+    "location": "Minneapolis Convention Center"
+  },
+  {
+    "event_id": "evt_008",
+    "title": "Morning Huddle",
+    "related_entities": ["Pediatric Team"],
+    "start_time": "2025-01-27T07:30",
+    "end_time": "2025-01-27T07:55",
+    "location": "Clinic Conference Room"
+  },
+  {
+    "event_id": "evt_009",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-01-27T08:00",
+    "end_time": "2025-01-27T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_010",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-01-28T08:00",
+    "end_time": "2025-01-28T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_011",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-01-29T08:00",
+    "end_time": "2025-01-29T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_012",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-01-30T08:00",
+    "end_time": "2025-01-30T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_013",
+    "title": "Admin Work (Remote)",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-01-31T09:00",
+    "end_time": "2025-01-31T15:00",
+    "location": "Home Office"
+  },
+  {
+    "event_id": "evt_014",
+    "title": "Jason's Hockey Game",
+    "related_entities": ["Jason Chen", "Bloomington Ice Sharks"],
+    "start_time": "2025-02-02T17:00",
+    "end_time": "2025-02-02T19:30",
+    "location": "Bloomington Ice Arena"
+  },
+  {
+    "event_id": "evt_015",
+    "title": "Morning Huddle",
+    "related_entities": ["Pediatric Team"],
+    "start_time": "2025-02-03T07:30",
+    "end_time": "2025-02-03T07:55",
+    "location": "Clinic Conference Room"
+  },
+  {
+    "event_id": "evt_016",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-02-03T08:00",
+    "end_time": "2025-02-03T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_017",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-02-04T08:00",
+    "end_time": "2025-02-04T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_018",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-02-05T08:00",
+    "end_time": "2025-02-05T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_019",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-02-06T08:00",
+    "end_time": "2025-02-06T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_020",
+    "title": "Admin Work (Remote)",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-02-07T09:00",
+    "end_time": "2025-02-07T15:00",
+    "location": "Home Office"
+  },
+  {
+    "event_id": "evt_021",
+    "title": "Jason's Hockey Game",
+    "related_entities": ["Jason Chen", "Bloomington Ice Sharks"],
+    "start_time": "2025-02-09T17:00",
+    "end_time": "2025-02-09T19:30",
+    "location": "Bloomington Ice Arena"
+  },
+  {
+    "event_id": "evt_022",
+    "title": "Morning Huddle",
+    "related_entities": ["Pediatric Team"],
+    "start_time": "2025-02-10T07:30",
+    "end_time": "2025-02-10T07:55",
+    "location": "Clinic Conference Room"
+  },
+  {
+    "event_id": "evt_023",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-02-10T08:00",
+    "end_time": "2025-02-10T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_024",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-02-11T08:00",
+    "end_time": "2025-02-11T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_025",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-02-12T08:00",
+    "end_time": "2025-02-12T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_026",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-02-13T08:00",
+    "end_time": "2025-02-13T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_027",
+    "title": "Admin Work (Remote)",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-02-14T09:00",
+    "end_time": "2025-02-14T15:00",
+    "location": "Home Office"
+  },
+  {
+    "event_id": "evt_028",
+    "title": "Dental Cleaning - Marcus",
+    "related_entities": ["Dr. Patel DDS"],
+    "start_time": "2025-02-10T17:30",
+    "end_time": "2025-02-10T18:30",
+    "location": "SmileCare Dental"
+  },
+  {
+    "event_id": "evt_029",
+    "title": "Jason's Hockey Game",
+    "related_entities": ["Jason Chen", "Bloomington Ice Sharks"],
+    "start_time": "2025-02-23T17:00",
+    "end_time": "2025-02-23T19:30",
+    "location": "Bloomington Ice Arena"
+  },
+  {
+    "event_id": "evt_030",
+    "title": "Toyota Highlander Maintenance",
+    "related_entities": ["Maple Grove Toyota"],
+    "start_time": "2025-02-22T09:00",
+    "end_time": "2025-02-22T11:00",
+    "location": "Maple Grove Toyota Service"
+  },
+  {
+    "event_id": "evt_031",
+    "title": "Quality Improvement Committee",
+    "related_entities": ["Clinic Leadership"],
+    "start_time": "2025-02-19T17:30",
+    "end_time": "2025-02-19T18:30",
+    "location": "Clinic Board Room"
+  },
+  {
+    "event_id": "evt_032",
+    "title": "Parent–Teacher Conferences",
+    "related_entities": ["Jefferson High School"],
+    "start_time": "2025-03-13T18:00",
+    "end_time": "2025-03-13T20:00",
+    "location": "School Gymnasium"
+  },
+  {
+    "event_id": "evt_033",
+    "title": "Drive to North Shore Cabin",
+    "related_entities": ["Family"],
+    "start_time": "2025-03-28T15:00",
+    "end_time": "2025-03-28T19:00",
+    "location": "I-35 North"
+  },
+  {
+    "event_id": "evt_034",
+    "title": "Hike Split Rock Lighthouse Trail",
+    "related_entities": ["Family"],
+    "start_time": "2025-03-29T10:00",
+    "end_time": "2025-03-29T14:00",
+    "location": "Split Rock Lighthouse State Park"
+  },
+  {
+    "event_id": "evt_035",
+    "title": "Drive back home",
+    "related_entities": ["Family"],
+    "start_time": "2025-03-30T13:00",
+    "end_time": "2025-03-30T17:00",
+    "location": "I-35 South"
+  },
+  {
+    "event_id": "evt_036",
+    "title": "Emergency Vet Visit (Buddy)",
+    "related_entities": ["BluePearl Pet Hospital"],
+    "start_time": "2025-04-04T21:00",
+    "end_time": "2025-04-04T22:30",
+    "location": "BluePearl Pet Hospital"
+  },
+  {
+    "event_id": "evt_037",
+    "title": "Quality Improvement Committee",
+    "related_entities": ["Clinic Leadership"],
+    "start_time": "2025-04-16T17:30",
+    "end_time": "2025-04-16T18:30",
+    "location": "Clinic Board Room"
+  },
+  {
+    "event_id": "evt_038",
+    "title": "Morning Huddle",
+    "related_entities": ["Pediatric Team"],
+    "start_time": "2025-04-21T07:30",
+    "end_time": "2025-04-21T07:55",
+    "location": "Clinic Conference Room"
+  },
+  {
+    "event_id": "evt_039",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-04-21T08:00",
+    "end_time": "2025-04-21T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_040",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-04-22T08:00",
+    "end_time": "2025-04-22T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_041",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-04-23T08:00",
+    "end_time": "2025-04-23T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_042",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-04-24T08:00",
+    "end_time": "2025-04-24T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_043",
+    "title": "Admin Work (Remote)",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-04-25T09:00",
+    "end_time": "2025-04-25T15:00",
+    "location": "Home Office"
+  },
+  {
+    "event_id": "evt_044",
+    "title": "Morning Huddle",
+    "related_entities": ["Pediatric Team"],
+    "start_time": "2025-04-28T07:30",
+    "end_time": "2025-04-28T07:55",
+    "location": "Clinic Conference Room"
+  },
+  {
+    "event_id": "evt_045",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-04-28T08:00",
+    "end_time": "2025-04-28T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_046",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-04-29T08:00",
+    "end_time": "2025-04-29T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_047",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-04-30T08:00",
+    "end_time": "2025-04-30T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_048",
+    "title": "Pay Summer Cabin Deposit (Due)",
+    "related_entities": ["Voyageurs Cabins LLC"],
+    "start_time": "2025-04-30T08:00",
+    "end_time": "2025-04-30T08:30",
+    "location": "Online"
+  },
+  {
+    "event_id": "evt_049",
+    "title": "Clinic Shift",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-05-01T08:00",
+    "end_time": "2025-05-01T17:00",
+    "location": "North Lakes Pediatric Clinic"
+  },
+  {
+    "event_id": "evt_050",
+    "title": "Admin Work (Remote)",
+    "related_entities": ["North Lakes Pediatric Clinic"],
+    "start_time": "2025-05-02T09:00",
+    "end_time": "2025-05-02T15:00",
+    "location": "Home Office"
+  },
+  {
+    "event_id": "evt_051",
+    "title": "Glacier NP Road Trip Planning (Tentative)",
+    "related_entities": ["Family"],
+    "start_time": "2025-05-03T19:00",
+    "end_time": "2025-05-03T20:30",
+    "location": "Dining Room"
+  },
+  {
+    "event_id": "evt_052",
+    "title": "Annual Physical - Marcus",
+    "related_entities": ["Dr. Nguyen"],
+    "start_time": "2025-05-05T07:30",
+    "end_time": "2025-05-05T09:00",
+    "location": "Park Nicollet Clinic"
+  },
+  {
+    "event_id": "evt_053",
+    "title": "Emma SAT Practice Test",
+    "related_entities": ["Emma Chen"],
+    "start_time": "2025-05-10T08:00",
+    "end_time": "2025-05-10T12:00",
+    "location": "Jefferson HS Library"
+  },
+  {
+    "event_id": "evt_054",
+    "title": "Tentative: Order National Park Pass",
+    "related_entities": ["Self"],
+    "start_time": "2025-05-12T18:00",
+    "end_time": "2025-05-12T18:15",
+    "location": "Online"
+  }
+]

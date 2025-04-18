@@ -2,7 +2,7 @@
   {
     "event_id": "evt_001",
     "title": "Morning Huddle",
-    "related_entities": ["Pediatric Team"],
+    "related_entities": ["Laura Chen", "Benjamin Miller", "Thomas Parker"],
     "start_time": "2025-01-20T07:30",
     "end_time": "2025-01-20T07:55",
     "location": "Clinic Conference Room"
@@ -50,7 +50,7 @@
   {
     "event_id": "evt_007",
     "title": "Emma's Chess Invitational",
-    "related_entities": ["Emma Chen"],
+    "related_entities": ["Emma Choi"],
     "start_time": "2025-01-25T09:00",
     "end_time": "2025-01-25T14:00",
     "location": "Minneapolis Convention Center"
@@ -58,7 +58,7 @@
   {
     "event_id": "evt_008",
     "title": "Morning Huddle",
-    "related_entities": ["Pediatric Team"],
+    "related_entities": ["Laura Chen", "Benjamin Miller", "Thomas Parker"],
     "start_time": "2025-01-27T07:30",
     "end_time": "2025-01-27T07:55",
     "location": "Clinic Conference Room"
@@ -114,7 +114,7 @@
   {
     "event_id": "evt_015",
     "title": "Morning Huddle",
-    "related_entities": ["Pediatric Team"],
+    "related_entities": ["Laura Chen", "Benjamin Miller", "Thomas Parker"],
     "start_time": "2025-02-03T07:30",
     "end_time": "2025-02-03T07:55",
     "location": "Clinic Conference Room"
@@ -170,7 +170,7 @@
   {
     "event_id": "evt_022",
     "title": "Morning Huddle",
-    "related_entities": ["Pediatric Team"],
+    "related_entities": ["Laura Chen", "Benjamin Miller", "Thomas Parker"],
     "start_time": "2025-02-10T07:30",
     "end_time": "2025-02-10T07:55",
     "location": "Clinic Conference Room"
@@ -249,7 +249,7 @@
   },
   {
     "event_id": "evt_032",
-    "title": "Parent–Teacher Conferences",
+    "title": "Parent-Teacher Conferences",
     "related_entities": ["Jefferson High School"],
     "start_time": "2025-03-13T18:00",
     "end_time": "2025-03-13T20:00",
@@ -257,24 +257,24 @@
   },
   {
     "event_id": "evt_033",
-    "title": "Drive to North Shore Cabin",
-    "related_entities": ["Family"],
+    "title": "Family trip to North Shore Cabin",
+    "related_entities": ["Leila Choi", "Emma Choi", "Andy Choi"],
     "start_time": "2025-03-28T15:00",
     "end_time": "2025-03-28T19:00",
     "location": "I-35 North"
   },
   {
     "event_id": "evt_034",
-    "title": "Hike Split Rock Lighthouse Trail",
-    "related_entities": ["Family"],
+    "title": "Hike Split Rock Lighthouse Trail with family",
+    "related_entities": ["Leila Choi", "Emma Choi", "Andy Choi"],
     "start_time": "2025-03-29T10:00",
     "end_time": "2025-03-29T14:00",
     "location": "Split Rock Lighthouse State Park"
   },
   {
     "event_id": "evt_035",
-    "title": "Drive back home",
-    "related_entities": ["Family"],
+    "title": "Drive back home with family",
+    "related_entities": ["Leila Choi", "Emma Choi", "Andy Choi"],
     "start_time": "2025-03-30T13:00",
     "end_time": "2025-03-30T17:00",
     "location": "I-35 South"
@@ -298,7 +298,7 @@
   {
     "event_id": "evt_038",
     "title": "Morning Huddle",
-    "related_entities": ["Pediatric Team"],
+    "related_entities": ["Laura Chen", "Benjamin Miller", "Thomas Parker"],
     "start_time": "2025-04-21T07:30",
     "end_time": "2025-04-21T07:55",
     "location": "Clinic Conference Room"
@@ -346,7 +346,7 @@
   {
     "event_id": "evt_044",
     "title": "Morning Huddle",
-    "related_entities": ["Pediatric Team"],
+    "related_entities": ["Laura Chen", "Benjamin Miller", "Thomas Parker"],
     "start_time": "2025-04-28T07:30",
     "end_time": "2025-04-28T07:55",
     "location": "Clinic Conference Room"
@@ -402,7 +402,7 @@
   {
     "event_id": "evt_051",
     "title": "Glacier NP Road Trip Planning (Tentative)",
-    "related_entities": ["Family"],
+    "related_entities": ["Leila Choi", "Emma Choi", "Andy Choi"],
     "start_time": "2025-05-03T19:00",
     "end_time": "2025-05-03T20:30",
     "location": "Dining Room"
@@ -418,7 +418,7 @@
   {
     "event_id": "evt_053",
     "title": "Emma SAT Practice Test",
-    "related_entities": ["Emma Chen"],
+    "related_entities": ["Emma Choi"],
     "start_time": "2025-05-10T08:00",
     "end_time": "2025-05-10T12:00",
     "location": "Jefferson HS Library"
@@ -426,7 +426,7 @@
   {
     "event_id": "evt_054",
     "title": "Tentative: Order National Park Pass",
-    "related_entities": ["Self"],
+    "related_entities": [],
     "start_time": "2025-05-12T18:00",
     "end_time": "2025-05-12T18:15",
     "location": "Online"

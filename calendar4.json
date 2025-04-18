@@ -1,2757 +1,3949 @@
 [
   {
-    "title": "Weekly Stand-Up",
+    "event_id": "evt_001",
+    "title": "Brunch with college friends",
+    "related_entities": [
+      {
+        "name": "Liam O'Connor",
+        "relation": "friend"
+      },
+      {
+        "name": "Sophie Lee",
+        "relation": "friend"
+      },
+      {
+        "name": "Tatte Bakery & Cafe",
+        "relation": "favorite cafe"
+      }
+    ],
+    "start_time": "2025-01-18T11:00:00",
+    "end_time": "2025-01-18T12:30:00",
+    "location": "Tatte Bakery & Cafe"
+  },
+  {
+    "event_id": "evt_002",
+    "title": "Video Call with Parents",
+    "related_entities": [
+      {
+        "name": "Raj Patel",
+        "relation": "father"
+      },
+      {
+        "name": "Anika Patel",
+        "relation": "mother"
+      }
+    ],
+    "start_time": "2025-01-19T11:00:00",
+    "end_time": "2025-01-19T11:30:00",
+    "location": "Apartment - Zoom"
+  },
+  {
+    "event_id": "evt_003",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
     "start_time": "2025-01-20T09:00:00",
     "end_time": "2025-01-20T09:15:00",
-    "location": "Atlas Robotics - Zoom",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_004",
+    "title": "Sprint Planning Meeting",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_001"
-  },
-  {
-    "title": "Sprint Planning",
     "start_time": "2025-01-20T10:00:00",
     "end_time": "2025-01-20T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
+    "location": "Arcadia Robotics - Conference Room A"
+  },
+  {
+    "event_id": "evt_005",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_002"
+    "start_time": "2025-01-21T09:00:00",
+    "end_time": "2025-01-21T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "1:1 with Emily",
-    "start_time": "2025-01-22T11:00:00",
-    "end_time": "2025-01-22T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
+    "event_id": "evt_006",
+    "title": "Code Review",
     "related_entities": [
       {
-        "name": "Dr. Emily Zhao",
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-01-21T11:00:00",
+    "end_time": "2025-01-21T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_007",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-01-21T19:00:00",
+    "end_time": "2025-01-21T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_008",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-01-22T09:00:00",
+    "end_time": "2025-01-22T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_009",
+    "title": "1:1 with Emily",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
         "relation": "manager"
       }
     ],
-    "event_id": "evt_003"
+    "start_time": "2025-01-22T15:00:00",
+    "end_time": "2025-01-22T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
   },
   {
-    "title": "Ramen Night with Neha",
-    "start_time": "2025-01-22T19:30:00",
-    "end_time": "2025-01-22T21:00:00",
-    "location": "Yume Wo Katare, Porter Sq.",
+    "event_id": "evt_010",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Neha Kapoor",
-        "relation": "friend"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Yume Wo Katare, Porter Sq.",
-        "relation": "favorite restaurant"
-      }
-    ],
-    "event_id": "evt_004"
-  },
-  {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-01-23T12:00:00",
-    "end_time": "2025-01-23T13:00:00",
-    "location": "Atlas Robotics - Cafe",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_005"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-01-24T15:00:00",
-    "end_time": "2025-01-24T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_006"
+    "start_time": "2025-01-23T09:00:00",
+    "end_time": "2025-01-23T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "Sprint Retro",
-    "start_time": "2025-01-24T16:15:00",
+    "event_id": "evt_011",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-01-23T11:00:00",
+    "end_time": "2025-01-23T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_012",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-01-24T09:00:00",
+    "end_time": "2025-01-24T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_013",
+    "title": "Weekly Team Demo",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-01-24T16:00:00",
     "end_time": "2025-01-24T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
+    "location": "Arcadia Robotics - Demo Lab"
+  },
+  {
+    "event_id": "evt_014",
+    "title": "Video Call with Parents",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Raj Patel",
+        "relation": "father"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Anika Patel",
+        "relation": "mother"
+      }
+    ],
+    "start_time": "2025-01-26T11:00:00",
+    "end_time": "2025-01-26T11:30:00",
+    "location": "Apartment - Zoom"
+  },
+  {
+    "event_id": "evt_015",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_007"
-  },
-  {
-    "title": "Dinner with College Roommates",
-    "start_time": "2025-01-26T18:00:00",
-    "end_time": "2025-01-26T20:00:00",
-    "location": "Shanti Indian Cuisine, Cambridge",
-    "related_entities": [
-      {
-        "name": "Michael Tan",
-        "relation": "friend"
-      },
-      {
-        "name": "Laura Park",
-        "relation": "friend"
-      }
-    ],
-    "event_id": "evt_008"
-  },
-  {
-    "title": "Weekly Stand-Up",
     "start_time": "2025-01-27T09:00:00",
     "end_time": "2025-01-27T09:15:00",
-    "location": "Atlas Robotics - Zoom",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_016",
+    "title": "Sprint Planning Meeting",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_009"
-  },
-  {
-    "title": "Sprint Planning",
     "start_time": "2025-01-27T10:00:00",
     "end_time": "2025-01-27T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
+    "location": "Arcadia Robotics - Conference Room A"
+  },
+  {
+    "event_id": "evt_017",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_010"
+    "start_time": "2025-01-28T09:00:00",
+    "end_time": "2025-01-28T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "1:1 with Emily",
-    "start_time": "2025-01-29T11:00:00",
-    "end_time": "2025-01-29T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
+    "event_id": "evt_018",
+    "title": "Code Review",
     "related_entities": [
       {
-        "name": "Dr. Emily Zhao",
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-01-28T11:00:00",
+    "end_time": "2025-01-28T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_019",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-01-28T19:00:00",
+    "end_time": "2025-01-28T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_020",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-01-29T09:00:00",
+    "end_time": "2025-01-29T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_021",
+    "title": "1:1 with Emily",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
         "relation": "manager"
       }
     ],
-    "event_id": "evt_011"
+    "start_time": "2025-01-29T15:00:00",
+    "end_time": "2025-01-29T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
   },
   {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-01-30T12:00:00",
-    "end_time": "2025-01-30T13:00:00",
-    "location": "Atlas Robotics - Cafe",
+    "event_id": "evt_022",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_012"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-01-31T15:00:00",
-    "end_time": "2025-01-31T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_013"
+    "start_time": "2025-01-30T09:00:00",
+    "end_time": "2025-01-30T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "Sprint Retro",
-    "start_time": "2025-01-31T16:15:00",
+    "event_id": "evt_023",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-01-30T11:00:00",
+    "end_time": "2025-01-30T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_024",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-01-31T09:00:00",
+    "end_time": "2025-01-31T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_025",
+    "title": "Weekly Team Demo",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-01-31T16:00:00",
     "end_time": "2025-01-31T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
+    "location": "Arcadia Robotics - Demo Lab"
+  },
+  {
+    "event_id": "evt_026",
+    "title": "Brunch with college friends",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Liam O'Connor",
+        "relation": "friend"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Sophie Lee",
+        "relation": "friend"
+      },
+      {
+        "name": "Tatte Bakery & Cafe",
+        "relation": "favorite cafe"
+      }
+    ],
+    "start_time": "2025-02-01T11:00:00",
+    "end_time": "2025-02-01T12:30:00",
+    "location": "Tatte Bakery & Cafe"
+  },
+  {
+    "event_id": "evt_027",
+    "title": "Video Call with Parents",
+    "related_entities": [
+      {
+        "name": "Raj Patel",
+        "relation": "father"
+      },
+      {
+        "name": "Anika Patel",
+        "relation": "mother"
+      }
+    ],
+    "start_time": "2025-02-02T11:00:00",
+    "end_time": "2025-02-02T11:30:00",
+    "location": "Apartment - Zoom"
+  },
+  {
+    "event_id": "evt_028",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_014"
-  },
-  {
-    "title": "Weekly Stand-Up",
     "start_time": "2025-02-03T09:00:00",
     "end_time": "2025-02-03T09:15:00",
-    "location": "Atlas Robotics - Zoom",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_029",
+    "title": "Sprint Planning Meeting",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_015"
-  },
-  {
-    "title": "Sprint Planning",
     "start_time": "2025-02-03T10:00:00",
     "end_time": "2025-02-03T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
+    "location": "Arcadia Robotics - Conference Room A"
+  },
+  {
+    "event_id": "evt_030",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_016"
+    "start_time": "2025-02-04T09:00:00",
+    "end_time": "2025-02-04T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "1:1 with Emily",
-    "start_time": "2025-02-05T11:00:00",
-    "end_time": "2025-02-05T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
+    "event_id": "evt_031",
+    "title": "Code Review",
     "related_entities": [
       {
-        "name": "Dr. Emily Zhao",
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-04T11:00:00",
+    "end_time": "2025-02-04T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_032",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-02-04T19:00:00",
+    "end_time": "2025-02-04T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_033",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-05T09:00:00",
+    "end_time": "2025-02-05T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_034",
+    "title": "1:1 with Emily",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
         "relation": "manager"
       }
     ],
-    "event_id": "evt_017"
+    "start_time": "2025-02-05T15:00:00",
+    "end_time": "2025-02-05T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
   },
   {
-    "title": "Ramen Night with Neha",
-    "start_time": "2025-02-05T19:30:00",
-    "end_time": "2025-02-05T21:00:00",
-    "location": "Totto Ramen, Seaport",
+    "event_id": "evt_035",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Neha Kapoor",
-        "relation": "friend"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Totto Ramen, Seaport",
-        "relation": "favorite restaurant"
-      }
-    ],
-    "event_id": "evt_018"
-  },
-  {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-02-06T12:00:00",
-    "end_time": "2025-02-06T13:00:00",
-    "location": "Atlas Robotics - Cafe",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_019"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-02-07T15:00:00",
-    "end_time": "2025-02-07T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_020"
+    "start_time": "2025-02-06T09:00:00",
+    "end_time": "2025-02-06T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "Sprint Retro",
-    "start_time": "2025-02-07T16:15:00",
+    "event_id": "evt_036",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-06T11:00:00",
+    "end_time": "2025-02-06T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_037",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-07T09:00:00",
+    "end_time": "2025-02-07T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_038",
+    "title": "Weekly Team Demo",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-07T16:00:00",
     "end_time": "2025-02-07T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
+    "location": "Arcadia Robotics - Demo Lab"
+  },
+  {
+    "event_id": "evt_039",
+    "title": "Video Call with Parents",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Raj Patel",
+        "relation": "father"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Anika Patel",
+        "relation": "mother"
+      }
+    ],
+    "start_time": "2025-02-09T11:00:00",
+    "end_time": "2025-02-09T11:30:00",
+    "location": "Apartment - Zoom"
+  },
+  {
+    "event_id": "evt_040",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_021"
-  },
-  {
-    "title": "Weekly Stand-Up",
     "start_time": "2025-02-10T09:00:00",
     "end_time": "2025-02-10T09:15:00",
-    "location": "Atlas Robotics - Zoom",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_041",
+    "title": "Sprint Planning Meeting",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_022"
-  },
-  {
-    "title": "Sprint Planning",
     "start_time": "2025-02-10T10:00:00",
     "end_time": "2025-02-10T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
+    "location": "Arcadia Robotics - Conference Room A"
+  },
+  {
+    "event_id": "evt_042",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_023"
+    "start_time": "2025-02-11T09:00:00",
+    "end_time": "2025-02-11T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "1:1 with Emily",
-    "start_time": "2025-02-12T11:00:00",
-    "end_time": "2025-02-12T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
+    "event_id": "evt_043",
+    "title": "Code Review",
     "related_entities": [
       {
-        "name": "Dr. Emily Zhao",
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-11T11:00:00",
+    "end_time": "2025-02-11T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_044",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-02-11T19:00:00",
+    "end_time": "2025-02-11T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_045",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-12T09:00:00",
+    "end_time": "2025-02-12T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_046",
+    "title": "1:1 with Emily",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
         "relation": "manager"
       }
     ],
-    "event_id": "evt_024"
+    "start_time": "2025-02-12T15:00:00",
+    "end_time": "2025-02-12T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
   },
   {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-02-13T12:00:00",
-    "end_time": "2025-02-13T13:00:00",
-    "location": "Atlas Robotics - Cafe",
+    "event_id": "evt_047",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_025"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-02-14T15:00:00",
-    "end_time": "2025-02-14T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_026"
+    "start_time": "2025-02-13T09:00:00",
+    "end_time": "2025-02-13T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "Sprint Retro",
-    "start_time": "2025-02-14T16:15:00",
+    "event_id": "evt_048",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-13T11:00:00",
+    "end_time": "2025-02-13T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_049",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-14T09:00:00",
+    "end_time": "2025-02-14T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_050",
+    "title": "Weekly Team Demo",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-14T16:00:00",
     "end_time": "2025-02-14T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_027"
+    "location": "Arcadia Robotics - Demo Lab"
   },
   {
-    "title": "Valentine's Karaoke Night",
-    "start_time": "2025-02-14T20:00:00",
-    "end_time": "2025-02-14T22:00:00",
-    "location": "K BOX, Allston",
+    "event_id": "evt_051",
+    "title": "Brunch with college friends",
     "related_entities": [
       {
-        "name": "Neha Kapoor",
+        "name": "Liam O'Connor",
         "relation": "friend"
+      },
+      {
+        "name": "Sophie Lee",
+        "relation": "friend"
+      },
+      {
+        "name": "Tatte Bakery & Cafe",
+        "relation": "favorite cafe"
       }
     ],
-    "event_id": "evt_028"
+    "start_time": "2025-02-15T11:00:00",
+    "end_time": "2025-02-15T12:30:00",
+    "location": "Tatte Bakery & Cafe"
   },
   {
-    "title": "Train BOS - NYC",
-    "start_time": "2025-02-15T07:30:00",
-    "end_time": "2025-02-15T09:00:00",
-    "location": "South Station",
+    "event_id": "evt_052",
+    "title": "Video Call with Parents",
     "related_entities": [
       {
-        "name": "Amtrak",
-        "relation": "transport"
+        "name": "Raj Patel",
+        "relation": "father"
+      },
+      {
+        "name": "Anika Patel",
+        "relation": "mother"
       }
     ],
-    "event_id": "evt_029"
+    "start_time": "2025-02-16T11:00:00",
+    "end_time": "2025-02-16T11:30:00",
+    "location": "Apartment - Zoom"
   },
   {
-    "title": "Weekly Stand-Up",
+    "event_id": "evt_053",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
     "start_time": "2025-02-17T09:00:00",
     "end_time": "2025-02-17T09:15:00",
-    "location": "Atlas Robotics - Zoom",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_054",
+    "title": "Sprint Planning Meeting",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_030"
-  },
-  {
-    "title": "Sprint Planning",
     "start_time": "2025-02-17T10:00:00",
     "end_time": "2025-02-17T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
+    "location": "Arcadia Robotics - Conference Room A"
+  },
+  {
+    "event_id": "evt_055",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_031"
+    "start_time": "2025-02-18T09:00:00",
+    "end_time": "2025-02-18T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "Train NYC - BOS",
-    "start_time": "2025-02-17T18:00:00",
-    "end_time": "2025-02-17T19:30:00",
-    "location": "Penn Station",
+    "event_id": "evt_056",
+    "title": "Code Review",
     "related_entities": [
       {
-        "name": "Amtrak",
-        "relation": "transport"
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
       }
     ],
-    "event_id": "evt_032"
+    "start_time": "2025-02-18T11:00:00",
+    "end_time": "2025-02-18T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
   },
   {
+    "event_id": "evt_057",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-02-18T19:00:00",
+    "end_time": "2025-02-18T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_058",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-19T09:00:00",
+    "end_time": "2025-02-19T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_059",
     "title": "1:1 with Emily",
-    "start_time": "2025-02-19T11:00:00",
-    "end_time": "2025-02-19T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
     "related_entities": [
       {
-        "name": "Dr. Emily Zhao",
+        "name": "Emily Chen",
         "relation": "manager"
       }
     ],
-    "event_id": "evt_033"
+    "start_time": "2025-02-19T15:00:00",
+    "end_time": "2025-02-19T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
   },
   {
-    "title": "Ramen Night with Lisa",
-    "start_time": "2025-02-19T19:30:00",
-    "end_time": "2025-02-19T21:00:00",
-    "location": "Totto Ramen, Seaport",
+    "event_id": "evt_060",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Lisa Chen",
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-20T09:00:00",
+    "end_time": "2025-02-20T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_061",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-20T11:00:00",
+    "end_time": "2025-02-20T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_062",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-21T09:00:00",
+    "end_time": "2025-02-21T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_063",
+    "title": "Weekly Team Demo",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-21T16:00:00",
+    "end_time": "2025-02-21T17:00:00",
+    "location": "Arcadia Robotics - Demo Lab"
+  },
+  {
+    "event_id": "evt_064",
+    "title": "Video Call with Parents",
+    "related_entities": [
+      {
+        "name": "Raj Patel",
+        "relation": "father"
+      },
+      {
+        "name": "Anika Patel",
+        "relation": "mother"
+      }
+    ],
+    "start_time": "2025-02-23T11:00:00",
+    "end_time": "2025-02-23T11:30:00",
+    "location": "Apartment - Zoom"
+  },
+  {
+    "event_id": "evt_065",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-24T09:00:00",
+    "end_time": "2025-02-24T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_066",
+    "title": "Sprint Planning Meeting",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-24T10:00:00",
+    "end_time": "2025-02-24T11:00:00",
+    "location": "Arcadia Robotics - Conference Room A"
+  },
+  {
+    "event_id": "evt_067",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-25T09:00:00",
+    "end_time": "2025-02-25T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_068",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-25T11:00:00",
+    "end_time": "2025-02-25T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_069",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-02-25T19:00:00",
+    "end_time": "2025-02-25T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_070",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-26T09:00:00",
+    "end_time": "2025-02-26T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_071",
+    "title": "1:1 with Emily",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      }
+    ],
+    "start_time": "2025-02-26T15:00:00",
+    "end_time": "2025-02-26T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
+  },
+  {
+    "event_id": "evt_072",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-27T09:00:00",
+    "end_time": "2025-02-27T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_073",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-27T11:00:00",
+    "end_time": "2025-02-27T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_074",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-28T09:00:00",
+    "end_time": "2025-02-28T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_075",
+    "title": "Weekly Team Demo",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-02-28T16:00:00",
+    "end_time": "2025-02-28T17:00:00",
+    "location": "Arcadia Robotics - Demo Lab"
+  },
+  {
+    "event_id": "evt_076",
+    "title": "Brunch with college friends",
+    "related_entities": [
+      {
+        "name": "Liam O'Connor",
         "relation": "friend"
       },
       {
-        "name": "Totto Ramen, Seaport",
-        "relation": "favorite restaurant"
+        "name": "Sophie Lee",
+        "relation": "friend"
+      },
+      {
+        "name": "Tatte Bakery & Cafe",
+        "relation": "favorite cafe"
       }
     ],
-    "event_id": "evt_034"
+    "start_time": "2025-03-01T11:00:00",
+    "end_time": "2025-03-01T12:30:00",
+    "location": "Tatte Bakery & Cafe"
   },
   {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-02-20T12:00:00",
-    "end_time": "2025-02-20T13:00:00",
-    "location": "Atlas Robotics - Cafe",
+    "event_id": "evt_077",
+    "title": "Video Call with Parents",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Raj Patel",
+        "relation": "father"
+      },
+      {
+        "name": "Anika Patel",
+        "relation": "mother"
       }
     ],
-    "event_id": "evt_035"
+    "start_time": "2025-03-02T11:00:00",
+    "end_time": "2025-03-02T11:30:00",
+    "location": "Apartment - Zoom"
   },
   {
-    "title": "Sprint Demo",
-    "start_time": "2025-02-21T15:00:00",
-    "end_time": "2025-02-21T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
+    "event_id": "evt_078",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_036"
-  },
-  {
-    "title": "Sprint Retro",
-    "start_time": "2025-02-21T16:15:00",
-    "end_time": "2025-02-21T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_037"
+    "start_time": "2025-03-03T09:00:00",
+    "end_time": "2025-03-03T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "Weekly Stand-Up",
-    "start_time": "2025-02-24T09:00:00",
-    "end_time": "2025-02-24T09:15:00",
-    "location": "Atlas Robotics - Zoom",
+    "event_id": "evt_079",
+    "title": "Sprint Planning Meeting",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_038"
+    "start_time": "2025-03-03T10:00:00",
+    "end_time": "2025-03-03T11:00:00",
+    "location": "Arcadia Robotics - Conference Room A"
   },
   {
-    "title": "Sprint Planning",
-    "start_time": "2025-02-24T10:00:00",
-    "end_time": "2025-02-24T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
+    "event_id": "evt_080",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_039"
+    "start_time": "2025-03-04T09:00:00",
+    "end_time": "2025-03-04T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "Dental Cleaning - Jordan",
-    "start_time": "2025-02-25T08:00:00",
-    "end_time": "2025-02-25T09:00:00",
-    "location": "Back Bay Dental",
+    "event_id": "evt_081",
+    "title": "Code Review",
     "related_entities": [
       {
-        "name": "Dr. Robert Hayes",
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-04T11:00:00",
+    "end_time": "2025-03-04T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_082",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-03-04T19:00:00",
+    "end_time": "2025-03-04T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_083",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-05T09:00:00",
+    "end_time": "2025-03-05T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_084",
+    "title": "1:1 with Emily",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      }
+    ],
+    "start_time": "2025-03-05T15:00:00",
+    "end_time": "2025-03-05T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
+  },
+  {
+    "event_id": "evt_085",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-06T09:00:00",
+    "end_time": "2025-03-06T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_086",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-06T11:00:00",
+    "end_time": "2025-03-06T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_087",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-07T09:00:00",
+    "end_time": "2025-03-07T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_088",
+    "title": "Weekly Team Demo",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-07T16:00:00",
+    "end_time": "2025-03-07T17:00:00",
+    "location": "Arcadia Robotics - Demo Lab"
+  },
+  {
+    "event_id": "evt_089",
+    "title": "Video Call with Parents",
+    "related_entities": [
+      {
+        "name": "Raj Patel",
+        "relation": "father"
+      },
+      {
+        "name": "Anika Patel",
+        "relation": "mother"
+      }
+    ],
+    "start_time": "2025-03-09T11:00:00",
+    "end_time": "2025-03-09T11:30:00",
+    "location": "Apartment - Zoom"
+  },
+  {
+    "event_id": "evt_090",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-10T09:00:00",
+    "end_time": "2025-03-10T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_091",
+    "title": "Sprint Planning Meeting",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-10T10:00:00",
+    "end_time": "2025-03-10T11:00:00",
+    "location": "Arcadia Robotics - Conference Room A"
+  },
+  {
+    "event_id": "evt_092",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-11T09:00:00",
+    "end_time": "2025-03-11T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_093",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-11T11:00:00",
+    "end_time": "2025-03-11T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_094",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-03-11T19:00:00",
+    "end_time": "2025-03-11T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_095",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-12T09:00:00",
+    "end_time": "2025-03-12T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_096",
+    "title": "1:1 with Emily",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      }
+    ],
+    "start_time": "2025-03-12T15:00:00",
+    "end_time": "2025-03-12T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
+  },
+  {
+    "event_id": "evt_097",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-13T09:00:00",
+    "end_time": "2025-03-13T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_098",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-13T11:00:00",
+    "end_time": "2025-03-13T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_099",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-14T09:00:00",
+    "end_time": "2025-03-14T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_100",
+    "title": "Weekly Team Demo",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-14T16:00:00",
+    "end_time": "2025-03-14T17:00:00",
+    "location": "Arcadia Robotics - Demo Lab"
+  },
+  {
+    "event_id": "evt_101",
+    "title": "Brunch with college friends",
+    "related_entities": [
+      {
+        "name": "Liam O'Connor",
+        "relation": "friend"
+      },
+      {
+        "name": "Sophie Lee",
+        "relation": "friend"
+      },
+      {
+        "name": "Tatte Bakery & Cafe",
+        "relation": "favorite cafe"
+      }
+    ],
+    "start_time": "2025-03-15T11:00:00",
+    "end_time": "2025-03-15T12:30:00",
+    "location": "Tatte Bakery & Cafe"
+  },
+  {
+    "event_id": "evt_102",
+    "title": "Video Call with Parents",
+    "related_entities": [
+      {
+        "name": "Raj Patel",
+        "relation": "father"
+      },
+      {
+        "name": "Anika Patel",
+        "relation": "mother"
+      }
+    ],
+    "start_time": "2025-03-16T11:00:00",
+    "end_time": "2025-03-16T11:30:00",
+    "location": "Apartment - Zoom"
+  },
+  {
+    "event_id": "evt_103",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-17T09:00:00",
+    "end_time": "2025-03-17T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_104",
+    "title": "Sprint Planning Meeting",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-17T10:00:00",
+    "end_time": "2025-03-17T11:00:00",
+    "location": "Arcadia Robotics - Conference Room A"
+  },
+  {
+    "event_id": "evt_105",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-18T09:00:00",
+    "end_time": "2025-03-18T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_106",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-18T11:00:00",
+    "end_time": "2025-03-18T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_107",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-03-18T19:00:00",
+    "end_time": "2025-03-18T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_108",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-19T09:00:00",
+    "end_time": "2025-03-19T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_109",
+    "title": "1:1 with Emily",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      }
+    ],
+    "start_time": "2025-03-19T15:00:00",
+    "end_time": "2025-03-19T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
+  },
+  {
+    "event_id": "evt_110",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-20T09:00:00",
+    "end_time": "2025-03-20T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_111",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-20T11:00:00",
+    "end_time": "2025-03-20T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_112",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-21T09:00:00",
+    "end_time": "2025-03-21T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_113",
+    "title": "Weekly Team Demo",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-21T16:00:00",
+    "end_time": "2025-03-21T17:00:00",
+    "location": "Arcadia Robotics - Demo Lab"
+  },
+  {
+    "event_id": "evt_114",
+    "title": "Video Call with Parents",
+    "related_entities": [
+      {
+        "name": "Raj Patel",
+        "relation": "father"
+      },
+      {
+        "name": "Anika Patel",
+        "relation": "mother"
+      }
+    ],
+    "start_time": "2025-03-23T11:00:00",
+    "end_time": "2025-03-23T11:30:00",
+    "location": "Apartment - Zoom"
+  },
+  {
+    "event_id": "evt_115",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-24T09:00:00",
+    "end_time": "2025-03-24T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_116",
+    "title": "Sprint Planning Meeting",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-24T10:00:00",
+    "end_time": "2025-03-24T11:00:00",
+    "location": "Arcadia Robotics - Conference Room A"
+  },
+  {
+    "event_id": "evt_117",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-25T09:00:00",
+    "end_time": "2025-03-25T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_118",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-25T11:00:00",
+    "end_time": "2025-03-25T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_119",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-03-25T19:00:00",
+    "end_time": "2025-03-25T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_120",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-26T09:00:00",
+    "end_time": "2025-03-26T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_121",
+    "title": "1:1 with Emily",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      }
+    ],
+    "start_time": "2025-03-26T15:00:00",
+    "end_time": "2025-03-26T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
+  },
+  {
+    "event_id": "evt_122",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-27T09:00:00",
+    "end_time": "2025-03-27T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_123",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-27T11:00:00",
+    "end_time": "2025-03-27T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_124",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-28T09:00:00",
+    "end_time": "2025-03-28T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_125",
+    "title": "Weekly Team Demo",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-28T16:00:00",
+    "end_time": "2025-03-28T17:00:00",
+    "location": "Arcadia Robotics - Demo Lab"
+  },
+  {
+    "event_id": "evt_126",
+    "title": "Brunch with college friends",
+    "related_entities": [
+      {
+        "name": "Liam O'Connor",
+        "relation": "friend"
+      },
+      {
+        "name": "Sophie Lee",
+        "relation": "friend"
+      },
+      {
+        "name": "Tatte Bakery & Cafe",
+        "relation": "favorite cafe"
+      }
+    ],
+    "start_time": "2025-03-29T11:00:00",
+    "end_time": "2025-03-29T12:30:00",
+    "location": "Tatte Bakery & Cafe"
+  },
+  {
+    "event_id": "evt_127",
+    "title": "Video Call with Parents",
+    "related_entities": [
+      {
+        "name": "Raj Patel",
+        "relation": "father"
+      },
+      {
+        "name": "Anika Patel",
+        "relation": "mother"
+      }
+    ],
+    "start_time": "2025-03-30T11:00:00",
+    "end_time": "2025-03-30T11:30:00",
+    "location": "Apartment - Zoom"
+  },
+  {
+    "event_id": "evt_128",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-31T09:00:00",
+    "end_time": "2025-03-31T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_129",
+    "title": "Sprint Planning Meeting",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-03-31T10:00:00",
+    "end_time": "2025-03-31T11:00:00",
+    "location": "Arcadia Robotics - Conference Room A"
+  },
+  {
+    "event_id": "evt_130",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-01T09:00:00",
+    "end_time": "2025-04-01T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_131",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-01T11:00:00",
+    "end_time": "2025-04-01T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_132",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-04-01T19:00:00",
+    "end_time": "2025-04-01T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_133",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-02T09:00:00",
+    "end_time": "2025-04-02T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_134",
+    "title": "1:1 with Emily",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      }
+    ],
+    "start_time": "2025-04-02T15:00:00",
+    "end_time": "2025-04-02T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
+  },
+  {
+    "event_id": "evt_135",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-03T09:00:00",
+    "end_time": "2025-04-03T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_136",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-03T11:00:00",
+    "end_time": "2025-04-03T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_137",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-04T09:00:00",
+    "end_time": "2025-04-04T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_138",
+    "title": "Weekly Team Demo",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-04T16:00:00",
+    "end_time": "2025-04-04T17:00:00",
+    "location": "Arcadia Robotics - Demo Lab"
+  },
+  {
+    "event_id": "evt_139",
+    "title": "Brunch with college friends",
+    "related_entities": [
+      {
+        "name": "Liam O'Connor",
+        "relation": "friend"
+      },
+      {
+        "name": "Sophie Lee",
+        "relation": "friend"
+      },
+      {
+        "name": "Tatte Bakery & Cafe",
+        "relation": "favorite cafe"
+      }
+    ],
+    "start_time": "2025-04-05T11:00:00",
+    "end_time": "2025-04-05T12:30:00",
+    "location": "Tatte Bakery & Cafe"
+  },
+  {
+    "event_id": "evt_140",
+    "title": "Video Call with Parents",
+    "related_entities": [
+      {
+        "name": "Raj Patel",
+        "relation": "father"
+      },
+      {
+        "name": "Anika Patel",
+        "relation": "mother"
+      }
+    ],
+    "start_time": "2025-04-06T11:00:00",
+    "end_time": "2025-04-06T11:30:00",
+    "location": "Apartment - Zoom"
+  },
+  {
+    "event_id": "evt_141",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-07T09:00:00",
+    "end_time": "2025-04-07T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_142",
+    "title": "Sprint Planning Meeting",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-07T10:00:00",
+    "end_time": "2025-04-07T11:00:00",
+    "location": "Arcadia Robotics - Conference Room A"
+  },
+  {
+    "event_id": "evt_143",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-08T09:00:00",
+    "end_time": "2025-04-08T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_144",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-08T11:00:00",
+    "end_time": "2025-04-08T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_145",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-04-08T19:00:00",
+    "end_time": "2025-04-08T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_146",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-09T09:00:00",
+    "end_time": "2025-04-09T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_147",
+    "title": "1:1 with Emily",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      }
+    ],
+    "start_time": "2025-04-09T15:00:00",
+    "end_time": "2025-04-09T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
+  },
+  {
+    "event_id": "evt_148",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-10T09:00:00",
+    "end_time": "2025-04-10T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_149",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-10T11:00:00",
+    "end_time": "2025-04-10T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_150",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-11T09:00:00",
+    "end_time": "2025-04-11T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_151",
+    "title": "Weekly Team Demo",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-11T16:00:00",
+    "end_time": "2025-04-11T17:00:00",
+    "location": "Arcadia Robotics - Demo Lab"
+  },
+  {
+    "event_id": "evt_152",
+    "title": "Video Call with Parents",
+    "related_entities": [
+      {
+        "name": "Raj Patel",
+        "relation": "father"
+      },
+      {
+        "name": "Anika Patel",
+        "relation": "mother"
+      }
+    ],
+    "start_time": "2025-04-13T11:00:00",
+    "end_time": "2025-04-13T11:30:00",
+    "location": "Apartment - Zoom"
+  },
+  {
+    "event_id": "evt_153",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-14T09:00:00",
+    "end_time": "2025-04-14T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_154",
+    "title": "Sprint Planning Meeting",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-14T10:00:00",
+    "end_time": "2025-04-14T11:00:00",
+    "location": "Arcadia Robotics - Conference Room A"
+  },
+  {
+    "event_id": "evt_155",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-15T09:00:00",
+    "end_time": "2025-04-15T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_156",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-15T11:00:00",
+    "end_time": "2025-04-15T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_157",
+    "title": "Japanese Conversation Class",
+    "related_entities": [
+      {
+        "name": "Yuki Sato",
+        "relation": "language tutor"
+      }
+    ],
+    "start_time": "2025-04-15T19:00:00",
+    "end_time": "2025-04-15T20:00:00",
+    "location": "Downtown Boston Language Center"
+  },
+  {
+    "event_id": "evt_158",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-16T09:00:00",
+    "end_time": "2025-04-16T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_159",
+    "title": "1:1 with Emily",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      }
+    ],
+    "start_time": "2025-04-16T15:00:00",
+    "end_time": "2025-04-16T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
+  },
+  {
+    "event_id": "evt_160",
+    "title": "Daily Stand-up",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
+      },
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-17T09:00:00",
+    "end_time": "2025-04-17T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_161",
+    "title": "Code Review",
+    "related_entities": [
+      {
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "start_time": "2025-04-17T11:00:00",
+    "end_time": "2025-04-17T12:00:00",
+    "location": "Arcadia Robotics - GitHub"
+  },
+  {
+    "event_id": "evt_162",
+    "title": "24-Hour Hackathon",
+    "related_entities": [
+      {
+        "name": "MIT Hackathon",
+        "relation": "event organizer"
+      }
+    ],
+    "start_time": "2025-01-25T10:00:00",
+    "end_time": "2025-01-26T10:00:00",
+    "location": "MIT Media Lab"
+  },
+  {
+    "event_id": "evt_163",
+    "title": "Drive to Mount Snow",
+    "related_entities": [
+      {
+        "name": "Evan Brooks",
+        "relation": "friend"
+      },
+      {
+        "name": "Mount Snow Resort",
+        "relation": "ski resort"
+      }
+    ],
+    "start_time": "2025-02-08T06:00:00",
+    "end_time": "2025-02-08T10:00:00",
+    "location": "Boston - Vermont"
+  },
+  {
+    "event_id": "evt_164",
+    "title": "Ski Day",
+    "related_entities": [
+      {
+        "name": "Evan Brooks",
+        "relation": "friend"
+      },
+      {
+        "name": "Mount Snow Resort",
+        "relation": "ski resort"
+      }
+    ],
+    "start_time": "2025-02-08T10:30:00",
+    "end_time": "2025-02-08T17:00:00",
+    "location": "Mount Snow Resort"
+  },
+  {
+    "event_id": "evt_165",
+    "title": "Return to Boston",
+    "related_entities": [
+      {
+        "name": "Evan Brooks",
+        "relation": "friend"
+      }
+    ],
+    "start_time": "2025-02-09T08:00:00",
+    "end_time": "2025-02-09T14:00:00",
+    "location": "Vermont - Boston"
+  },
+  {
+    "event_id": "evt_166",
+    "title": "Car Maintenance",
+    "related_entities": [
+      {
+        "name": "Allston Auto Repair",
+        "relation": "auto service"
+      }
+    ],
+    "start_time": "2025-02-12T08:00:00",
+    "end_time": "2025-02-12T10:00:00",
+    "location": "Allston Auto Repair"
+  },
+  {
+    "event_id": "evt_167",
+    "title": "Haircut with Mike",
+    "related_entities": [
+      {
+        "name": "Clip Joint Barbershop",
+        "relation": "barbershop"
+      }
+    ],
+    "start_time": "2025-02-19T17:30:00",
+    "end_time": "2025-02-19T18:00:00",
+    "location": "Clip Joint Barbershop"
+  },
+  {
+    "event_id": "evt_168",
+    "title": "Dental Check-up",
+    "related_entities": [
+      {
+        "name": "Dr. Laura Chan",
         "relation": "dentist"
       }
     ],
-    "event_id": "evt_040"
+    "start_time": "2025-03-03T08:30:00",
+    "end_time": "2025-03-03T09:30:00",
+    "location": "Dr. Laura Chan"
   },
   {
-    "title": "1:1 with Emily",
-    "start_time": "2025-02-26T11:00:00",
-    "end_time": "2025-02-26T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
+    "event_id": "evt_169",
+    "title": "Annual Physical",
     "related_entities": [
       {
-        "name": "Dr. Emily Zhao",
+        "name": "Dr. Michael Rios",
+        "relation": "primary care physician"
+      }
+    ],
+    "start_time": "2025-03-10T16:00:00",
+    "end_time": "2025-03-10T16:30:00",
+    "location": "Mass General Hospital"
+  },
+  {
+    "event_id": "evt_170",
+    "title": "Amtrak to NYC",
+    "related_entities": [
+      {
+        "name": "Amtrak",
+        "relation": "train"
+      }
+    ],
+    "start_time": "2025-03-15T07:00:00",
+    "end_time": "2025-03-15T08:30:00",
+    "location": "South Station"
+  },
+  {
+    "event_id": "evt_171",
+    "title": "Explore NYC tech meetups",
+    "related_entities": [
+      {
+        "name": "Brooklyn Tech Collective",
+        "relation": "event organizer"
+      }
+    ],
+    "start_time": "2025-03-15T13:00:00",
+    "end_time": "2025-03-15T23:00:00",
+    "location": "Brooklyn, NY"
+  },
+  {
+    "event_id": "evt_172",
+    "title": "Check-out & coffee",
+    "related_entities": [
+      {
+        "name": "Blue Bottle Coffee",
+        "relation": "coffee shop"
+      }
+    ],
+    "start_time": "2025-03-16T10:00:00",
+    "end_time": "2025-03-16T11:00:00",
+    "location": "Blue Bottle Coffee"
+  },
+  {
+    "event_id": "evt_173",
+    "title": "Train back to Boston",
+    "related_entities": [
+      {
+        "name": "Amtrak",
+        "relation": "train"
+      }
+    ],
+    "start_time": "2025-03-16T12:00:00",
+    "end_time": "2025-03-16T15:30:00",
+    "location": "NY Penn Station"
+  },
+  {
+    "event_id": "evt_174",
+    "title": "Company Off-site Workshop",
+    "related_entities": [
+      {
+        "name": "Arcadia Robotics",
+        "relation": "employer"
+      },
+      {
+        "name": "Emily Chen",
         "relation": "manager"
-      }
-    ],
-    "event_id": "evt_041"
-  },
-  {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-02-27T12:00:00",
-    "end_time": "2025-02-27T13:00:00",
-    "location": "Atlas Robotics - Cafe",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_042"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-02-28T15:00:00",
-    "end_time": "2025-02-28T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_043"
+    "start_time": "2025-04-04T09:00:00",
+    "end_time": "2025-04-04T18:00:00",
+    "location": "Seaport Innovation Center"
   },
   {
-    "title": "Sprint Retro",
-    "start_time": "2025-02-28T16:15:00",
-    "end_time": "2025-02-28T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
+    "event_id": "evt_175",
+    "title": "Dinner at Santouka",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_044"
-  },
-  {
-    "title": "Code Freeze - Release 1.2",
-    "start_time": "2025-02-28T17:00:00",
-    "end_time": "2025-02-28T17:30:00",
-    "location": "Atlas Robotics - HQ",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_045"
-  },
-  {
-    "title": "Weekly Stand-Up",
-    "start_time": "2025-03-03T09:00:00",
-    "end_time": "2025-03-03T09:15:00",
-    "location": "Atlas Robotics - Zoom",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_046"
-  },
-  {
-    "title": "Sprint Planning",
-    "start_time": "2025-03-03T10:00:00",
-    "end_time": "2025-03-03T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_047"
-  },
-  {
-    "title": "Cancelled: Lunch with Mentor",
-    "start_time": "2025-03-03T12:30:00",
-    "end_time": "2025-03-03T13:30:00",
-    "location": "Clover Food Lab, Central Sq.",
-    "related_entities": [
-      {
-        "name": "Rajiv Narayan",
-        "relation": "mentor"
-      }
-    ],
-    "event_id": "evt_048"
-  },
-  {
-    "title": "1:1 with Emily",
-    "start_time": "2025-03-05T11:00:00",
-    "end_time": "2025-03-05T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
-    "related_entities": [
-      {
-        "name": "Dr. Emily Zhao",
-        "relation": "manager"
-      }
-    ],
-    "event_id": "evt_049"
-  },
-  {
-    "title": "Ramen Night with Tommy",
-    "start_time": "2025-03-05T19:30:00",
-    "end_time": "2025-03-05T21:00:00",
-    "location": "Santouka Ramen, Back Bay",
-    "related_entities": [
-      {
-        "name": "Tommy Nguyen",
+        "name": "Kevin Zhou",
         "relation": "friend"
       },
       {
-        "name": "Santouka Ramen, Back Bay",
+        "name": "Santouka Ramen",
         "relation": "favorite restaurant"
       }
     ],
-    "event_id": "evt_050"
+    "start_time": "2025-04-12T18:00:00",
+    "end_time": "2025-04-12T20:00:00",
+    "location": "Santouka Ramen"
   },
   {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-03-06T12:00:00",
-    "end_time": "2025-03-06T13:00:00",
-    "location": "Atlas Robotics - Cafe",
+    "event_id": "evt_176",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_051"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-03-07T15:00:00",
-    "end_time": "2025-03-07T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_052"
-  },
-  {
-    "title": "Sprint Retro",
-    "start_time": "2025-03-07T16:15:00",
-    "end_time": "2025-03-07T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_053"
-  },
-  {
-    "title": "Weekly Stand-Up",
-    "start_time": "2025-03-10T09:00:00",
-    "end_time": "2025-03-10T09:15:00",
-    "location": "Atlas Robotics - Zoom",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_054"
-  },
-  {
-    "title": "Sprint Planning",
-    "start_time": "2025-03-10T10:00:00",
-    "end_time": "2025-03-10T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_055"
-  },
-  {
-    "title": "Eye Exam",
-    "start_time": "2025-03-10T17:30:00",
-    "end_time": "2025-03-10T18:30:00",
-    "location": "Boston Vision",
-    "related_entities": [
-      {
-        "name": "Boston Vision",
-        "relation": "optometrist"
-      }
-    ],
-    "event_id": "evt_056"
-  },
-  {
-    "title": "1:1 with Emily",
-    "start_time": "2025-03-12T11:00:00",
-    "end_time": "2025-03-12T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
-    "related_entities": [
-      {
-        "name": "Dr. Emily Zhao",
+        "name": "Emily Chen",
         "relation": "manager"
-      }
-    ],
-    "event_id": "evt_057"
-  },
-  {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-03-13T12:00:00",
-    "end_time": "2025-03-13T13:00:00",
-    "location": "Atlas Robotics - Cafe",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_058"
-  },
-  {
-    "title": "Release 1.2 Go-Live",
-    "start_time": "2025-03-14T10:00:00",
-    "end_time": "2025-03-14T10:30:00",
-    "location": "Atlas Robotics - HQ",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_059"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-03-14T15:00:00",
-    "end_time": "2025-03-14T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_060"
+    "start_time": "2025-04-18T09:00:00",
+    "end_time": "2025-04-18T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "Sprint Retro",
-    "start_time": "2025-03-14T16:15:00",
-    "end_time": "2025-03-14T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
+    "event_id": "evt_177",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_061"
-  },
-  {
-    "title": "Weekly Stand-Up",
-    "start_time": "2025-03-17T09:00:00",
-    "end_time": "2025-03-17T09:15:00",
-    "location": "Atlas Robotics - Zoom",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_062"
-  },
-  {
-    "title": "Sprint Planning",
-    "start_time": "2025-03-17T10:00:00",
-    "end_time": "2025-03-17T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_063"
-  },
-  {
-    "title": "1:1 with Emily",
-    "start_time": "2025-03-19T11:00:00",
-    "end_time": "2025-03-19T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
-    "related_entities": [
-      {
-        "name": "Dr. Emily Zhao",
+        "name": "Emily Chen",
         "relation": "manager"
-      }
-    ],
-    "event_id": "evt_064"
-  },
-  {
-    "title": "Ramen Night with Lisa",
-    "start_time": "2025-03-19T19:30:00",
-    "end_time": "2025-03-19T21:00:00",
-    "location": "Yume Wo Katare, Porter Sq.",
-    "related_entities": [
-      {
-        "name": "Lisa Chen",
-        "relation": "friend"
       },
       {
-        "name": "Yume Wo Katare, Porter Sq.",
-        "relation": "favorite restaurant"
-      }
-    ],
-    "event_id": "evt_065"
-  },
-  {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-03-20T12:00:00",
-    "end_time": "2025-03-20T13:00:00",
-    "location": "Atlas Robotics - Cafe",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_066"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-03-21T15:00:00",
-    "end_time": "2025-03-21T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_067"
-  },
-  {
-    "title": "Sprint Retro",
-    "start_time": "2025-03-21T16:15:00",
-    "end_time": "2025-03-21T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_068"
-  },
-  {
-    "title": "Weekly Stand-Up",
-    "start_time": "2025-03-24T09:00:00",
-    "end_time": "2025-03-24T09:15:00",
-    "location": "Atlas Robotics - Zoom",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_069"
-  },
-  {
-    "title": "Sprint Planning",
-    "start_time": "2025-03-24T10:00:00",
-    "end_time": "2025-03-24T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_070"
-  },
-  {
-    "title": "1:1 with Emily",
-    "start_time": "2025-03-26T11:00:00",
-    "end_time": "2025-03-26T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
-    "related_entities": [
-      {
-        "name": "Dr. Emily Zhao",
-        "relation": "manager"
-      }
-    ],
-    "event_id": "evt_071"
-  },
-  {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-03-27T12:00:00",
-    "end_time": "2025-03-27T13:00:00",
-    "location": "Atlas Robotics - Cafe",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_072"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-03-28T15:00:00",
-    "end_time": "2025-03-28T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_073"
-  },
-  {
-    "title": "Sprint Retro",
-    "start_time": "2025-03-28T16:15:00",
-    "end_time": "2025-03-28T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_074"
-  },
-  {
-    "title": "Board Game Afternoon",
-    "start_time": "2025-03-29T14:00:00",
-    "end_time": "2025-03-29T16:00:00",
-    "location": "Jordan's Apartment",
-    "related_entities": [
-      {
-        "name": "Aaron Brooks",
-        "relation": "friend"
-      },
-      {
-        "name": "Neha Kapoor",
-        "relation": "friend"
-      },
-      {
-        "name": "Lisa Chen",
-        "relation": "friend"
-      }
-    ],
-    "event_id": "evt_075"
-  },
-  {
-    "title": "Weekly Stand-Up",
-    "start_time": "2025-03-31T09:00:00",
-    "end_time": "2025-03-31T09:15:00",
-    "location": "Atlas Robotics - Zoom",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_076"
-  },
-  {
-    "title": "Sprint Planning",
-    "start_time": "2025-03-31T10:00:00",
-    "end_time": "2025-03-31T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_077"
-  },
-  {
-    "title": "1:1 with Emily",
-    "start_time": "2025-04-02T11:00:00",
-    "end_time": "2025-04-02T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
-    "related_entities": [
-      {
-        "name": "Dr. Emily Zhao",
-        "relation": "manager"
-      }
-    ],
-    "event_id": "evt_078"
-  },
-  {
-    "title": "Ramen Night with Tommy",
-    "start_time": "2025-04-02T19:30:00",
-    "end_time": "2025-04-02T21:00:00",
-    "location": "Totto Ramen, Seaport",
-    "related_entities": [
-      {
-        "name": "Tommy Nguyen",
-        "relation": "friend"
-      },
-      {
-        "name": "Totto Ramen, Seaport",
-        "relation": "favorite restaurant"
-      }
-    ],
-    "event_id": "evt_079"
-  },
-  {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-04-03T12:00:00",
-    "end_time": "2025-04-03T13:00:00",
-    "location": "Atlas Robotics - Cafe",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_080"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-04-04T15:00:00",
-    "end_time": "2025-04-04T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_081"
-  },
-  {
-    "title": "Sprint Retro",
-    "start_time": "2025-04-04T16:15:00",
-    "end_time": "2025-04-04T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_082"
-  },
-  {
-    "title": "Flight BOS - DCA",
-    "start_time": "2025-04-04T17:30:00",
-    "end_time": "2025-04-04T19:30:00",
-    "location": "Boston Logan Airport",
-    "related_entities": [
-      {
-        "name": "JetBlue",
-        "relation": "airline"
-      }
-    ],
-    "event_id": "evt_083"
-  },
-  {
-    "title": "Brunch Meetup",
-    "start_time": "2025-04-06T11:00:00",
-    "end_time": "2025-04-06T13:00:00",
-    "location": "Tatte Seaport",
-    "related_entities": [
-      {
-        "name": "Lisa Chen",
-        "relation": "friend"
-      }
-    ],
-    "event_id": "evt_084"
-  },
-  {
-    "title": "Flight DCA - BOS",
-    "start_time": "2025-04-06T20:00:00",
-    "end_time": "2025-04-06T22:00:00",
-    "location": "Reagan National Airport",
-    "related_entities": [
-      {
-        "name": "JetBlue",
-        "relation": "airline"
-      }
-    ],
-    "event_id": "evt_085"
-  },
-  {
-    "title": "Weekly Stand-Up",
-    "start_time": "2025-04-07T09:00:00",
-    "end_time": "2025-04-07T09:15:00",
-    "location": "Atlas Robotics - Zoom",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_086"
-  },
-  {
-    "title": "Sprint Planning",
-    "start_time": "2025-04-07T10:00:00",
-    "end_time": "2025-04-07T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_087"
-  },
-  {
-    "title": "1:1 with Emily",
-    "start_time": "2025-04-09T11:00:00",
-    "end_time": "2025-04-09T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
-    "related_entities": [
-      {
-        "name": "Dr. Emily Zhao",
-        "relation": "manager"
-      }
-    ],
-    "event_id": "evt_088"
-  },
-  {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-04-10T12:00:00",
-    "end_time": "2025-04-10T13:00:00",
-    "location": "Atlas Robotics - Cafe",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_089"
-  },
-  {
-    "title": "Internal Hackathon Kickoff",
-    "start_time": "2025-04-11T09:00:00",
-    "end_time": "2025-04-11T09:30:00",
-    "location": "Atlas Robotics - HQ",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_090"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-04-11T15:00:00",
-    "end_time": "2025-04-11T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_091"
-  },
-  {
-    "title": "Sprint Retro",
-    "start_time": "2025-04-11T16:15:00",
-    "end_time": "2025-04-11T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_092"
-  },
-  {
-    "title": "Car Inspection",
-    "start_time": "2025-04-13T09:00:00",
-    "end_time": "2025-04-13T10:00:00",
-    "location": "Mass Inspection Allston",
-    "related_entities": [
-      {
-        "name": "Mass Inspection Allston",
-        "relation": "car service"
-      }
-    ],
-    "event_id": "evt_093"
-  },
-  {
-    "title": "Weekly Stand-Up",
-    "start_time": "2025-04-14T09:00:00",
-    "end_time": "2025-04-14T09:15:00",
-    "location": "Atlas Robotics - Zoom",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_094"
-  },
-  {
-    "title": "Sprint Planning",
-    "start_time": "2025-04-14T10:00:00",
-    "end_time": "2025-04-14T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_095"
-  },
-  {
-    "title": "Emergency Production Fix",
-    "start_time": "2025-04-15T19:30:00",
-    "end_time": "2025-04-15T20:30:00",
-    "location": "Home Office",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_096"
-  },
-  {
-    "title": "1:1 with Emily",
-    "start_time": "2025-04-16T11:00:00",
-    "end_time": "2025-04-16T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
-    "related_entities": [
-      {
-        "name": "Dr. Emily Zhao",
-        "relation": "manager"
-      }
-    ],
-    "event_id": "evt_097"
-  },
-  {
-    "title": "Ramen Night with Aaron",
-    "start_time": "2025-04-16T19:30:00",
-    "end_time": "2025-04-16T21:00:00",
-    "location": "Santouka Ramen, Back Bay",
-    "related_entities": [
-      {
-        "name": "Aaron Brooks",
-        "relation": "friend"
-      },
-      {
-        "name": "Santouka Ramen, Back Bay",
-        "relation": "favorite restaurant"
-      }
-    ],
-    "event_id": "evt_098"
-  },
-  {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-04-17T12:00:00",
-    "end_time": "2025-04-17T13:00:00",
-    "location": "Atlas Robotics - Cafe",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_099"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-04-18T15:00:00",
-    "end_time": "2025-04-18T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_100"
-  },
-  {
-    "title": "Sprint Retro",
-    "start_time": "2025-04-18T16:15:00",
-    "end_time": "2025-04-18T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_101"
-  },
-  {
-    "title": "Haircut",
-    "start_time": "2025-04-20T14:00:00",
-    "end_time": "2025-04-20T15:00:00",
-    "location": "Fade Factory Barbershop",
-    "related_entities": [
-      {
-        "name": "Fade Factory Barbershop",
-        "relation": "barber"
-      }
-    ],
-    "event_id": "evt_102"
-  },
-  {
-    "title": "Weekly Stand-Up",
     "start_time": "2025-04-21T09:00:00",
     "end_time": "2025-04-21T09:15:00",
-    "location": "Atlas Robotics - Zoom",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_178",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_103"
+    "start_time": "2025-04-23T09:00:00",
+    "end_time": "2025-04-23T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "Sprint Planning",
-    "start_time": "2025-04-21T10:00:00",
-    "end_time": "2025-04-21T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_104"
-  },
-  {
+    "event_id": "evt_179",
     "title": "1:1 with Emily",
-    "start_time": "2025-04-23T11:00:00",
-    "end_time": "2025-04-23T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
     "related_entities": [
       {
-        "name": "Dr. Emily Zhao",
+        "name": "Emily Chen",
         "relation": "manager"
       }
     ],
-    "event_id": "evt_105"
+    "start_time": "2025-04-23T15:00:00",
+    "end_time": "2025-04-23T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
   },
   {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-04-24T12:00:00",
-    "end_time": "2025-04-24T13:00:00",
-    "location": "Atlas Robotics - Cafe",
+    "event_id": "evt_180",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_106"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-04-25T15:00:00",
-    "end_time": "2025-04-25T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_107"
+    "start_time": "2025-04-25T09:00:00",
+    "end_time": "2025-04-25T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "Sprint Retro",
-    "start_time": "2025-04-25T16:15:00",
-    "end_time": "2025-04-25T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
+    "event_id": "evt_181",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_108"
-  },
-  {
-    "title": "Weekly Stand-Up",
     "start_time": "2025-04-28T09:00:00",
     "end_time": "2025-04-28T09:15:00",
-    "location": "Atlas Robotics - Zoom",
+    "location": "Arcadia Robotics - Zoom"
+  },
+  {
+    "event_id": "evt_182",
+    "title": "Daily Stand-up",
     "related_entities": [
       {
-        "name": "Atlas Robotics",
-        "relation": "employer"
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Carlos Alvarez",
+        "name": "Alex Nguyen",
         "relation": "coworker"
       },
       {
-        "name": "Priya Singh",
+        "name": "Priya Desai",
         "relation": "coworker"
       },
       {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
+        "name": "Carlos Ramirez",
         "relation": "coworker"
       }
     ],
-    "event_id": "evt_109"
+    "start_time": "2025-04-30T09:00:00",
+    "end_time": "2025-04-30T09:15:00",
+    "location": "Arcadia Robotics - Zoom"
   },
   {
-    "title": "Sprint Planning",
-    "start_time": "2025-04-28T10:00:00",
-    "end_time": "2025-04-28T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_110"
-  },
-  {
+    "event_id": "evt_183",
     "title": "1:1 with Emily",
-    "start_time": "2025-04-30T11:00:00",
-    "end_time": "2025-04-30T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
     "related_entities": [
       {
-        "name": "Dr. Emily Zhao",
+        "name": "Emily Chen",
         "relation": "manager"
       }
     ],
-    "event_id": "evt_111"
+    "start_time": "2025-04-30T15:00:00",
+    "end_time": "2025-04-30T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
   },
   {
-    "title": "Ramen Night with Neha",
-    "start_time": "2025-04-30T19:30:00",
-    "end_time": "2025-04-30T21:00:00",
-    "location": "Yume Wo Katare, Porter Sq.",
+    "event_id": "evt_184",
+    "title": "1:1 with Emily",
     "related_entities": [
       {
-        "name": "Neha Kapoor",
-        "relation": "friend"
+        "name": "Emily Chen",
+        "relation": "manager"
+      }
+    ],
+    "start_time": "2025-05-07T15:00:00",
+    "end_time": "2025-05-07T15:30:00",
+    "location": "Arcadia Robotics - Emily's Office"
+  },
+  {
+    "event_id": "evt_185",
+    "title": "Beta Launch Deadline",
+    "related_entities": [
+      {
+        "name": "Arcadia Robotics",
+        "relation": "employer"
+      }
+    ],
+    "start_time": "2025-04-23T18:00:00",
+    "end_time": "2025-04-23T21:00:00",
+    "location": "Home Office"
+  },
+  {
+    "event_id": "evt_186",
+    "title": "Brunch with Cousin Maya",
+    "related_entities": [
+      {
+        "name": "Maya Patel",
+        "relation": "cousin"
+      }
+    ],
+    "start_time": "2025-04-27T10:00:00",
+    "end_time": "2025-04-27T12:00:00",
+    "location": "Flour Bakery"
+  },
+  {
+    "event_id": "evt_187",
+    "title": "TENTATIVE: Passport Renewal Appointment",
+    "related_entities": [],
+    "start_time": "2025-05-03T09:00:00",
+    "end_time": "2025-05-03T11:00:00",
+    "location": "Boston Passport Agency"
+  },
+  {
+    "event_id": "evt_188",
+    "title": "Team Ramen Night",
+    "related_entities": [
+      {
+        "name": "Emily Chen",
+        "relation": "manager"
       },
       {
-        "name": "Yume Wo Katare, Porter Sq.",
+        "name": "Alex Nguyen",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Desai",
+        "relation": "coworker"
+      },
+      {
+        "name": "Carlos Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Santouka Ramen",
         "relation": "favorite restaurant"
       }
     ],
-    "event_id": "evt_112"
+    "start_time": "2025-05-09T17:30:00",
+    "end_time": "2025-05-09T20:00:00",
+    "location": "Santouka Ramen"
   },
   {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-05-01T12:00:00",
-    "end_time": "2025-05-01T13:00:00",
-    "location": "Atlas Robotics - Cafe",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_113"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-05-02T15:00:00",
-    "end_time": "2025-05-02T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_114"
-  },
-  {
-    "title": "Sprint Retro",
-    "start_time": "2025-05-02T16:15:00",
-    "end_time": "2025-05-02T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_115"
-  },
-  {
-    "title": "Sprint Planning",
-    "start_time": "2025-05-05T10:00:00",
-    "end_time": "2025-05-05T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_116"
-  },
-  {
-    "title": "1:1 with Emily",
-    "start_time": "2025-05-07T11:00:00",
-    "end_time": "2025-05-07T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
-    "related_entities": [
-      {
-        "name": "Dr. Emily Zhao",
-        "relation": "manager"
-      }
-    ],
-    "event_id": "evt_117"
-  },
-  {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-05-08T12:00:00",
-    "end_time": "2025-05-08T13:00:00",
-    "location": "Atlas Robotics - Cafe",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_118"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-05-09T15:00:00",
-    "end_time": "2025-05-09T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_119"
-  },
-  {
-    "title": "Sprint Retro",
-    "start_time": "2025-05-09T16:15:00",
-    "end_time": "2025-05-09T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_120"
-  },
-  {
-    "title": "Tentative Flight BOS - TXL",
-    "start_time": "2025-05-09T18:00:00",
-    "end_time": "2025-05-09T22:00:00",
-    "location": "Boston Logan Airport",
-    "related_entities": [
-      {
-        "name": "Lufthansa",
-        "relation": "airline"
-      }
-    ],
-    "event_id": "evt_121"
-  },
-  {
-    "title": "Sprint Planning",
-    "start_time": "2025-05-12T10:00:00",
-    "end_time": "2025-05-12T11:00:00",
-    "location": "Atlas Robotics - Conf Room A",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_122"
-  },
-  {
-    "title": "1:1 with Emily",
-    "start_time": "2025-05-14T11:00:00",
-    "end_time": "2025-05-14T11:30:00",
-    "location": "Atlas Robotics - Emily's Office",
-    "related_entities": [
-      {
-        "name": "Dr. Emily Zhao",
-        "relation": "manager"
-      }
-    ],
-    "event_id": "evt_123"
-  },
-  {
-    "title": "Ramen Night with Neha",
-    "start_time": "2025-05-14T19:30:00",
-    "end_time": "2025-05-14T21:00:00",
-    "location": "Yume Wo Katare, Porter Sq.",
-    "related_entities": [
-      {
-        "name": "Neha Kapoor",
-        "relation": "friend"
-      },
-      {
-        "name": "Yume Wo Katare, Porter Sq.",
-        "relation": "favorite restaurant"
-      }
-    ],
-    "event_id": "evt_124"
-  },
-  {
-    "title": "Weekly Tech Talk",
-    "start_time": "2025-05-15T12:00:00",
-    "end_time": "2025-05-15T13:00:00",
-    "location": "Atlas Robotics - Cafe",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      }
-    ],
-    "event_id": "evt_125"
-  },
-  {
-    "title": "Sprint Demo",
-    "start_time": "2025-05-16T15:00:00",
-    "end_time": "2025-05-16T16:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_126"
-  },
-  {
-    "title": "Sprint Retro",
-    "start_time": "2025-05-16T16:15:00",
-    "end_time": "2025-05-16T17:00:00",
-    "location": "Atlas Robotics - Conf Room B",
-    "related_entities": [
-      {
-        "name": "Atlas Robotics",
-        "relation": "employer"
-      },
-      {
-        "name": "Carlos Alvarez",
-        "relation": "coworker"
-      },
-      {
-        "name": "Priya Singh",
-        "relation": "coworker"
-      },
-      {
-        "name": "Samantha Lee",
-        "relation": "coworker"
-      },
-      {
-        "name": "Ben Williams",
-        "relation": "coworker"
-      }
-    ],
-    "event_id": "evt_127"
+    "event_id": "evt_189",
+    "title": "HOLD: Call landlord re: lease renewal",
+    "related_entities": [],
+    "start_time": "2025-05-14T19:00:00",
+    "end_time": "2025-05-14T19:30:00",
+    "location": "Apartment"
   }
 ]

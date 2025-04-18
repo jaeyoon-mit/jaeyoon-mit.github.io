@@ -1,682 +1,2348 @@
 [
   {
-    "event_id": "evt_001",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-01-20T11:00",
-    "end_time": "2025-01-20T11:45",
-    "location": "Zoom / Label HQ"
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-01-20T10:30:00",
+    "end_time": "2025-01-20T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_001"
   },
   {
-    "event_id": "evt_002",
-    "title": "1:1 with Manager (Luis)",
-    "related_entities": ["Luis Ramirez"],
-    "start_time": "2025-01-22T11:00",
-    "end_time": "2025-01-22T11:30",
-    "location": "Office 5B"
+    "title": "Dinner with Kevin",
+    "start_time": "2025-01-20T19:00:00",
+    "end_time": "2025-01-20T21:00:00",
+    "location": "Broken Spanish",
+    "related_entities": [
+      {
+        "name": "Kevin Liu",
+        "relation": "friend"
+      },
+      {
+        "name": "Broken Spanish",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_002"
   },
   {
-    "event_id": "evt_003",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-01-23T16:00",
-    "end_time": "2025-01-23T17:00",
-    "location": "Creative Lounge"
+    "title": "Team Sync",
+    "start_time": "2025-01-21T11:00:00",
+    "end_time": "2025-01-21T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_003"
   },
   {
-    "event_id": "evt_004",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-01-25T10:00",
-    "end_time": "2025-01-25T11:00",
-    "location": "CorePower Pilates DTLA"
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-01-22T15:00:00",
+    "end_time": "2025-01-22T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_004"
   },
   {
-    "event_id": "evt_005",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-01-27T11:00",
-    "end_time": "2025-01-27T11:45",
-    "location": "Zoom / Label HQ"
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-01-23T16:00:00",
+    "end_time": "2025-01-23T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_005"
   },
   {
-    "event_id": "evt_006",
-    "title": "1:1 with Manager (Luis)",
-    "related_entities": ["Luis Ramirez"],
-    "start_time": "2025-01-29T11:00",
-    "end_time": "2025-01-29T11:30",
-    "location": "Office 5B"
+    "title": "Indie Set at The Echo at The Echo",
+    "start_time": "2025-01-23T20:00:00",
+    "end_time": "2025-01-23T22:30:00",
+    "location": "The Echo",
+    "related_entities": [
+      {
+        "name": "The Echo",
+        "relation": "music venue"
+      }
+    ],
+    "event_id": "evt_006"
   },
   {
-    "event_id": "evt_007",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-01-30T16:00",
-    "end_time": "2025-01-30T17:00",
-    "location": "Creative Lounge"
+    "title": "Pilates Class",
+    "start_time": "2025-01-25T09:00:00",
+    "end_time": "2025-01-25T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_007"
   },
   {
-    "event_id": "evt_008",
-    "title": "Happy Hour with A&R Team",
-    "related_entities": ["Maria Gonzalez", "Kevin Swift", "Joe Evans"],
-    "start_time": "2025-01-30T17:30",
-    "end_time": "2025-01-30T19:30",
-    "location": "Golden Gopher Bar"
+    "title": "Dermatologist Check-Up",
+    "start_time": "2025-01-25T10:00:00",
+    "end_time": "2025-01-25T11:00:00",
+    "location": "Downtown Derm LA",
+    "related_entities": [
+      {
+        "name": "Dr. Evelyn Hart",
+        "relation": "dermatologist"
+      }
+    ],
+    "event_id": "evt_008"
   },
   {
-    "event_id": "evt_009",
-    "title": "Album Launch Kickoff Meeting",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson", "Maria Gonzalez", "Kevin Swift", "Joe Evans"],
-    "start_time": "2025-01-24T14:00",
-    "end_time": "2025-01-24T16:00",
-    "location": "Conference Room Echo"
+    "title": "Sunday Brunch with Sofia",
+    "start_time": "2025-01-26T11:30:00",
+    "end_time": "2025-01-26T13:00:00",
+    "location": "Guelaguetza",
+    "related_entities": [
+      {
+        "name": "Sofia Torres",
+        "relation": "friend"
+      },
+      {
+        "name": "Guelaguetza",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_009"
   },
   {
-    "event_id": "evt_010",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-02-03T11:00",
-    "end_time": "2025-02-03T11:45",
-    "location": "Zoom / Label HQ"
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-01-27T10:30:00",
+    "end_time": "2025-01-27T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_010"
   },
   {
-    "event_id": "evt_011",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-02-01T10:00",
-    "end_time": "2025-02-01T11:00",
-    "location": "CorePower Pilates DTLA"
+    "title": "Team Sync",
+    "start_time": "2025-01-28T11:00:00",
+    "end_time": "2025-01-28T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_011"
   },
   {
-    "event_id": "evt_012",
-    "title": "1:1 with Manager (Luis)",
-    "related_entities": ["Luis Ramirez"],
-    "start_time": "2025-02-05T11:00",
-    "end_time": "2025-02-05T11:30",
-    "location": "Office 5B"
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-01-29T15:00:00",
+    "end_time": "2025-01-29T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_012"
   },
   {
-    "event_id": "evt_013",
-    "title": "Women in Music Marketing Mixer",
-    "related_entities": ["Women in Music Marketing (WIMM)"],
-    "start_time": "2025-02-04T18:00",
-    "end_time": "2025-02-04T20:00",
-    "location": "The Mayan Rooftop"
+    "title": "Dinner with Juliana",
+    "start_time": "2025-01-29T19:00:00",
+    "end_time": "2025-01-29T21:00:00",
+    "location": "Best Friend",
+    "related_entities": [
+      {
+        "name": "Juliana Rivera",
+        "relation": "friend"
+      },
+      {
+        "name": "Best Friend",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_013"
   },
   {
-    "event_id": "evt_014",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-02-06T16:00",
-    "end_time": "2025-02-06T17:00",
-    "location": "Creative Lounge"
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-01-30T16:00:00",
+    "end_time": "2025-01-30T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_014"
   },
   {
-    "event_id": "evt_015",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-02-08T10:00",
-    "end_time": "2025-02-08T11:00",
-    "location": "CorePower Pilates DTLA"
+    "title": "Emergency Server Issue Call",
+    "start_time": "2025-01-31T14:30:00",
+    "end_time": "2025-01-31T15:30:00",
+    "location": "Downtown LA Office",
+    "related_entities": [],
+    "event_id": "evt_015"
   },
   {
-    "event_id": "evt_016",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-02-10T11:00",
-    "end_time": "2025-02-10T11:45",
-    "location": "Zoom / Label HQ"
+    "title": "Pilates Class",
+    "start_time": "2025-02-01T09:00:00",
+    "end_time": "2025-02-01T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_016"
   },
   {
-    "event_id": "evt_017",
-    "title": "1:1 with Manager (Luis)",
-    "related_entities": ["Luis Ramirez"],
-    "start_time": "2025-02-12T11:00",
-    "end_time": "2025-02-12T11:30",
-    "location": "Office 5B"
+    "title": "Sunday Brunch with Juliana",
+    "start_time": "2025-02-02T11:30:00",
+    "end_time": "2025-02-02T13:00:00",
+    "location": "Best Friend",
+    "related_entities": [
+      {
+        "name": "Juliana Rivera",
+        "relation": "friend"
+      },
+      {
+        "name": "Best Friend",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_017"
   },
   {
-    "event_id": "evt_018",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-02-13T16:00",
-    "end_time": "2025-02-13T17:00",
-    "location": "Creative Lounge"
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-02-03T10:30:00",
+    "end_time": "2025-02-03T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_018"
   },
   {
-    "event_id": "evt_019",
-    "title": "Flight LAX → LAS (Festival Weekend)",
-    "related_entities": ["Southwest Airlines"],
-    "start_time": "2025-02-14T09:00",
-    "end_time": "2025-02-14T10:15",
-    "location": "Los Angeles International Airport (LAX)"
+    "title": "Car Service",
+    "start_time": "2025-02-03T17:30:00",
+    "end_time": "2025-02-03T18:30:00",
+    "location": "Jiffy Lube Los Feliz",
+    "related_entities": [
+      {
+        "name": "Jiffy Lube Los Feliz",
+        "relation": "car service"
+      }
+    ],
+    "event_id": "evt_019"
   },
   {
-    "event_id": "evt_020",
-    "title": "Festival Pass Pickup",
-    "related_entities": ["Lovers & Friends Festival"],
-    "start_time": "2025-02-14T16:00",
-    "end_time": "2025-02-14T17:00",
-    "location": "Las Vegas Festival Grounds"
+    "title": "Dinner with Sofia",
+    "start_time": "2025-02-03T19:00:00",
+    "end_time": "2025-02-03T21:00:00",
+    "location": "Best Friend",
+    "related_entities": [
+      {
+        "name": "Sofia Torres",
+        "relation": "friend"
+      },
+      {
+        "name": "Best Friend",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_020"
   },
   {
-    "event_id": "evt_021",
-    "title": "Lovers & Friends Festival",
-    "related_entities": ["Lovers & Friends Festival"],
-    "start_time": "2025-02-15T14:00",
-    "end_time": "2025-02-15T23:00",
-    "location": "Las Vegas Festival Grounds"
+    "title": "Team Sync",
+    "start_time": "2025-02-04T11:00:00",
+    "end_time": "2025-02-04T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_021"
   },
   {
-    "event_id": "evt_022",
-    "title": "Lovers & Friends Festival",
-    "related_entities": ["Lovers & Friends Festival"],
-    "start_time": "2025-02-16T14:00",
-    "end_time": "2025-02-16T23:00",
-    "location": "Las Vegas Festival Grounds"
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-02-05T15:00:00",
+    "end_time": "2025-02-05T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_022"
   },
   {
-    "event_id": "evt_023",
-    "title": "Flight LAS → LAX (Return)",
-    "related_entities": ["Southwest Airlines"],
-    "start_time": "2025-02-17T12:00",
-    "end_time": "2025-02-17T13:15",
-    "location": "Harry Reid International Airport (LAS)"
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-02-06T16:00:00",
+    "end_time": "2025-02-06T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_023"
   },
   {
-    "event_id": "evt_024",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-02-17T11:00",
-    "end_time": "2025-02-17T11:45",
-    "location": "Zoom / Label HQ"
+    "title": "Emergency Vet Visit for Luna",
+    "start_time": "2025-02-07T18:00:00",
+    "end_time": "2025-02-07T19:30:00",
+    "location": "Downtown LA Office",
+    "related_entities": [],
+    "event_id": "evt_024"
   },
   {
-    "event_id": "evt_025",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-02-20T16:00",
-    "end_time": "2025-02-20T17:00",
-    "location": "Creative Lounge"
+    "title": "Pilates Class",
+    "start_time": "2025-02-08T09:00:00",
+    "end_time": "2025-02-08T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_025"
   },
   {
-    "event_id": "evt_026",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-02-22T10:00",
-    "end_time": "2025-02-22T11:00",
-    "location": "CorePower Pilates DTLA"
+    "title": "Sunday Brunch with Daniel",
+    "start_time": "2025-02-09T11:30:00",
+    "end_time": "2025-02-09T13:00:00",
+    "location": "Kogi Taqueria",
+    "related_entities": [
+      {
+        "name": "Daniel Park",
+        "relation": "friend"
+      },
+      {
+        "name": "Kogi Taqueria",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_026"
   },
   {
-    "event_id": "evt_027",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-02-24T11:00",
-    "end_time": "2025-02-24T11:45",
-    "location": "Zoom / Label HQ"
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-02-10T10:30:00",
+    "end_time": "2025-02-10T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_027"
   },
   {
-    "event_id": "evt_028",
-    "title": "1:1 with Manager (Luis)",
-    "related_entities": ["Luis Ramirez"],
-    "start_time": "2025-02-26T11:00",
-    "end_time": "2025-02-26T11:30",
-    "location": "Office 5B"
+    "title": "Album 'Neon Nights' Marketing Plan Due",
+    "start_time": "2025-02-10T17:00:00",
+    "end_time": "2025-02-10T17:15:00",
+    "location": "Downtown LA Office",
+    "related_entities": [],
+    "event_id": "evt_028"
   },
   {
-    "event_id": "evt_029",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-02-27T16:00",
-    "end_time": "2025-02-27T17:00",
-    "location": "Creative Lounge"
+    "title": "Team Sync",
+    "start_time": "2025-02-11T11:00:00",
+    "end_time": "2025-02-11T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_029"
   },
   {
-    "event_id": "evt_030",
-    "title": "Dental Checkup",
-    "related_entities": ["Dr. Chen"],
-    "start_time": "2025-02-28T13:00",
-    "end_time": "2025-02-28T14:00",
-    "location": "BrightSmile Dental Clinic"
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-02-12T15:00:00",
+    "end_time": "2025-02-12T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_030"
   },
   {
-    "event_id": "evt_031",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-03-03T11:00",
-    "end_time": "2025-03-03T11:45",
-    "location": "Zoom / Label HQ"
+    "title": "Dinner with Sofia",
+    "start_time": "2025-02-12T19:00:00",
+    "end_time": "2025-02-12T21:00:00",
+    "location": "Best Friend",
+    "related_entities": [
+      {
+        "name": "Sofia Torres",
+        "relation": "friend"
+      },
+      {
+        "name": "Best Friend",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_031"
   },
   {
-    "event_id": "evt_032",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-03-01T10:00",
-    "end_time": "2025-03-01T11:00",
-    "location": "CorePower Pilates DTLA"
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-02-13T16:00:00",
+    "end_time": "2025-02-13T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_032"
   },
   {
-    "event_id": "evt_033",
-    "title": "Women in Music Marketing Mixer",
-    "related_entities": ["Women in Music Marketing (WIMM)"],
-    "start_time": "2025-03-04T18:00",
-    "end_time": "2025-03-04T20:00",
-    "location": "The Mayan Rooftop"
+    "title": "Flight LAX - Mexico City",
+    "start_time": "2025-02-14T08:00:00",
+    "end_time": "2025-02-14T12:30:00",
+    "location": "Los Angeles International Airport (LAX)",
+    "related_entities": [
+      {
+        "name": "Aeromexico",
+        "relation": "airline"
+      }
+    ],
+    "event_id": "evt_033"
   },
   {
-    "event_id": "evt_034",
-    "title": "1:1 with Manager (Luis)",
-    "related_entities": ["Luis Ramirez"],
-    "start_time": "2025-03-05T11:00",
-    "end_time": "2025-03-05T11:30",
-    "location": "Office 5B"
+    "title": "Hotel Check-In - Hotel Condesa DF",
+    "start_time": "2025-02-14T15:30:00",
+    "end_time": "2025-02-14T16:00:00",
+    "location": "Hotel Condesa DF, Mexico City",
+    "related_entities": [
+      {
+        "name": "Hotel Condesa DF",
+        "relation": "hotel"
+      }
+    ],
+    "event_id": "evt_034"
   },
   {
-    "event_id": "evt_035",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-03-06T16:00",
-    "end_time": "2025-03-06T17:00",
-    "location": "Creative Lounge"
+    "title": "Pilates Class",
+    "start_time": "2025-02-15T09:00:00",
+    "end_time": "2025-02-15T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_035"
   },
   {
-    "event_id": "evt_036",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-03-08T10:00",
-    "end_time": "2025-03-08T11:00",
-    "location": "CorePower Pilates DTLA"
+    "title": "Laura & Miguel's Wedding",
+    "start_time": "2025-02-15T17:00:00",
+    "end_time": "2025-02-15T23:00:00",
+    "location": "Jardines de Pedregal, Mexico City",
+    "related_entities": [
+      {
+        "name": "Laura Gutierrez",
+        "relation": "friend"
+      },
+      {
+        "name": "Miguel Alvarez",
+        "relation": "friend"
+      }
+    ],
+    "event_id": "evt_036"
   },
   {
-    "event_id": "evt_037",
-    "title": "Camila's Birthday Dinner",
-    "related_entities": ["Camila Rodriguez"],
-    "start_time": "2025-03-08T19:30",
-    "end_time": "2025-03-08T22:00",
-    "location": "Bavel Restaurant"
+    "title": "Sunday Brunch with Sofia",
+    "start_time": "2025-02-16T11:30:00",
+    "end_time": "2025-02-16T13:00:00",
+    "location": "Broken Spanish",
+    "related_entities": [
+      {
+        "name": "Sofia Torres",
+        "relation": "friend"
+      },
+      {
+        "name": "Broken Spanish",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_037"
   },
   {
-    "event_id": "evt_038",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-03-10T11:00",
-    "end_time": "2025-03-10T11:45",
-    "location": "Zoom / Label HQ"
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-02-17T10:30:00",
+    "end_time": "2025-02-17T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_038"
   },
   {
-    "event_id": "evt_039",
-    "title": "1:1 with Manager (Luis)",
-    "related_entities": ["Luis Ramirez"],
-    "start_time": "2025-03-12T11:00",
-    "end_time": "2025-03-12T11:30",
-    "location": "Office 5B"
+    "title": "Flight Mexico City - LAX",
+    "start_time": "2025-02-17T13:00:00",
+    "end_time": "2025-02-17T17:00:00",
+    "location": "Mexico City International Airport (MEX)",
+    "related_entities": [
+      {
+        "name": "Aeromexico",
+        "relation": "airline"
+      }
+    ],
+    "event_id": "evt_039"
   },
   {
-    "event_id": "evt_040",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-03-13T16:00",
-    "end_time": "2025-03-13T17:00",
-    "location": "Creative Lounge"
+    "title": "Dinner with Kevin",
+    "start_time": "2025-02-17T19:00:00",
+    "end_time": "2025-02-17T21:00:00",
+    "location": "La Casita Mexicana",
+    "related_entities": [
+      {
+        "name": "Kevin Liu",
+        "relation": "friend"
+      },
+      {
+        "name": "La Casita Mexicana",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_040"
   },
   {
-    "event_id": "evt_041",
-    "title": "Haircut at Nova Salon",
-    "related_entities": ["Nova Hair Salon"],
-    "start_time": "2025-03-15T11:00",
-    "end_time": "2025-03-15T12:00",
-    "location": "Nova Salon Arts District"
+    "title": "Team Sync",
+    "start_time": "2025-02-18T11:00:00",
+    "end_time": "2025-02-18T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_041"
   },
   {
-    "event_id": "evt_042",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-03-15T10:00",
-    "end_time": "2025-03-15T11:00",
-    "location": "CorePower Pilates DTLA"
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-02-19T15:00:00",
+    "end_time": "2025-02-19T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_042"
   },
   {
-    "event_id": "evt_043",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-03-17T11:00",
-    "end_time": "2025-03-17T11:45",
-    "location": "Zoom / Label HQ"
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-02-20T16:00:00",
+    "end_time": "2025-02-20T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_043"
   },
   {
-    "event_id": "evt_044",
+    "title": "Label Artist Showcase at Teragram Ballroom",
+    "start_time": "2025-02-20T20:00:00",
+    "end_time": "2025-02-20T22:30:00",
+    "location": "Teragram Ballroom",
+    "related_entities": [
+      {
+        "name": "Teragram Ballroom",
+        "relation": "music venue"
+      }
+    ],
+    "event_id": "evt_044"
+  },
+  {
+    "title": "Pilates Class",
+    "start_time": "2025-02-22T09:00:00",
+    "end_time": "2025-02-22T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_045"
+  },
+  {
+    "title": "Sunday Brunch with Kevin",
+    "start_time": "2025-02-23T11:30:00",
+    "end_time": "2025-02-23T13:00:00",
+    "location": "Guelaguetza",
+    "related_entities": [
+      {
+        "name": "Kevin Liu",
+        "relation": "friend"
+      },
+      {
+        "name": "Guelaguetza",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_046"
+  },
+  {
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-02-24T10:30:00",
+    "end_time": "2025-02-24T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_047"
+  },
+  {
+    "title": "Team Sync",
+    "start_time": "2025-02-25T11:00:00",
+    "end_time": "2025-02-25T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_048"
+  },
+  {
+    "title": "Merch Photoshoot - Downtown Studio",
+    "start_time": "2025-02-26T14:00:00",
+    "end_time": "2025-02-26T17:00:00",
+    "location": "DTLA Photo Studio",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_049"
+  },
+  {
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-02-26T15:00:00",
+    "end_time": "2025-02-26T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_050"
+  },
+  {
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-02-27T16:00:00",
+    "end_time": "2025-02-27T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_051"
+  },
+  {
+    "title": "Dinner with Juliana",
+    "start_time": "2025-02-27T19:00:00",
+    "end_time": "2025-02-27T21:00:00",
+    "location": "Kogi Taqueria",
+    "related_entities": [
+      {
+        "name": "Juliana Rivera",
+        "relation": "friend"
+      },
+      {
+        "name": "Kogi Taqueria",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_052"
+  },
+  {
+    "title": "Hair Color Appointment",
+    "start_time": "2025-02-28T18:00:00",
+    "end_time": "2025-02-28T20:00:00",
+    "location": "Style Loft Salon",
+    "related_entities": [
+      {
+        "name": "Style Loft Salon",
+        "relation": "hair salon"
+      }
+    ],
+    "event_id": "evt_053"
+  },
+  {
+    "title": "Pilates Class",
+    "start_time": "2025-03-01T09:00:00",
+    "end_time": "2025-03-01T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_054"
+  },
+  {
+    "title": "Sunday Brunch with Sofia",
+    "start_time": "2025-03-02T11:30:00",
+    "end_time": "2025-03-02T13:00:00",
+    "location": "Broken Spanish",
+    "related_entities": [
+      {
+        "name": "Sofia Torres",
+        "relation": "friend"
+      },
+      {
+        "name": "Broken Spanish",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_055"
+  },
+  {
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-03-03T10:30:00",
+    "end_time": "2025-03-03T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_056"
+  },
+  {
+    "title": "Team Sync",
+    "start_time": "2025-03-04T11:00:00",
+    "end_time": "2025-03-04T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_057"
+  },
+  {
+    "title": "Pitch Deck Draft - New Artist Signing",
+    "start_time": "2025-03-04T18:00:00",
+    "end_time": "2025-03-04T18:15:00",
+    "location": "Downtown LA Office",
+    "related_entities": [],
+    "event_id": "evt_058"
+  },
+  {
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-03-05T15:00:00",
+    "end_time": "2025-03-05T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_059"
+  },
+  {
+    "title": "Dinner with Juliana",
+    "start_time": "2025-03-05T19:00:00",
+    "end_time": "2025-03-05T21:00:00",
+    "location": "Best Friend",
+    "related_entities": [
+      {
+        "name": "Juliana Rivera",
+        "relation": "friend"
+      },
+      {
+        "name": "Best Friend",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_060"
+  },
+  {
+    "title": "Dental Cleaning",
+    "start_time": "2025-03-06T09:00:00",
+    "end_time": "2025-03-06T10:00:00",
+    "location": "BrightSmile Dental",
+    "related_entities": [
+      {
+        "name": "Dr. Carlos Ortiz",
+        "relation": "dentist"
+      }
+    ],
+    "event_id": "evt_061"
+  },
+  {
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-03-06T16:00:00",
+    "end_time": "2025-03-06T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_062"
+  },
+  {
+    "title": "Pilates Class",
+    "start_time": "2025-03-08T09:00:00",
+    "end_time": "2025-03-08T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_063"
+  },
+  {
+    "title": "Sunday Brunch with Daniel",
+    "start_time": "2025-03-09T11:30:00",
+    "end_time": "2025-03-09T13:00:00",
+    "location": "Best Friend",
+    "related_entities": [
+      {
+        "name": "Daniel Park",
+        "relation": "friend"
+      },
+      {
+        "name": "Best Friend",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_064"
+  },
+  {
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-03-10T10:30:00",
+    "end_time": "2025-03-10T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_065"
+  },
+  {
+    "title": "Team Sync",
+    "start_time": "2025-03-11T11:00:00",
+    "end_time": "2025-03-11T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_066"
+  },
+  {
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-03-12T15:00:00",
+    "end_time": "2025-03-12T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_067"
+  },
+  {
+    "title": "Dinner with Sofia",
+    "start_time": "2025-03-12T19:00:00",
+    "end_time": "2025-03-12T21:00:00",
+    "location": "Kogi Taqueria",
+    "related_entities": [
+      {
+        "name": "Sofia Torres",
+        "relation": "friend"
+      },
+      {
+        "name": "Kogi Taqueria",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_068"
+  },
+  {
+    "title": "Flight LAX - Austin",
+    "start_time": "2025-03-13T09:00:00",
+    "end_time": "2025-03-13T14:00:00",
+    "location": "Los Angeles International Airport (LAX)",
+    "related_entities": [
+      {
+        "name": "Southwest Airlines",
+        "relation": "airline"
+      }
+    ],
+    "event_id": "evt_069"
+  },
+  {
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-03-13T16:00:00",
+    "end_time": "2025-03-13T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_070"
+  },
+  {
+    "title": "SXSW Showcase - Downtown Austin",
+    "start_time": "2025-03-14T12:00:00",
+    "end_time": "2025-03-14T22:00:00",
+    "location": "6th Street, Austin, TX",
+    "related_entities": [
+      {
+        "name": "SXSW Festival",
+        "relation": "music festival"
+      }
+    ],
+    "event_id": "evt_071"
+  },
+  {
+    "title": "Pilates Class",
+    "start_time": "2025-03-15T09:00:00",
+    "end_time": "2025-03-15T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_072"
+  },
+  {
+    "title": "Sunday Brunch with Sofia",
+    "start_time": "2025-03-16T11:30:00",
+    "end_time": "2025-03-16T13:00:00",
+    "location": "Best Friend",
+    "related_entities": [
+      {
+        "name": "Sofia Torres",
+        "relation": "friend"
+      },
+      {
+        "name": "Best Friend",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_073"
+  },
+  {
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-03-17T10:30:00",
+    "end_time": "2025-03-17T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_074"
+  },
+  {
+    "title": "Flight Austin - LAX",
+    "start_time": "2025-03-17T15:00:00",
+    "end_time": "2025-03-17T17:30:00",
+    "location": "Austin-Bergstrom International Airport (AUS)",
+    "related_entities": [
+      {
+        "name": "Southwest Airlines",
+        "relation": "airline"
+      }
+    ],
+    "event_id": "evt_075"
+  },
+  {
+    "title": "Team Sync",
+    "start_time": "2025-03-18T11:00:00",
+    "end_time": "2025-03-18T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_076"
+  },
+  {
+    "title": "Dinner with Daniel",
+    "start_time": "2025-03-18T19:00:00",
+    "end_time": "2025-03-18T21:00:00",
+    "location": "Night + Market Song",
+    "related_entities": [
+      {
+        "name": "Daniel Park",
+        "relation": "friend"
+      },
+      {
+        "name": "Night + Market Song",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_077"
+  },
+  {
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-03-19T15:00:00",
+    "end_time": "2025-03-19T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_078"
+  },
+  {
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-03-20T16:00:00",
+    "end_time": "2025-03-20T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_079"
+  },
+  {
+    "title": "Outdoor Concert at Hollywood Bowl",
+    "start_time": "2025-03-21T20:00:00",
+    "end_time": "2025-03-21T22:30:00",
+    "location": "Hollywood Bowl",
+    "related_entities": [
+      {
+        "name": "Hollywood Bowl",
+        "relation": "music venue"
+      }
+    ],
+    "event_id": "evt_080"
+  },
+  {
+    "title": "Pilates Class",
+    "start_time": "2025-03-22T09:00:00",
+    "end_time": "2025-03-22T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_081"
+  },
+  {
+    "title": "Sunday Brunch with Kevin",
+    "start_time": "2025-03-23T11:30:00",
+    "end_time": "2025-03-23T13:00:00",
+    "location": "Best Friend",
+    "related_entities": [
+      {
+        "name": "Kevin Liu",
+        "relation": "friend"
+      },
+      {
+        "name": "Best Friend",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_082"
+  },
+  {
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-03-24T10:30:00",
+    "end_time": "2025-03-24T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_083"
+  },
+  {
+    "title": "Team Sync",
+    "start_time": "2025-03-25T11:00:00",
+    "end_time": "2025-03-25T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_084"
+  },
+  {
+    "title": "Ad-Hoc Brainstorm Session",
+    "start_time": "2025-03-25T13:00:00",
+    "end_time": "2025-03-25T14:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [],
+    "event_id": "evt_085"
+  },
+  {
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-03-26T15:00:00",
+    "end_time": "2025-03-26T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_086"
+  },
+  {
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-03-27T16:00:00",
+    "end_time": "2025-03-27T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_087"
+  },
+  {
+    "title": "Dinner with Juliana",
+    "start_time": "2025-03-27T19:00:00",
+    "end_time": "2025-03-27T21:00:00",
+    "location": "Best Friend",
+    "related_entities": [
+      {
+        "name": "Juliana Rivera",
+        "relation": "friend"
+      },
+      {
+        "name": "Best Friend",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_088"
+  },
+  {
+    "title": "Pilates Class",
+    "start_time": "2025-03-29T09:00:00",
+    "end_time": "2025-03-29T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_089"
+  },
+  {
+    "title": "Vet Appointment for Luna",
+    "start_time": "2025-03-29T13:00:00",
+    "end_time": "2025-03-29T14:30:00",
+    "location": "Silver Lake Animal Hospital",
+    "related_entities": [
+      {
+        "name": "Silver Lake Animal Hospital",
+        "relation": "veterinarian"
+      }
+    ],
+    "event_id": "evt_090"
+  },
+  {
+    "title": "Sunday Brunch with Kevin",
+    "start_time": "2025-03-30T11:30:00",
+    "end_time": "2025-03-30T13:00:00",
+    "location": "La Casita Mexicana",
+    "related_entities": [
+      {
+        "name": "Kevin Liu",
+        "relation": "friend"
+      },
+      {
+        "name": "La Casita Mexicana",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_091"
+  },
+  {
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-03-31T10:30:00",
+    "end_time": "2025-03-31T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_092"
+  },
+  {
+    "title": "Team Sync",
+    "start_time": "2025-04-01T11:00:00",
+    "end_time": "2025-04-01T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_093"
+  },
+  {
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-04-02T15:00:00",
+    "end_time": "2025-04-02T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_094"
+  },
+  {
+    "title": "Dinner with Sofia",
+    "start_time": "2025-04-02T19:00:00",
+    "end_time": "2025-04-02T21:00:00",
+    "location": "Best Friend",
+    "related_entities": [
+      {
+        "name": "Sofia Torres",
+        "relation": "friend"
+      },
+      {
+        "name": "Best Friend",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_095"
+  },
+  {
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-04-03T16:00:00",
+    "end_time": "2025-04-03T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_096"
+  },
+  {
+    "title": "Pilates Class",
+    "start_time": "2025-04-05T09:00:00",
+    "end_time": "2025-04-05T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_097"
+  },
+  {
+    "title": "Renew Gym Membership",
+    "start_time": "2025-04-05T10:00:00",
+    "end_time": "2025-04-05T10:30:00",
+    "location": "YMCA Downtown LA",
+    "related_entities": [
+      {
+        "name": "YMCA Downtown LA",
+        "relation": "gym"
+      }
+    ],
+    "event_id": "evt_098"
+  },
+  {
+    "title": "Sunday Brunch with Sofia",
+    "start_time": "2025-04-06T11:30:00",
+    "end_time": "2025-04-06T13:00:00",
+    "location": "Kogi Taqueria",
+    "related_entities": [
+      {
+        "name": "Sofia Torres",
+        "relation": "friend"
+      },
+      {
+        "name": "Kogi Taqueria",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_099"
+  },
+  {
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-04-07T10:30:00",
+    "end_time": "2025-04-07T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_100"
+  },
+  {
+    "title": "Dinner with Juliana",
+    "start_time": "2025-04-07T19:00:00",
+    "end_time": "2025-04-07T21:00:00",
+    "location": "Treasures Korean-Mexican Fusion",
+    "related_entities": [
+      {
+        "name": "Juliana Rivera",
+        "relation": "friend"
+      },
+      {
+        "name": "Treasures Korean-Mexican Fusion",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_101"
+  },
+  {
+    "title": "Team Sync",
+    "start_time": "2025-04-08T11:00:00",
+    "end_time": "2025-04-08T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_102"
+  },
+  {
+    "title": "Urgent Social Media Crisis Meeting",
+    "start_time": "2025-04-09T11:00:00",
+    "end_time": "2025-04-09T11:45:00",
+    "location": "Downtown LA Office",
+    "related_entities": [],
+    "event_id": "evt_103"
+  },
+  {
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-04-09T15:00:00",
+    "end_time": "2025-04-09T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_104"
+  },
+  {
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-04-10T16:00:00",
+    "end_time": "2025-04-10T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_105"
+  },
+  {
     "title": "Drive to San Diego",
+    "start_time": "2025-04-11T16:00:00",
+    "end_time": "2025-04-11T19:00:00",
+    "location": "I-5 South",
     "related_entities": [],
-    "start_time": "2025-03-21T17:00",
-    "end_time": "2025-03-21T20:00",
-    "location": "I-5 S"
+    "event_id": "evt_106"
   },
   {
-    "event_id": "evt_045",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-03-22T10:00",
-    "end_time": "2025-03-22T11:00",
-    "location": "CorePower Pilates DTLA"
+    "title": "Hotel Check-In - Pendry San Diego",
+    "start_time": "2025-04-11T19:15:00",
+    "end_time": "2025-04-11T19:45:00",
+    "location": "Pendry San Diego",
+    "related_entities": [
+      {
+        "name": "Pendry San Diego",
+        "relation": "hotel"
+      }
+    ],
+    "event_id": "evt_107"
   },
   {
-    "event_id": "evt_046",
-    "title": "Brunch with Maria",
-    "related_entities": ["Maria Gonzalez"],
-    "start_time": "2025-03-22T10:00",
-    "end_time": "2025-03-22T12:00",
-    "location": "Morning Glory, San Diego"
+    "title": "Pilates Class",
+    "start_time": "2025-04-12T09:00:00",
+    "end_time": "2025-04-12T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_108"
   },
   {
-    "event_id": "evt_047",
-    "title": "Beach Day - Pacific Beach",
-    "related_entities": [],
-    "start_time": "2025-03-22T14:00",
-    "end_time": "2025-03-22T18:00",
-    "location": "Pacific Beach"
+    "title": "San Diego Zoo Visit",
+    "start_time": "2025-04-12T10:00:00",
+    "end_time": "2025-04-12T14:00:00",
+    "location": "San Diego Zoo",
+    "related_entities": [
+      {
+        "name": "San Diego Zoo",
+        "relation": "attraction"
+      }
+    ],
+    "event_id": "evt_109"
   },
   {
-    "event_id": "evt_048",
+    "title": "Indie Night at Greek Theatre LA",
+    "start_time": "2025-04-12T20:00:00",
+    "end_time": "2025-04-12T22:30:00",
+    "location": "Greek Theatre LA",
+    "related_entities": [
+      {
+        "name": "Greek Theatre LA",
+        "relation": "music venue"
+      }
+    ],
+    "event_id": "evt_110"
+  },
+  {
+    "title": "Sunday Brunch with Kevin",
+    "start_time": "2025-04-13T11:30:00",
+    "end_time": "2025-04-13T13:00:00",
+    "location": "Hop Woo BBQ",
+    "related_entities": [
+      {
+        "name": "Kevin Liu",
+        "relation": "friend"
+      },
+      {
+        "name": "Hop Woo BBQ",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_111"
+  },
+  {
     "title": "Drive back to LA",
+    "start_time": "2025-04-13T14:00:00",
+    "end_time": "2025-04-13T17:00:00",
+    "location": "I-5 North",
     "related_entities": [],
-    "start_time": "2025-03-23T15:00",
-    "end_time": "2025-03-23T18:00",
-    "location": "I-5 N"
+    "event_id": "evt_112"
   },
   {
-    "event_id": "evt_049",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-03-24T11:00",
-    "end_time": "2025-03-24T11:45",
-    "location": "Zoom / Label HQ"
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-04-14T10:30:00",
+    "end_time": "2025-04-14T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_113"
   },
   {
-    "event_id": "evt_050",
-    "title": "1:1 with Manager (Luis)",
-    "related_entities": ["Luis Ramirez"],
-    "start_time": "2025-03-26T11:00",
-    "end_time": "2025-03-26T11:30",
-    "location": "Office 5B"
+    "title": "Team Sync",
+    "start_time": "2025-04-15T11:00:00",
+    "end_time": "2025-04-15T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_114"
   },
   {
-    "event_id": "evt_051",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-03-27T16:00",
-    "end_time": "2025-03-27T17:00",
-    "location": "Creative Lounge"
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-04-16T15:00:00",
+    "end_time": "2025-04-16T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_115"
   },
   {
-    "event_id": "evt_052",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-03-29T10:00",
-    "end_time": "2025-03-29T11:00",
-    "location": "CorePower Pilates DTLA"
+    "title": "Dinner with Sofia",
+    "start_time": "2025-04-16T19:00:00",
+    "end_time": "2025-04-16T21:00:00",
+    "location": "Best Friend",
+    "related_entities": [
+      {
+        "name": "Sofia Torres",
+        "relation": "friend"
+      },
+      {
+        "name": "Best Friend",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_116"
   },
   {
-    "event_id": "evt_053",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-03-31T11:00",
-    "end_time": "2025-03-31T11:45",
-    "location": "Zoom / Label HQ"
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-04-17T16:00:00",
+    "end_time": "2025-04-17T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_117"
   },
   {
-    "event_id": "evt_054",
-    "title": "Women in Music Marketing Mixer",
-    "related_entities": ["Women in Music Marketing (WIMM)"],
-    "start_time": "2025-04-01T18:00",
-    "end_time": "2025-04-01T20:00",
-    "location": "The Mayan Rooftop"
+    "title": "Pilates Class",
+    "start_time": "2025-04-19T09:00:00",
+    "end_time": "2025-04-19T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_118"
   },
   {
-    "event_id": "evt_055",
-    "title": "1:1 with Manager (Luis)",
-    "related_entities": ["Luis Ramirez"],
-    "start_time": "2025-04-02T11:00",
-    "end_time": "2025-04-02T11:30",
-    "location": "Office 5B"
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-04-21T10:30:00",
+    "end_time": "2025-04-21T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_119"
   },
   {
-    "event_id": "evt_056",
-    "title": "Final Creative Review for Upcoming EP",
-    "related_entities": ["Maria Gonzalez", "Kevin Swift", "Joe Evans"],
-    "start_time": "2025-04-02T16:00",
-    "end_time": "2025-04-02T17:00",
-    "location": "Studio B"
+    "title": "Team Sync",
+    "start_time": "2025-04-22T11:00:00",
+    "end_time": "2025-04-22T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_120"
   },
   {
-    "event_id": "evt_057",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-04-03T16:00",
-    "end_time": "2025-04-03T17:00",
-    "location": "Creative Lounge"
-  },
-  {
-    "event_id": "evt_058",
-    "title": "Emergency Vet Visit (Luna)",
-    "related_entities": ["Urban Vet Clinic"],
-    "start_time": "2025-04-05T09:30",
-    "end_time": "2025-04-05T11:00",
-    "location": "Urban Vet Clinic DTLA"
-  },
-  {
-    "event_id": "evt_059",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-04-05T10:00",
-    "end_time": "2025-04-05T11:00",
-    "location": "CorePower Pilates DTLA"
-  },
-  {
-    "event_id": "evt_060",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-04-07T11:00",
-    "end_time": "2025-04-07T11:45",
-    "location": "Zoom / Label HQ"
-  },
-  {
-    "event_id": "evt_061",
-    "title": "1:1 with Manager (Luis)",
-    "related_entities": ["Luis Ramirez"],
-    "start_time": "2025-04-09T11:00",
-    "end_time": "2025-04-09T11:30",
-    "location": "Office 5B"
-  },
-  {
-    "event_id": "evt_062",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-04-10T16:00",
-    "end_time": "2025-04-10T17:00",
-    "location": "Creative Lounge"
-  },
-  {
-    "event_id": "evt_063",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-04-12T10:00",
-    "end_time": "2025-04-12T11:00",
-    "location": "CorePower Pilates DTLA"
-  },
-  {
-    "event_id": "evt_064",
-    "title": "Korean-Mexican Fusion Pop-up Dinner",
-    "related_entities": ["Chef J. Park"],
-    "start_time": "2025-04-12T18:00",
-    "end_time": "2025-04-12T22:00",
-    "location": "Smorgasburg Lot"
-  },
-  {
-    "event_id": "evt_065",
-    "title": "Drive to Coachella (LA → Indio)",
+    "title": "Tentative: Label Summer Release Planning",
+    "start_time": "2025-04-22T14:00:00",
+    "end_time": "2025-04-22T16:00:00",
+    "location": "",
     "related_entities": [],
-    "start_time": "2025-04-18T08:00",
-    "end_time": "2025-04-18T11:30",
-    "location": "I-10 E"
+    "event_id": "evt_121"
   },
   {
-    "event_id": "evt_066",
-    "title": "Coachella Day 1",
-    "related_entities": ["Coachella"],
-    "start_time": "2025-04-18T12:00",
-    "end_time": "2025-04-19T00:00",
-    "location": "Empire Polo Club, Indio"
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-04-23T15:00:00",
+    "end_time": "2025-04-23T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_122"
   },
   {
-    "event_id": "evt_067",
-    "title": "Coachella Day 2",
-    "related_entities": ["Coachella"],
-    "start_time": "2025-04-19T12:00",
-    "end_time": "2025-04-20T00:00",
-    "location": "Empire Polo Club, Indio"
+    "title": "Dinner with Kevin",
+    "start_time": "2025-04-23T19:00:00",
+    "end_time": "2025-04-23T21:00:00",
+    "location": "Treasures Korean-Mexican Fusion",
+    "related_entities": [
+      {
+        "name": "Kevin Liu",
+        "relation": "friend"
+      },
+      {
+        "name": "Treasures Korean-Mexican Fusion",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_123"
   },
   {
-    "event_id": "evt_068",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-04-19T10:00",
-    "end_time": "2025-04-19T11:00",
-    "location": "CorePower Pilates DTLA"
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-04-24T16:00:00",
+    "end_time": "2025-04-24T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_124"
   },
   {
-    "event_id": "evt_069",
-    "title": "Coachella Day 3",
-    "related_entities": ["Coachella"],
-    "start_time": "2025-04-20T12:00",
-    "end_time": "2025-04-21T00:00",
-    "location": "Empire Polo Club, Indio"
+    "title": "Pilates Class",
+    "start_time": "2025-04-26T09:00:00",
+    "end_time": "2025-04-26T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_125"
   },
   {
-    "event_id": "evt_070",
-    "title": "Drive back to LA (Indio → LA)",
+    "title": "Hair Trim",
+    "start_time": "2025-04-26T18:00:00",
+    "end_time": "2025-04-26T19:00:00",
+    "location": "Style Loft Salon",
+    "related_entities": [
+      {
+        "name": "Style Loft Salon",
+        "relation": "hair salon"
+      }
+    ],
+    "event_id": "evt_126"
+  },
+  {
+    "title": "Sunday Brunch with Sofia",
+    "start_time": "2025-04-27T11:30:00",
+    "end_time": "2025-04-27T13:00:00",
+    "location": "Broken Spanish",
+    "related_entities": [
+      {
+        "name": "Sofia Torres",
+        "relation": "friend"
+      },
+      {
+        "name": "Broken Spanish",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_127"
+  },
+  {
+    "title": "Office Maintenance Fire Drill",
+    "start_time": "2025-04-28T09:00:00",
+    "end_time": "2025-04-28T09:30:00",
+    "location": "Downtown LA Office",
     "related_entities": [],
-    "start_time": "2025-04-21T09:00",
-    "end_time": "2025-04-21T12:30",
-    "location": "I-10 W"
+    "event_id": "evt_128"
   },
   {
-    "event_id": "evt_071",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-04-24T16:00",
-    "end_time": "2025-04-24T17:00",
-    "location": "Creative Lounge"
+    "title": "Artist Launch Stand-Up",
+    "start_time": "2025-04-28T10:30:00",
+    "end_time": "2025-04-28T11:00:00",
+    "location": "Downtown LA Office",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_129"
   },
   {
-    "event_id": "evt_072",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-04-26T10:00",
-    "end_time": "2025-04-26T11:00",
-    "location": "CorePower Pilates DTLA"
+    "title": "Team Sync",
+    "start_time": "2025-04-29T11:00:00",
+    "end_time": "2025-04-29T11:30:00",
+    "location": "Zoom",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_130"
   },
   {
-    "event_id": "evt_073",
-    "title": "Tentative: Korean-Mexican Tasting Event (TBD)",
-    "related_entities": ["Foodie Friends"],
-    "start_time": "2025-04-27T19:00",
-    "end_time": "2025-04-27T22:00",
-    "location": "TBD"
+    "title": "1:1 with Creative Director",
+    "start_time": "2025-04-30T15:00:00",
+    "end_time": "2025-04-30T15:30:00",
+    "location": "Creative Director's Office",
+    "related_entities": [
+      {
+        "name": "Natalie Chen",
+        "relation": "creative director"
+      }
+    ],
+    "event_id": "evt_131"
   },
   {
-    "event_id": "evt_074",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-04-28T11:00",
-    "end_time": "2025-04-28T11:45",
-    "location": "Zoom / Label HQ"
+    "title": "Label Marketing All-Hands",
+    "start_time": "2025-05-01T16:00:00",
+    "end_time": "2025-05-01T17:00:00",
+    "location": "Conference Room A",
+    "related_entities": [
+      {
+        "name": "Maya Gonzalez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Eric Kim",
+        "relation": "coworker"
+      },
+      {
+        "name": "Luis Ramirez",
+        "relation": "coworker"
+      },
+      {
+        "name": "Priya Patel",
+        "relation": "coworker"
+      }
+    ],
+    "event_id": "evt_132"
   },
   {
-    "event_id": "evt_075",
-    "title": "1:1 with Manager (Luis)",
-    "related_entities": ["Luis Ramirez"],
-    "start_time": "2025-04-30T11:00",
-    "end_time": "2025-04-30T11:30",
-    "location": "Office 5B"
+    "title": "Dinner with Daniel",
+    "start_time": "2025-05-01T19:00:00",
+    "end_time": "2025-05-01T21:00:00",
+    "location": "Best Friend",
+    "related_entities": [
+      {
+        "name": "Daniel Park",
+        "relation": "friend"
+      },
+      {
+        "name": "Best Friend",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_133"
   },
   {
-    "event_id": "evt_076",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-05-05T11:00",
-    "end_time": "2025-05-05T11:45",
-    "location": "Zoom / Label HQ"
-  },
-  {
-    "event_id": "evt_077",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-05-03T10:00",
-    "end_time": "2025-05-03T11:00",
-    "location": "CorePower Pilates DTLA"
-  },
-  {
-    "event_id": "evt_078",
-    "title": "Pinterest Board Review: Summer Europe Ideas (Tentative)",
+    "title": "Tentative: Coachella Weekend 2 Trip",
+    "start_time": "2025-05-02T06:00:00",
+    "end_time": "2025-05-02T23:00:00",
+    "location": "",
     "related_entities": [],
-    "start_time": "2025-05-04T15:00",
-    "end_time": "2025-05-04T16:00",
-    "location": "Apartment"
+    "event_id": "evt_134"
   },
   {
-    "event_id": "evt_079",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-05-01T16:00",
-    "end_time": "2025-05-01T17:00",
-    "location": "Creative Lounge"
+    "title": "Pilates Class",
+    "start_time": "2025-05-03T09:00:00",
+    "end_time": "2025-05-03T10:00:00",
+    "location": "PilatesWorks Studio, Silver Lake",
+    "related_entities": [
+      {
+        "name": "PilatesWorks Studio",
+        "relation": "fitness studio"
+      }
+    ],
+    "event_id": "evt_135"
   },
   {
-    "event_id": "evt_080",
-    "title": "Color-Match Outfit Shopping for NYC Trip (Tentative)",
+    "title": "Sunday Brunch with Juliana",
+    "start_time": "2025-05-04T11:30:00",
+    "end_time": "2025-05-04T13:00:00",
+    "location": "La Casita Mexicana",
+    "related_entities": [
+      {
+        "name": "Juliana Rivera",
+        "relation": "friend"
+      },
+      {
+        "name": "La Casita Mexicana",
+        "relation": "favorite restaurant"
+      }
+    ],
+    "event_id": "evt_136"
+  },
+  {
+    "title": "Car Service",
+    "start_time": "2025-05-05T09:00:00",
+    "end_time": "2025-05-05T10:00:00",
+    "location": "Jiffy Lube Los Feliz",
+    "related_entities": [
+      {
+        "name": "Jiffy Lube Los Feliz",
+        "relation": "car service"
+      }
+    ],
+    "event_id": "evt_137"
+  },
+  {
+    "title": "TBD: Friend's Engagement Party",
+    "start_time": "2025-05-10T18:00:00",
+    "end_time": "2025-05-10T22:00:00",
+    "location": "",
     "related_entities": [],
-    "start_time": "2025-05-10T14:00",
-    "end_time": "2025-05-10T17:00",
-    "location": "The Grove Mall"
+    "event_id": "evt_138"
   },
   {
-    "event_id": "evt_081",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-05-10T10:00",
-    "end_time": "2025-05-10T11:00",
-    "location": "CorePower Pilates DTLA"
-  },
-  {
-    "event_id": "evt_082",
-    "title": "Weekly Team Sync",
-    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
-    "start_time": "2025-05-12T11:00",
-    "end_time": "2025-05-12T11:45",
-    "location": "Zoom / Label HQ"
-  },
-  {
-    "event_id": "evt_083",
-    "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Daniel Kim", "Cindy Wang"],
-    "start_time": "2025-05-08T16:00",
-    "end_time": "2025-05-08T17:00",
-    "location": "Creative Lounge"
-  },
-  {
-    "event_id": "evt_084",
-    "title": "Saturday Pilates",
-    "related_entities": ["Pilates Studio"],
-    "start_time": "2025-05-17T10:00",
-    "end_time": "2025-05-17T11:00",
-    "location": "CorePower Pilates DTLA"
-  },
-  {
-    "event_id": "evt_085",
-    "title": "Reminder: Renew Gym Membership",
-    "related_entities": ["LA Fitness"],
-    "start_time": "2025-05-15T09:00",
-    "end_time": "2025-05-15T09:15",
-    "location": "TBD"
+    "title": "Hold: Album Launch QA Window",
+    "start_time": "2025-05-15T10:00:00",
+    "end_time": "2025-05-15T12:00:00",
+    "location": "",
+    "related_entities": [],
+    "event_id": "evt_139"
   }
 ]

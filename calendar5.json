@@ -1,1572 +1,2324 @@
 [
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-01-17T07:30:00",
-    "end_time": "2025-01-17T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_001"
-  },
-  {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-01-17T13:00:00",
     "end_time": "2025-01-17T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_001"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-01-18T07:30:00",
+    "end_time": "2025-01-18T09:30:00",
+    "location": "Blue Ridge Parkway",
+    "related_entities": [
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
+    ],
     "event_id": "evt_002"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-01-18T07:30:00",
-    "end_time": "2025-01-18T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_003"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-01-20T07:30:00",
-    "end_time": "2025-01-20T09:00:00",
+    "end_time": "2025-01-20T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_004"
+    "event_id": "evt_003"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-01-20T13:00:00",
     "end_time": "2025-01-20T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_004"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-01-21T13:00:00",
+    "end_time": "2025-01-21T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
     "event_id": "evt_005"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-01-21T07:30:00",
-    "end_time": "2025-01-21T09:00:00",
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-01-21T17:00:00",
+    "end_time": "2025-01-21T19:00:00",
+    "location": "Cheryl's Sunroom",
     "related_entities": [
-      "Self"
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
     "event_id": "evt_006"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-01-22T07:30:00",
-    "end_time": "2025-01-22T09:00:00",
+    "end_time": "2025-01-22T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
     "event_id": "evt_007"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-01-22T13:00:00",
     "end_time": "2025-01-22T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
     "event_id": "evt_008"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-01-23T07:30:00",
-    "end_time": "2025-01-23T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-01-23T13:00:00",
+    "end_time": "2025-01-23T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
     "event_id": "evt_009"
-  },
-  {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-01-23T16:00:00",
-    "end_time": "2025-01-23T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
-    "event_id": "evt_010"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-01-24T07:30:00",
-    "end_time": "2025-01-24T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_011"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-01-24T13:00:00",
     "end_time": "2025-01-24T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_012"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_010"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-01-25T07:30:00",
-    "end_time": "2025-01-25T09:00:00",
+    "end_time": "2025-01-25T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_013"
+    "event_id": "evt_011"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-01-27T07:30:00",
-    "end_time": "2025-01-27T09:00:00",
+    "end_time": "2025-01-27T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_014"
+    "event_id": "evt_012"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-01-27T13:00:00",
     "end_time": "2025-01-27T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_013"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-01-28T13:00:00",
+    "end_time": "2025-01-28T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_014"
+  },
+  {
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-01-28T17:00:00",
+    "end_time": "2025-01-28T19:00:00",
+    "location": "Cheryl's Sunroom",
+    "related_entities": [
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
+    ],
     "event_id": "evt_015"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-01-28T07:30:00",
-    "end_time": "2025-01-28T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_016"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-01-29T07:30:00",
-    "end_time": "2025-01-29T09:00:00",
+    "end_time": "2025-01-29T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_017"
+    "event_id": "evt_016"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-01-29T13:00:00",
     "end_time": "2025-01-29T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_017"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-01-30T13:00:00",
+    "end_time": "2025-01-30T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
     "event_id": "evt_018"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-01-30T07:30:00",
-    "end_time": "2025-01-30T09:00:00",
+    "title": "Potluck Dinner",
+    "start_time": "2025-01-30T18:00:00",
+    "end_time": "2025-01-30T20:00:00",
+    "location": "Marjorie's House",
     "related_entities": [
-      "Self"
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
     "event_id": "evt_019"
-  },
-  {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-01-30T16:00:00",
-    "end_time": "2025-01-30T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
-    "event_id": "evt_020"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-01-31T07:30:00",
-    "end_time": "2025-01-31T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_021"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-01-31T13:00:00",
     "end_time": "2025-01-31T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_020"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-02-01T07:30:00",
+    "end_time": "2025-02-01T09:30:00",
+    "location": "Blue Ridge Parkway",
+    "related_entities": [
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
+    ],
+    "event_id": "evt_021"
+  },
+  {
+    "title": "Volunteer - Farmers Market Storytime",
+    "start_time": "2025-02-01T10:00:00",
+    "end_time": "2025-02-01T12:00:00",
+    "location": "North Asheville Tailgate Market",
+    "related_entities": [
+      {
+        "name": "North AVL Market",
+        "relation": "community org"
+      }
+    ],
     "event_id": "evt_022"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-01T07:30:00",
-    "end_time": "2025-02-01T09:00:00",
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-02-03T07:30:00",
+    "end_time": "2025-02-03T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
     "event_id": "evt_023"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-03T07:30:00",
-    "end_time": "2025-02-03T09:00:00",
+    "title": "Dental Cleaning",
+    "start_time": "2025-02-03T11:00:00",
+    "end_time": "2025-02-03T12:00:00",
+    "location": "Blue Ridge Dental",
     "related_entities": [
-      "Self"
+      {
+        "name": "Dr. Samuel Grant",
+        "relation": "dentist"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
     "event_id": "evt_024"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-02-03T13:00:00",
     "end_time": "2025-02-03T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
     "event_id": "evt_025"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-04T07:30:00",
-    "end_time": "2025-02-04T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-02-04T13:00:00",
+    "end_time": "2025-02-04T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
     "event_id": "evt_026"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-05T07:30:00",
-    "end_time": "2025-02-05T09:00:00",
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-02-04T17:00:00",
+    "end_time": "2025-02-04T19:00:00",
+    "location": "Cheryl's Sunroom",
     "related_entities": [
-      "Self"
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
     "event_id": "evt_027"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-02-05T07:30:00",
+    "end_time": "2025-02-05T09:30:00",
+    "location": "Blue Ridge Parkway",
+    "related_entities": [
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
+    ],
+    "event_id": "evt_028"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-02-05T13:00:00",
     "end_time": "2025-02-05T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_028"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-06T07:30:00",
-    "end_time": "2025-02-06T09:00:00",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
     "event_id": "evt_029"
   },
   {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-02-06T16:00:00",
-    "end_time": "2025-02-06T17:30:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-02-06T13:00:00",
+    "end_time": "2025-02-06T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Neighbors"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Cheryl's Sunroom",
     "event_id": "evt_030"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-07T07:30:00",
-    "end_time": "2025-02-07T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_031"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-02-07T13:00:00",
     "end_time": "2025-02-07T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_031"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-02-08T07:30:00",
+    "end_time": "2025-02-08T09:30:00",
+    "location": "Blue Ridge Parkway",
+    "related_entities": [
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
+    ],
     "event_id": "evt_032"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-08T07:30:00",
-    "end_time": "2025-02-08T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_033"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-02-10T07:30:00",
-    "end_time": "2025-02-10T09:00:00",
+    "end_time": "2025-02-10T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_034"
-  },
-  {
-    "title": "Dental Cleaning",
-    "start_time": "2025-02-10T10:00:00",
-    "end_time": "2025-02-10T11:00:00",
-    "related_entities": [
-      "Dr. Spencer DDS"
-    ],
-    "location": "Asheville Family Dental",
-    "event_id": "evt_035"
+    "event_id": "evt_033"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-02-10T13:00:00",
     "end_time": "2025-02-10T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_034"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-02-11T13:00:00",
+    "end_time": "2025-02-11T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_035"
+  },
+  {
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-02-11T17:00:00",
+    "end_time": "2025-02-11T19:00:00",
+    "location": "Cheryl's Sunroom",
+    "related_entities": [
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
+    ],
     "event_id": "evt_036"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-11T07:30:00",
-    "end_time": "2025-02-11T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_037"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-02-12T07:30:00",
-    "end_time": "2025-02-12T09:00:00",
+    "end_time": "2025-02-12T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_038"
+    "event_id": "evt_037"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-02-12T13:00:00",
     "end_time": "2025-02-12T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_038"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-02-13T13:00:00",
+    "end_time": "2025-02-13T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
     "event_id": "evt_039"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-13T07:30:00",
-    "end_time": "2025-02-13T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_040"
-  },
-  {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-02-13T16:00:00",
-    "end_time": "2025-02-13T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
-    "event_id": "evt_041"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-14T07:30:00",
-    "end_time": "2025-02-14T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_042"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-02-14T13:00:00",
     "end_time": "2025-02-14T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_043"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_040"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Emergency Vet Visit - Oliver",
+    "start_time": "2025-02-14T16:00:00",
+    "end_time": "2025-02-14T17:30:00",
+    "location": "Brevard Road Vet Clinic",
+    "related_entities": [
+      {
+        "name": "Oliver",
+        "relation": "cat"
+      }
+    ],
+    "event_id": "evt_041"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-02-15T07:30:00",
-    "end_time": "2025-02-15T09:00:00",
+    "end_time": "2025-02-15T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_044"
+    "event_id": "evt_042"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-02-17T07:30:00",
-    "end_time": "2025-02-17T09:00:00",
+    "end_time": "2025-02-17T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_045"
+    "event_id": "evt_043"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-02-17T13:00:00",
     "end_time": "2025-02-17T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_044"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-02-18T13:00:00",
+    "end_time": "2025-02-18T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_045"
+  },
+  {
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-02-18T17:00:00",
+    "end_time": "2025-02-18T19:00:00",
+    "location": "Cheryl's Sunroom",
+    "related_entities": [
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
+    ],
     "event_id": "evt_046"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-18T07:30:00",
-    "end_time": "2025-02-18T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_047"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-02-19T07:30:00",
-    "end_time": "2025-02-19T09:00:00",
+    "end_time": "2025-02-19T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_048"
+    "event_id": "evt_047"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-02-19T13:00:00",
     "end_time": "2025-02-19T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_048"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-02-20T13:00:00",
+    "end_time": "2025-02-20T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
     "event_id": "evt_049"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-20T07:30:00",
-    "end_time": "2025-02-20T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_050"
-  },
-  {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-02-20T16:00:00",
-    "end_time": "2025-02-20T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
-    "event_id": "evt_051"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-21T07:30:00",
-    "end_time": "2025-02-21T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_052"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-02-21T13:00:00",
     "end_time": "2025-02-21T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_053"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_050"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-02-22T07:30:00",
-    "end_time": "2025-02-22T09:00:00",
+    "end_time": "2025-02-22T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_054"
+    "event_id": "evt_051"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-02-24T07:30:00",
-    "end_time": "2025-02-24T09:00:00",
+    "end_time": "2025-02-24T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_055"
+    "event_id": "evt_052"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-02-24T13:00:00",
     "end_time": "2025-02-24T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_056"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-25T07:30:00",
-    "end_time": "2025-02-25T09:00:00",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_057"
+    "event_id": "evt_053"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-02-25T13:00:00",
+    "end_time": "2025-02-25T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_054"
+  },
+  {
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-02-25T17:00:00",
+    "end_time": "2025-02-25T19:00:00",
+    "location": "Cheryl's Sunroom",
+    "related_entities": [
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
+    ],
+    "event_id": "evt_055"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-02-26T07:30:00",
-    "end_time": "2025-02-26T09:00:00",
+    "end_time": "2025-02-26T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_058"
+    "event_id": "evt_056"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-02-26T13:00:00",
     "end_time": "2025-02-26T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_059"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_057"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-27T07:30:00",
-    "end_time": "2025-02-27T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-02-27T13:00:00",
+    "end_time": "2025-02-27T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_060"
-  },
-  {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-02-27T16:00:00",
-    "end_time": "2025-02-27T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
-    "event_id": "evt_061"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-02-28T07:30:00",
-    "end_time": "2025-02-28T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_062"
+    "event_id": "evt_058"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-02-28T13:00:00",
     "end_time": "2025-02-28T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_063"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_059"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-03-01T07:30:00",
-    "end_time": "2025-03-01T09:00:00",
+    "end_time": "2025-03-01T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_064"
+    "event_id": "evt_060"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-03T07:30:00",
-    "end_time": "2025-03-03T09:00:00",
+    "title": "Volunteer - Farmers Market Storytime",
+    "start_time": "2025-03-01T10:00:00",
+    "end_time": "2025-03-01T12:00:00",
+    "location": "North Asheville Tailgate Market",
     "related_entities": [
-      "Self"
+      {
+        "name": "North AVL Market",
+        "relation": "community org"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_065"
+    "event_id": "evt_061"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-03-03T07:30:00",
+    "end_time": "2025-03-03T09:30:00",
+    "location": "Blue Ridge Parkway",
+    "related_entities": [
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
+    ],
+    "event_id": "evt_062"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-03T13:00:00",
     "end_time": "2025-03-03T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_066"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-04T07:30:00",
-    "end_time": "2025-03-04T09:00:00",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_067"
+    "event_id": "evt_063"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-03-04T13:00:00",
+    "end_time": "2025-03-04T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_064"
+  },
+  {
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-03-04T17:00:00",
+    "end_time": "2025-03-04T19:00:00",
+    "location": "Cheryl's Sunroom",
+    "related_entities": [
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
+    ],
+    "event_id": "evt_065"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-03-05T07:30:00",
-    "end_time": "2025-03-05T09:00:00",
+    "end_time": "2025-03-05T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_068"
+    "event_id": "evt_066"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-05T13:00:00",
     "end_time": "2025-03-05T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_067"
+  },
+  {
+    "title": "Snowfall - Cancel Hike",
+    "start_time": "2025-03-06T08:00:00",
+    "end_time": "2025-03-06T09:30:00",
+    "location": "Home",
+    "related_entities": [],
+    "event_id": "evt_068"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-03-06T13:00:00",
+    "end_time": "2025-03-06T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
     "event_id": "evt_069"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-06T07:30:00",
-    "end_time": "2025-03-06T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_070"
-  },
-  {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-03-06T16:00:00",
-    "end_time": "2025-03-06T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
-    "event_id": "evt_071"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-07T07:30:00",
-    "end_time": "2025-03-07T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_072"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-07T13:00:00",
     "end_time": "2025-03-07T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_073"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_070"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-03-08T07:30:00",
-    "end_time": "2025-03-08T09:00:00",
+    "end_time": "2025-03-08T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_074"
+    "event_id": "evt_071"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-03-10T07:30:00",
-    "end_time": "2025-03-10T09:00:00",
+    "end_time": "2025-03-10T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_075"
+    "event_id": "evt_072"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-10T13:00:00",
     "end_time": "2025-03-10T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_076"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-11T07:30:00",
-    "end_time": "2025-03-11T09:00:00",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_077"
+    "event_id": "evt_073"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-03-11T13:00:00",
+    "end_time": "2025-03-11T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_074"
+  },
+  {
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-03-11T17:00:00",
+    "end_time": "2025-03-11T19:00:00",
+    "location": "Cheryl's Sunroom",
+    "related_entities": [
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
+    ],
+    "event_id": "evt_075"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-03-12T07:30:00",
-    "end_time": "2025-03-12T09:00:00",
+    "end_time": "2025-03-12T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_078"
-  },
-  {
-    "title": "Car Service \u2013 Oil Change",
-    "start_time": "2025-03-12T11:00:00",
-    "end_time": "2025-03-12T12:30:00",
-    "related_entities": [
-      "Subaru Service"
-    ],
-    "location": "Hunter Subaru",
-    "event_id": "evt_079"
+    "event_id": "evt_076"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-12T13:00:00",
     "end_time": "2025-03-12T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_080"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_077"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-13T07:30:00",
-    "end_time": "2025-03-13T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-03-13T13:00:00",
+    "end_time": "2025-03-13T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_081"
-  },
-  {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-03-13T16:00:00",
-    "end_time": "2025-03-13T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
-    "event_id": "evt_082"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-14T07:30:00",
-    "end_time": "2025-03-14T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_083"
+    "event_id": "evt_078"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-14T13:00:00",
     "end_time": "2025-03-14T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_084"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_079"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-03-15T07:30:00",
-    "end_time": "2025-03-15T09:00:00",
+    "end_time": "2025-03-15T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_085"
+    "event_id": "evt_080"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-03-17T07:30:00",
-    "end_time": "2025-03-17T09:00:00",
+    "end_time": "2025-03-17T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_086"
+    "event_id": "evt_081"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-17T13:00:00",
     "end_time": "2025-03-17T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_087"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-18T07:30:00",
-    "end_time": "2025-03-18T09:00:00",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_088"
+    "event_id": "evt_082"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-03-18T13:00:00",
+    "end_time": "2025-03-18T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_083"
+  },
+  {
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-03-18T17:00:00",
+    "end_time": "2025-03-18T19:00:00",
+    "location": "Cheryl's Sunroom",
+    "related_entities": [
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
+    ],
+    "event_id": "evt_084"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-03-19T07:30:00",
-    "end_time": "2025-03-19T09:00:00",
+    "end_time": "2025-03-19T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_089"
+    "event_id": "evt_085"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-19T13:00:00",
     "end_time": "2025-03-19T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_090"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_086"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-20T07:30:00",
-    "end_time": "2025-03-20T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-03-20T13:00:00",
+    "end_time": "2025-03-20T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_091"
-  },
-  {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-03-20T16:00:00",
-    "end_time": "2025-03-20T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
-    "event_id": "evt_092"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-21T07:30:00",
-    "end_time": "2025-03-21T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_093"
+    "event_id": "evt_087"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-21T13:00:00",
     "end_time": "2025-03-21T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_094"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_088"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-03-22T07:30:00",
-    "end_time": "2025-03-22T09:00:00",
+    "end_time": "2025-03-22T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_095"
+    "event_id": "evt_089"
   },
   {
-    "title": "Emergency Vet Visit (Milo)",
-    "start_time": "2025-03-22T18:00:00",
-    "end_time": "2025-03-22T19:30:00",
-    "related_entities": [
-      "Redwood Animal Hospital"
-    ],
-    "location": "Redwood Animal Hospital",
-    "event_id": "evt_096"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-03-24T07:30:00",
-    "end_time": "2025-03-24T09:00:00",
+    "end_time": "2025-03-24T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_097"
+    "event_id": "evt_090"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-24T13:00:00",
     "end_time": "2025-03-24T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_098"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-25T07:30:00",
-    "end_time": "2025-03-25T09:00:00",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_099"
+    "event_id": "evt_091"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-03-25T13:00:00",
+    "end_time": "2025-03-25T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_092"
+  },
+  {
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-03-25T17:00:00",
+    "end_time": "2025-03-25T19:00:00",
+    "location": "Cheryl's Sunroom",
+    "related_entities": [
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
+    ],
+    "event_id": "evt_093"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-03-26T07:30:00",
-    "end_time": "2025-03-26T09:00:00",
+    "end_time": "2025-03-26T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_100"
+    "event_id": "evt_094"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-26T13:00:00",
     "end_time": "2025-03-26T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_101"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_095"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-27T07:30:00",
-    "end_time": "2025-03-27T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-03-27T13:00:00",
+    "end_time": "2025-03-27T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_102"
-  },
-  {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-03-27T16:00:00",
-    "end_time": "2025-03-27T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
-    "event_id": "evt_103"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-28T07:30:00",
-    "end_time": "2025-03-28T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_104"
+    "event_id": "evt_096"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-28T13:00:00",
     "end_time": "2025-03-28T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_105"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_097"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-03-29T07:30:00",
-    "end_time": "2025-03-29T09:00:00",
+    "end_time": "2025-03-29T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_106"
+    "event_id": "evt_098"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-03-31T07:30:00",
-    "end_time": "2025-03-31T09:00:00",
+    "title": "Volunteer - Farmers Market Storytime",
+    "start_time": "2025-03-29T10:00:00",
+    "end_time": "2025-03-29T12:00:00",
+    "location": "North Asheville Tailgate Market",
     "related_entities": [
-      "Self"
+      {
+        "name": "North AVL Market",
+        "relation": "community org"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_107"
+    "event_id": "evt_099"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-03-31T07:30:00",
+    "end_time": "2025-03-31T09:30:00",
+    "location": "Blue Ridge Parkway",
+    "related_entities": [
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
+    ],
+    "event_id": "evt_100"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-03-31T13:00:00",
     "end_time": "2025-03-31T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_108"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-01T07:30:00",
-    "end_time": "2025-04-01T09:00:00",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_109"
+    "event_id": "evt_101"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-04-01T13:00:00",
+    "end_time": "2025-04-01T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_102"
+  },
+  {
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-04-01T17:00:00",
+    "end_time": "2025-04-01T19:00:00",
+    "location": "Cheryl's Sunroom",
+    "related_entities": [
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
+    ],
+    "event_id": "evt_103"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-04-02T07:30:00",
-    "end_time": "2025-04-02T09:00:00",
+    "end_time": "2025-04-02T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_110"
+    "event_id": "evt_104"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-04-02T13:00:00",
     "end_time": "2025-04-02T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_111"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_105"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-03T07:30:00",
-    "end_time": "2025-04-03T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-04-03T13:00:00",
+    "end_time": "2025-04-03T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_112"
-  },
-  {
-    "title": "Haircut",
-    "start_time": "2025-04-03T14:00:00",
-    "end_time": "2025-04-03T14:45:00",
-    "related_entities": [
-      "Lotus Salon"
-    ],
-    "location": "Lotus Salon Downtown",
-    "event_id": "evt_113"
-  },
-  {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-04-03T16:00:00",
-    "end_time": "2025-04-03T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
-    "event_id": "evt_114"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-04T07:30:00",
-    "end_time": "2025-04-04T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_115"
+    "event_id": "evt_106"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-04-04T13:00:00",
     "end_time": "2025-04-04T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_116"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_107"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-04-05T07:30:00",
-    "end_time": "2025-04-05T09:00:00",
+    "end_time": "2025-04-05T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_117"
+    "event_id": "evt_108"
   },
   {
-    "title": "Drive to Charlotte Airport",
-    "start_time": "2025-04-05T08:00:00",
-    "end_time": "2025-04-05T10:30:00",
+    "title": "Botanical Garden Sketch Day",
+    "start_time": "2025-04-05T10:30:00",
+    "end_time": "2025-04-05T12:30:00",
+    "location": "Asheville Botanical Garden",
     "related_entities": [
-      "Self"
+      {
+        "name": "Asheville Garden Society",
+        "relation": "community group"
+      }
     ],
-    "location": "I-40 E",
-    "event_id": "evt_118"
+    "event_id": "evt_109"
   },
   {
-    "title": "Flight CLT \u2192 MCO",
-    "start_time": "2025-04-05T12:00:00",
-    "end_time": "2025-04-05T13:45:00",
-    "related_entities": [
-      "American Airlines"
-    ],
-    "location": "Charlotte Douglas International Airport",
-    "event_id": "evt_119"
-  },
-  {
-    "title": "Check\u2011in Eatonville B&B",
-    "start_time": "2025-04-05T16:00:00",
-    "end_time": "2025-04-05T16:30:00",
-    "related_entities": [
-      "Magnolia Inn"
-    ],
-    "location": "Eatonville, FL",
-    "event_id": "evt_120"
-  },
-  {
-    "title": "Zora Neale Hurston Museum Visit",
-    "start_time": "2025-04-06T10:00:00",
-    "end_time": "2025-04-06T12:00:00",
-    "related_entities": [
-      "Hurston Museum"
-    ],
-    "location": "Eatonville",
-    "event_id": "evt_121"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-04-07T07:30:00",
-    "end_time": "2025-04-07T09:00:00",
+    "end_time": "2025-04-07T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_122"
-  },
-  {
-    "title": "Leu Gardens Stroll",
-    "start_time": "2025-04-07T09:30:00",
-    "end_time": "2025-04-07T12:00:00",
-    "related_entities": [
-      "Harry P. Leu Gardens"
-    ],
-    "location": "Orlando, FL",
-    "event_id": "evt_123"
+    "event_id": "evt_110"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-04-07T13:00:00",
     "end_time": "2025-04-07T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_124"
-  },
-  {
-    "title": "Postcards Writing Session",
-    "start_time": "2025-04-07T16:00:00",
-    "end_time": "2025-04-07T17:00:00",
     "related_entities": [
-      "Friends & Family"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "B&B Veranda",
-    "event_id": "evt_125"
+    "event_id": "evt_111"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-08T07:30:00",
-    "end_time": "2025-04-08T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-04-08T13:00:00",
+    "end_time": "2025-04-08T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_126"
+    "event_id": "evt_112"
   },
   {
-    "title": "Flight MCO \u2192 CLT",
-    "start_time": "2025-04-08T11:30:00",
-    "end_time": "2025-04-08T13:15:00",
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-04-08T17:00:00",
+    "end_time": "2025-04-08T19:00:00",
+    "location": "Cheryl's Sunroom",
     "related_entities": [
-      "American Airlines"
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
     ],
-    "location": "Orlando International Airport",
-    "event_id": "evt_127"
+    "event_id": "evt_113"
   },
   {
-    "title": "Drive back to Asheville",
-    "start_time": "2025-04-08T14:00:00",
-    "end_time": "2025-04-08T17:30:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "I-26 W",
-    "event_id": "evt_128"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-04-09T07:30:00",
-    "end_time": "2025-04-09T09:00:00",
+    "end_time": "2025-04-09T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_129"
+    "event_id": "evt_114"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-04-09T13:00:00",
     "end_time": "2025-04-09T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_130"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_115"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-10T07:30:00",
-    "end_time": "2025-04-10T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-04-10T13:00:00",
+    "end_time": "2025-04-10T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_131"
-  },
-  {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-04-10T16:00:00",
-    "end_time": "2025-04-10T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
-    "event_id": "evt_132"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-11T07:30:00",
-    "end_time": "2025-04-11T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_133"
+    "event_id": "evt_116"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-04-11T13:00:00",
     "end_time": "2025-04-11T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_134"
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_117"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-04-12T07:30:00",
-    "end_time": "2025-04-12T09:00:00",
+    "end_time": "2025-04-12T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_135"
+    "event_id": "evt_118"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Power Outage - Reschedule Orders",
+    "start_time": "2025-04-12T13:00:00",
+    "end_time": "2025-04-12T14:30:00",
+    "location": "Home",
+    "related_entities": [],
+    "event_id": "evt_119"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-04-14T07:30:00",
-    "end_time": "2025-04-14T09:00:00",
+    "end_time": "2025-04-14T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_136"
+    "event_id": "evt_120"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-04-14T13:00:00",
     "end_time": "2025-04-14T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
-    "event_id": "evt_137"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-15T07:30:00",
-    "end_time": "2025-04-15T09:00:00",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_138"
+    "event_id": "evt_121"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-04-15T13:00:00",
+    "end_time": "2025-04-15T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_122"
+  },
+  {
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-04-15T17:00:00",
+    "end_time": "2025-04-15T19:00:00",
+    "location": "Cheryl's Sunroom",
+    "related_entities": [
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
+    ],
+    "event_id": "evt_123"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
     "start_time": "2025-04-16T07:30:00",
-    "end_time": "2025-04-16T09:00:00",
+    "end_time": "2025-04-16T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Craggy Gardens Trailhead",
-    "event_id": "evt_139"
+    "event_id": "evt_124"
   },
   {
     "title": "Pack & Ship Online Orders",
     "start_time": "2025-04-16T13:00:00",
     "end_time": "2025-04-16T15:00:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
     "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_125"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-04-17T13:00:00",
+    "end_time": "2025-04-17T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_126"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-04-18T13:00:00",
+    "end_time": "2025-04-18T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_127"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-04-19T07:30:00",
+    "end_time": "2025-04-19T09:30:00",
+    "location": "Blue Ridge Parkway",
+    "related_entities": [
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
+    ],
+    "event_id": "evt_128"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-04-21T07:30:00",
+    "end_time": "2025-04-21T09:30:00",
+    "location": "Blue Ridge Parkway",
+    "related_entities": [
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
+    ],
+    "event_id": "evt_129"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-04-21T13:00:00",
+    "end_time": "2025-04-21T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_130"
+  },
+  {
+    "title": "Haircut",
+    "start_time": "2025-04-22T15:00:00",
+    "end_time": "2025-04-22T16:00:00",
+    "location": "Willow & Co. Salon",
+    "related_entities": [
+      {
+        "name": "Willow & Co. Salon",
+        "relation": "hair salon"
+      }
+    ],
+    "event_id": "evt_131"
+  },
+  {
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-04-22T17:00:00",
+    "end_time": "2025-04-22T19:00:00",
+    "location": "Cheryl's Sunroom",
+    "related_entities": [
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
+    ],
+    "event_id": "evt_132"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-04-23T07:30:00",
+    "end_time": "2025-04-23T09:30:00",
+    "location": "Blue Ridge Parkway",
+    "related_entities": [
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
+    ],
+    "event_id": "evt_133"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-04-25T13:00:00",
+    "end_time": "2025-04-25T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_134"
+  },
+  {
+    "title": "Volunteer - Farmers Market Storytime",
+    "start_time": "2025-04-26T10:00:00",
+    "end_time": "2025-04-26T12:00:00",
+    "location": "North Asheville Tailgate Market",
+    "related_entities": [
+      {
+        "name": "North AVL Market",
+        "relation": "community org"
+      }
+    ],
+    "event_id": "evt_135"
+  },
+  {
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-04-29T17:00:00",
+    "end_time": "2025-04-29T19:00:00",
+    "location": "Cheryl's Sunroom",
+    "related_entities": [
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
+    ],
+    "event_id": "evt_136"
+  },
+  {
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-04-30T07:30:00",
+    "end_time": "2025-04-30T09:30:00",
+    "location": "Blue Ridge Parkway",
+    "related_entities": [
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
+    ],
+    "event_id": "evt_137"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-04-30T13:00:00",
+    "end_time": "2025-04-30T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
+    "event_id": "evt_138"
+  },
+  {
+    "title": "Drive to Charleston",
+    "start_time": "2025-05-02T09:00:00",
+    "end_time": "2025-05-02T12:00:00",
+    "location": "I-26 East",
+    "related_entities": [],
+    "event_id": "evt_139"
+  },
+  {
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-05-02T13:00:00",
+    "end_time": "2025-05-02T15:00:00",
+    "location": "Home Office",
+    "related_entities": [
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
+    ],
     "event_id": "evt_140"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-17T07:30:00",
-    "end_time": "2025-04-17T09:00:00",
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-05-03T07:30:00",
+    "end_time": "2025-05-03T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Rattlesnake Lodge Trail",
     "event_id": "evt_141"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-18T07:30:00",
-    "end_time": "2025-04-18T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Rattlesnake Lodge Trail",
+    "title": "Drive Back to Asheville",
+    "start_time": "2025-05-04T10:00:00",
+    "end_time": "2025-05-04T13:00:00",
+    "location": "I-26 West",
+    "related_entities": [],
     "event_id": "evt_142"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-19T07:30:00",
-    "end_time": "2025-04-19T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-05-05T13:00:00",
+    "end_time": "2025-05-05T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Rattlesnake Lodge Trail",
     "event_id": "evt_143"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-21T07:30:00",
-    "end_time": "2025-04-21T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-05-06T13:00:00",
+    "end_time": "2025-05-06T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Rattlesnake Lodge Trail",
     "event_id": "evt_144"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-22T07:30:00",
-    "end_time": "2025-04-22T09:00:00",
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-05-06T17:00:00",
+    "end_time": "2025-05-06T19:00:00",
+    "location": "Cheryl's Sunroom",
     "related_entities": [
-      "Self"
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
     ],
-    "location": "Rattlesnake Lodge Trail",
     "event_id": "evt_145"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-23T07:30:00",
-    "end_time": "2025-04-23T09:00:00",
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-05-07T07:30:00",
+    "end_time": "2025-05-07T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Rattlesnake Lodge Trail",
     "event_id": "evt_146"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-24T07:30:00",
-    "end_time": "2025-04-24T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-05-07T13:00:00",
+    "end_time": "2025-05-07T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Rattlesnake Lodge Trail",
     "event_id": "evt_147"
   },
   {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-04-24T16:00:00",
-    "end_time": "2025-04-24T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
+    "title": "Hold: Spring Cleaning Day",
+    "start_time": "2025-05-08T11:00:00",
+    "end_time": "2025-05-08T13:00:00",
+    "location": "Home",
+    "related_entities": [],
     "event_id": "evt_148"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-25T07:30:00",
-    "end_time": "2025-04-25T09:00:00",
+    "title": "Pack & Ship Online Orders",
+    "start_time": "2025-05-09T13:00:00",
+    "end_time": "2025-05-09T15:00:00",
+    "location": "Home Office",
     "related_entities": [
-      "Self"
+      {
+        "name": "Blue Ridge Kids Books",
+        "relation": "online bookstore"
+      },
+      {
+        "name": "USPS Asheville Annex",
+        "relation": "post office"
+      }
     ],
-    "location": "Rattlesnake Lodge Trail",
     "event_id": "evt_149"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-26T07:30:00",
-    "end_time": "2025-04-26T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Rattlesnake Lodge Trail",
+    "title": "TBD: Garden Society Meeting",
+    "start_time": "2025-05-11T17:00:00",
+    "end_time": "2025-05-11T19:00:00",
+    "location": "Asheville Botanical Garden",
+    "related_entities": [],
     "event_id": "evt_150"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-28T07:30:00",
-    "end_time": "2025-04-28T09:00:00",
+    "title": "Neighborhood Book Club",
+    "start_time": "2025-05-13T17:00:00",
+    "end_time": "2025-05-13T19:00:00",
+    "location": "Cheryl's Sunroom",
     "related_entities": [
-      "Self"
+      {
+        "name": "Marjorie Phillips",
+        "relation": "neighbor"
+      },
+      {
+        "name": "Helen Brooks",
+        "relation": "neighbor"
+      }
     ],
-    "location": "Rattlesnake Lodge Trail",
     "event_id": "evt_151"
   },
   {
-    "title": "Research Savannah Literary Trail (Tentative)",
-    "start_time": "2025-04-28T14:00:00",
-    "end_time": "2025-04-28T15:30:00",
+    "title": "Morning Hike - Blue Ridge Trail",
+    "start_time": "2025-05-14T07:30:00",
+    "end_time": "2025-05-14T09:30:00",
+    "location": "Blue Ridge Parkway",
     "related_entities": [
-      "Self"
+      {
+        "name": "Deborah Miller",
+        "relation": "hiking friend"
+      }
     ],
-    "location": "Home Office",
     "event_id": "evt_152"
   },
   {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-29T07:30:00",
-    "end_time": "2025-04-29T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Rattlesnake Lodge Trail",
-    "event_id": "evt_153"
-  },
-  {
-    "title": "Morning Hike \u2013 Blue Ridge",
-    "start_time": "2025-04-30T07:30:00",
-    "end_time": "2025-04-30T09:00:00",
-    "related_entities": [
-      "Self"
-    ],
-    "location": "Rattlesnake Lodge Trail",
-    "event_id": "evt_154"
-  },
-  {
-    "title": "Order Inventory Restock",
-    "start_time": "2025-05-03T11:00:00",
-    "end_time": "2025-05-03T12:30:00",
-    "related_entities": [
-      "BlueJay Rare Books"
-    ],
+    "title": "Draft Newsletter - Rare Finds",
+    "start_time": "2025-05-15T09:00:00",
+    "end_time": "2025-05-15T11:00:00",
     "location": "Home Office",
-    "event_id": "evt_155"
-  },
-  {
-    "title": "Neighborhood Book Club",
-    "start_time": "2025-05-08T16:00:00",
-    "end_time": "2025-05-08T17:30:00",
-    "related_entities": [
-      "Neighbors"
-    ],
-    "location": "Cheryl's Sunroom",
-    "event_id": "evt_156"
-  },
-  {
-    "title": "Savannah Trip \u2013 Reserve Train Ticket",
-    "start_time": "2025-05-10T10:00:00",
-    "end_time": "2025-05-10T10:45:00",
-    "related_entities": [
-      "Amtrak"
-    ],
-    "location": "Online",
-    "event_id": "evt_157"
+    "related_entities": [],
+    "event_id": "evt_153"
   }
 ]

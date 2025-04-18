@@ -23,11 +23,11 @@
   <script>
     // Mapping label -> JSON file
     const personas = {
-      "Alondra Reyes": "calendar1.json",
-      "Marcus Chen":   "calendar2.json",
-      "Simone Hartfield": "calendar3.json",
-      "Jordan Patel":  "calendar4.json",
-      "Cheryl Dawson": "calendar5.json"
+      "Alondra Reyes": "calendar1.json",
+      "Marcus Chen":   "calendar2.json",
+      "Simone Hartfield": "calendar3.json",
+      "Jordan Patel":  "calendar4.json",
+      "Cheryl Dawson": "calendar5.json"
     };
 
     const tabsDiv = document.getElementById('tabs');
@@ -55,10 +55,10 @@
             title:  e.title,
             start:  e.start_time,
             end:    e.end_time,
-            extendedProps: {
-              location: e.location,
-              related:  e.related_entities.join(', ')
-            }
+            // extendedProps: {
+            //   location: e.location,
+            //   related:  e.related_entities.join(', ')
+            // }
           }));
 
           new FullCalendar.Calendar(wrap, {
@@ -71,10 +71,10 @@
             },
             eventTimeFormat: { hour: '2-digit', minute: '2-digit', hour12: false },
             events,
-            eventDidMount: info => {
-              info.el.title = `${info.event.extendedProps.location}
-${info.event.extendedProps.related}`;
-            }
+//             eventDidMount: info => {
+//               info.el.title = `${info.event.extendedProps.location}
+// ${info.event.extendedProps.related}`;
+//             }
           }).render();
         });
 

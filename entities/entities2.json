@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Riverside Pediatrics Clinic",
+    "relation": "clinic",
+    "description": "Riverside Pediatrics Clinic is the pediatric clinic where Marcus works, known for its warm atmosphere and family-focused care."
+  },
+  {
+    "name": "Dr. Emily Foster",
+    "relation": "coworker",
+    "description": "Dr. Emily Foster works alongside Marcus at the clinic, sharing patient duties and supporting pediatric care."
+  },
+  {
+    "name": "Nurse Sarah Lee",
+    "relation": "coworker",
+    "description": "Nurse Sarah Lee works alongside Marcus at the clinic, sharing patient duties and supporting pediatric care."
+  },
+  {
+    "name": "Tom Johnson",
+    "relation": "office manager",
+    "description": "Tom Johnson manages scheduling, records, and front-desk operations at Marcus\u2019s clinic with dependable efficiency."
+  },
+  {
+    "name": "Alex Chen",
+    "relation": "son",
+    "description": "Alex Chen is Marcus's teenage son, active in school and sports, often the center of Marcus\u2019s weekend plans."
+  },
+  {
+    "name": "Coach Ryan Walker",
+    "relation": "soccer coach",
+    "description": "Coach Ryan Walker coaches Alex\u2019s soccer team, coordinating games that Marcus attends or volunteers for on weekends."
+  },
+  {
+    "name": "Grace Chen",
+    "relation": "daughter",
+    "description": "Grace Chen is Marcus\u2019s daughter, balancing band practice and schoolwork, and a frequent presence in his emails."
+  },
+  {
+    "name": "Ms. Abigail Green",
+    "relation": "band director",
+    "description": "Ms. Abigail Green directs Grace\u2019s school band, often in touch with Marcus about upcoming performances or fundraisers."
+  },
+  {
+    "name": "Linda Chen",
+    "relation": "wife",
+    "description": "Linda Chen is Marcus\u2019s supportive partner and co-planner for all things family, from road trips to school meetings."
+  },
+  {
+    "name": "Dr. Maria Gonzales",
+    "relation": "primary care physician",
+    "description": "Dr. Maria Gonzales is Marcus\u2019s own doctor, handling his general checkups and medical questions with mutual respect."
+  },
+  {
+    "name": "Twin Cities HVAC Services",
+    "relation": "technician",
+    "description": "Twin Cities HVAC Services provides reliable HVAC maintenance to the Chen household, especially important during Minnesota winters."
+  },
+  {
+    "name": "Amy Johnson",
+    "relation": "neighbor",
+    "description": "Amy Johnson lives near Marcus and often joins in block gatherings or helps with neighborhood coordination."
+  },
+  {
+    "name": "Mark Johnson",
+    "relation": "neighbor",
+    "description": "Mark Johnson lives near Marcus and often joins in block gatherings or helps with neighborhood coordination."
+  },
+  {
+    "name": "Dr. Alan Baker",
+    "relation": "dentist",
+    "description": "Dr. Alan Baker is the family dentist Marcus trusts for regular cleanings and dental care for his kids."
+  },
+  {
+    "name": "Voyageur Cabins",
+    "relation": "cabin rental",
+    "description": "Voyageur Cabins is a favorite retreat for the Chen family, offering peaceful lakeside escapes during summer breaks."
+  },
+  {
+    "name": "Valvoline Maple Grove",
+    "relation": "car service",
+    "description": "Valvoline Maple Grove is where Marcus brings the family car for oil changes and inspections during his day off."
+  },
+  {
+    "name": "Lakeview PTA Board",
+    "relation": "PTA",
+    "description": "Lakeview PTA Board is the local school parent board that Marcus occasionally supports through meetings or fundraisers."
+  },
+  {
+    "name": "VisionWorks Plymouth",
+    "relation": "optometrist",
+    "description": "VisionWorks Plymouth handles the family\u2019s vision needs, including annual checkups and prescription updates."
+  },
+  {
+    "name": "Dr. Helen Shafer",
+    "relation": "dermatologist",
+    "description": "Dr. Helen Shafer is the dermatologist Marcus visits for routine skin health checks and seasonal concerns."
+  },
+  {
+    "name": "Elm Creek Volunteer Org",
+    "relation": "community organization",
+    "description": "Elm Creek Volunteer Org coordinates local volunteering events Marcus sometimes joins with his kids to give back to the community."
+  },
+  {
+    "name": "Dr. Kevin Wu",
+    "relation": "friend",
+    "description": "Dr. Kevin Wu is a longtime friend from medical school whom Marcus occasionally meets for coffee or advice."
+  },
+  {
+    "name": "Maple Grove Salon",
+    "relation": "hair salon",
+    "description": "Maple Grove Salon is Marcus\u2019s go-to spot for quick trims and family haircuts before big holidays or events."
+  },
+  {
+    "name": "Cafe Lurcat",
+    "relation": "restaurant",
+    "description": "Cafe Lurcat is a quiet downtown favorite Marcus and Linda visit for date nights or anniversary dinners."
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Maya Gonzalez",
+    "relation": "coworker",
+    "description": "Maya Gonzalez works with Alondra at the boutique music label, often collaborating on campaigns and event logistics."
+  },
+  {
+    "name": "Eric Kim",
+    "relation": "coworker",
+    "description": "Eric Kim works with Alondra at the boutique music label, often collaborating on campaigns and event logistics."
+  },
+  {
+    "name": "Luis Ramirez",
+    "relation": "coworker",
+    "description": "Luis Ramirez works with Alondra at the boutique music label, often collaborating on campaigns and event logistics."
+  },
+  {
+    "name": "Kevin Liu",
+    "relation": "friend",
+    "description": "Kevin Liu is one of Alondra's close friends, often part of her weekend hangouts or music festival adventures."
+  },
+  {
+    "name": "Broken Spanish",
+    "relation": "favorite restaurant",
+    "description": "Broken Spanish is one of Alondra's go-to spots for trendy bites, especially when she's chasing Korean-Mexican fusion or unique flavors."
+  },
+  {
+    "name": "Priya Patel",
+    "relation": "coworker",
+    "description": "Priya Patel works with Alondra at the boutique music label, often collaborating on campaigns and event logistics."
+  },
+  {
+    "name": "Natalie Chen",
+    "relation": "creative director",
+    "description": "Natalie Chen oversees the label's artistic vision, working closely with Alondra on brand campaigns and visuals."
+  },
+  {
+    "name": "The Echo",
+    "relation": "music venue",
+    "description": "The Echo is one of Alondra's favorite venues for catching live music, industry events, or spontaneous nights out."
+  },
+  {
+    "name": "PilatesWorks Studio",
+    "relation": "fitness studio",
+    "description": "PilatesWorks Studio is where Alondra unwinds with weekend pilates classes to reset after a busy week."
+  },
+  {
+    "name": "Dr. Evelyn Hart",
+    "relation": "dermatologist",
+    "description": "Dr. Evelyn Hart is Alondra's trusted skincare expert, keeping her glowing through hectic work schedules."
+  },
+  {
+    "name": "Sofia Torres",
+    "relation": "friend",
+    "description": "Sofia Torres is one of Alondra's close friends, often part of her weekend hangouts or music festival adventures."
+  },
+  {
+    "name": "Guelaguetza",
+    "relation": "favorite restaurant",
+    "description": "Guelaguetza is one of Alondra's go-to spots for trendy bites, especially when she's chasing Korean-Mexican fusion or unique flavors."
+  },
+  {
+    "name": "Juliana Rivera",
+    "relation": "friend",
+    "description": "Juliana Rivera is one of Alondra's close friends, often part of her weekend hangouts or music festival adventures."
+  },
+  {
+    "name": "Best Friend",
+    "relation": "favorite restaurant",
+    "description": "Best Friend is one of Alondra's go-to spots for trendy bites, especially when she's chasing Korean-Mexican fusion or unique flavors."
+  },
+  {
+    "name": "Jiffy Lube Los Feliz",
+    "relation": "car service",
+    "description": "Jiffy Lube Los Feliz is where Alondra brings her car for quick maintenance between city gigs and road trips."
+  },
+  {
+    "name": "Daniel Park",
+    "relation": "friend",
+    "description": "Daniel Park is one of Alondra's close friends, often part of her weekend hangouts or music festival adventures."
+  },
+  {
+    "name": "Kogi Taqueria",
+    "relation": "favorite restaurant",
+    "description": "Kogi Taqueria is one of Alondra's go-to spots for trendy bites, especially when she's chasing Korean-Mexican fusion or unique flavors."
+  },
+  {
+    "name": "Aeromexico",
+    "relation": "airline",
+    "description": "Aeromexico is one of Alondra's preferred airlines for work trips and festival getaways."
+  },
+  {
+    "name": "Hotel Condesa DF",
+    "relation": "hotel",
+    "description": "Hotel Condesa DF is a stylish hotel Alondra chooses when traveling for music events or weekend escapes."
+  },
+  {
+    "name": "Laura Gutierrez",
+    "relation": "friend",
+    "description": "Laura Gutierrez is one of Alondra's close friends, often part of her weekend hangouts or music festival adventures."
+  },
+  {
+    "name": "Miguel Alvarez",
+    "relation": "friend",
+    "description": "Miguel Alvarez is one of Alondra's close friends, often part of her weekend hangouts or music festival adventures."
+  },
+  {
+    "name": "La Casita Mexicana",
+    "relation": "favorite restaurant",
+    "description": "La Casita Mexicana is one of Alondra's go-to spots for trendy bites, especially when she's chasing Korean-Mexican fusion or unique flavors."
+  },
+  {
+    "name": "Teragram Ballroom",
+    "relation": "music venue",
+    "description": "Teragram Ballroom is one of Alondra's favorite venues for catching live music, industry events, or spontaneous nights out."
+  },
+  {
+    "name": "Style Loft Salon",
+    "relation": "hair salon",
+    "description": "Style Loft Salon is Alondra's go-to for bold hair changes before big events or color-matching her vacation looks."
+  },
+  {
+    "name": "Dr. Carlos Ortiz",
+    "relation": "dentist",
+    "description": "Dr. Carlos Ortiz is Alondra's longtime dentist who helps her keep a camera-ready smile."
+  },
+  {
+    "name": "Southwest Airlines",
+    "relation": "airline",
+    "description": "Southwest Airlines is one of Alondra's preferred airlines for work trips and festival getaways."
+  },
+  {
+    "name": "SXSW Festival",
+    "relation": "music festival",
+    "description": "SXSW Festival is one of Alondra's must-attend annual festivals, inspiring her travel and outfit choices."
+  },
+  {
+    "name": "Night + Market Song",
+    "relation": "favorite restaurant",
+    "description": "Night + Market Song is one of Alondra's go-to spots for trendy bites, especially when she's chasing Korean-Mexican fusion or unique flavors."
+  },
+  {
+    "name": "Hollywood Bowl",
+    "relation": "music venue",
+    "description": "Hollywood Bowl is one of Alondra's favorite venues for catching live music, industry events, or spontaneous nights out."
+  },
+  {
+    "name": "Silver Lake Animal Hospital",
+    "relation": "veterinarian",
+    "description": "Silver Lake Animal Hospital is where Alondra takes her pet for checkups and care when juggling her hectic downtown lifestyle."
+  },
+  {
+    "name": "YMCA Downtown LA",
+    "relation": "gym",
+    "description": "YMCA Downtown LA is where Alondra sneaks in evening workouts when prepping for big events."
+  },
+  {
+    "name": "Treasures Korean-Mexican Fusion",
+    "relation": "favorite restaurant",
+    "description": "Treasures Korean-Mexican Fusion is one of Alondra's go-to spots for trendy bites, especially when she's chasing Korean-Mexican fusion or unique flavors."
+  },
+  {
+    "name": "Pendry San Diego",
+    "relation": "hotel",
+    "description": "Pendry San Diego is a stylish hotel Alondra chooses when traveling for music events or weekend escapes."
+  },
+  {
+    "name": "San Diego Zoo",
+    "relation": "attraction",
+    "description": "San Diego Zoo is a classic spot Alondra plans to visit during a quick getaway or trip with friends."
+  },
+  {
+    "name": "Greek Theatre LA",
+    "relation": "music venue",
+    "description": "Greek Theatre LA is one of Alondra's favorite venues for catching live music, industry events, or spontaneous nights out."
+  },
+  {
+    "name": "Hop Woo BBQ",
+    "relation": "favorite restaurant",
+    "description": "Hop Woo BBQ is one of Alondra's go-to spots for trendy bites, especially when she's chasing Korean-Mexican fusion or unique flavors."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Linda Jenkins",
+    "relation": "sister",
+    "description": "Linda Jenkins is Cheryl\u2019s sister and close confidante, often exchanging long phone calls and book recommendations."
+  },
+  {
+    "name": "Michael Dawson",
+    "relation": "husband",
+    "description": "Michael Dawson is Cheryl\u2019s hiking partner and lifelong companion, often found by her side during quiet mornings in the mountains."
+  },
+  {
+    "name": "USPS Asheville Main Post Office",
+    "relation": "post office",
+    "description": "USPS Asheville Main Post Office is where Cheryl regularly drops off orders for her bookstore, often chatting with familiar clerks at the counter."
+  },
+  {
+    "name": "Nora Patel",
+    "relation": "neighbor",
+    "description": "Nora Patel is part of Cheryl\u2019s tight-knit community, often seen at book club meetings or lending a hand with small favors."
+  },
+  {
+    "name": "Gloria Ramirez",
+    "relation": "neighbor",
+    "description": "Gloria Ramirez is part of Cheryl\u2019s tight-knit community, often seen at book club meetings or lending a hand with small favors."
+  },
+  {
+    "name": "Ethan Price",
+    "relation": "neighbor",
+    "description": "Ethan Price is part of Cheryl\u2019s tight-knit community, often seen at book club meetings or lending a hand with small favors."
+  },
+  {
+    "name": "Sarah Kim",
+    "relation": "neighbor",
+    "description": "Sarah Kim is part of Cheryl\u2019s tight-knit community, often seen at book club meetings or lending a hand with small favors."
+  },
+  {
+    "name": "Dr. Evelyn Hart",
+    "relation": "dentist",
+    "description": "Dr. Evelyn Hart is Cheryl\u2019s longtime dentist, known for gentle cleanings and good conversation during routine visits."
+  },
+  {
+    "name": "Lila Monroe",
+    "relation": "hairdresser",
+    "description": "Lila Monroe styles Cheryl\u2019s hair every few weeks, keeping things simple and classic with friendly updates on local happenings."
+  },
+  {
+    "name": "Blue Ridge Auto Service",
+    "relation": "auto service",
+    "description": "Blue Ridge Auto Service is the local garage Cheryl trusts for inspections and oil changes before road trips or scenic drives."
+  },
+  {
+    "name": "American Booksellers Association",
+    "relation": "professional org",
+    "description": "American Booksellers Association connects Cheryl to fellow indie booksellers, offering newsletters, resources, and occasional conferences."
+  },
+  {
+    "name": "Emma Wiles",
+    "relation": "friend",
+    "description": "Emma Wiles is Cheryl\u2019s longtime friend and sketching buddy, often joining her on slow-paced travel adventures."
+  },
+  {
+    "name": "Sunny Point Cafe",
+    "relation": "favorite restaurant",
+    "description": "Sunny Point Cafe is Cheryl\u2019s favorite brunch spot, known for its fresh ingredients and quiet patio\u2014perfect for journaling."
+  },
+  {
+    "name": "Asheville Civic Center",
+    "relation": "event venue",
+    "description": "Asheville Civic Center hosts local author readings and seasonal events that Cheryl occasionally attends for inspiration or leisure."
+  },
+  {
+    "name": "Savannah Tour Company",
+    "relation": "tour operator",
+    "description": "Savannah Tour Company offers leisurely, story-rich tours that align perfectly with Cheryl\u2019s love for history and local charm."
+  },
+  {
+    "name": "High Five Coffee",
+    "relation": "cafe",
+    "description": "High Five Coffee is a cozy local spot Cheryl stops by after hikes, often sketching quietly while enjoying her favorite latte."
+  }
+]

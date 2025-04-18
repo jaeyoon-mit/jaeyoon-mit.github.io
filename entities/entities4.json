@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Liam O'Connor",
+    "relation": "friend",
+    "description": "Liam O'Connor is one of Jordan\u2019s close friends, often joining him for weekend plans, debugging rants, or late-night ramen runs."
+  },
+  {
+    "name": "Sophie Lee",
+    "relation": "friend",
+    "description": "Sophie Lee is one of Jordan\u2019s close friends, often joining him for weekend plans, debugging rants, or late-night ramen runs."
+  },
+  {
+    "name": "Tatte Bakery & Cafe",
+    "relation": "favorite cafe",
+    "description": "Tatte Bakery & Cafe is Jordan\u2019s go-to spot for iced coffee and coding sprints, often where he camps out for hours with his laptop."
+  },
+  {
+    "name": "Raj Patel",
+    "relation": "father",
+    "description": "Raj Patel is Jordan\u2019s dad, occasionally texting reminders or sharing practical advice, often replied to with one-liners."
+  },
+  {
+    "name": "Anika Patel",
+    "relation": "mother",
+    "description": "Anika Patel is Jordan\u2019s mom, warm and supportive, checking in weekly with food photos and gentle nudges about his sleep habits."
+  },
+  {
+    "name": "Emily Chen",
+    "relation": "manager",
+    "description": "Emily Chen oversees Jordan\u2019s projects at Arcadia Robotics, balancing mentorship with an understanding of Jordan\u2019s quirks."
+  },
+  {
+    "name": "Alex Nguyen",
+    "relation": "coworker",
+    "description": "Alex Nguyen works with Jordan at Arcadia Robotics, often joining daily stand-ups and collaborating on bug-fixes or sprint reviews."
+  },
+  {
+    "name": "Priya Desai",
+    "relation": "coworker",
+    "description": "Priya Desai works with Jordan at Arcadia Robotics, often joining daily stand-ups and collaborating on bug-fixes or sprint reviews."
+  },
+  {
+    "name": "Carlos Ramirez",
+    "relation": "coworker",
+    "description": "Carlos Ramirez works with Jordan at Arcadia Robotics, often joining daily stand-ups and collaborating on bug-fixes or sprint reviews."
+  },
+  {
+    "name": "Yuki Sato",
+    "relation": "language tutor",
+    "description": "Yuki Sato helps Jordan with Japanese lessons as he prepares for a future trip to Tokyo and deeper cultural immersion."
+  },
+  {
+    "name": "MIT Hackathon",
+    "relation": "event organizer",
+    "description": "MIT Hackathon coordinates tech meetups and hackathons Jordan eagerly joins to test his skills and meet like-minded coders."
+  },
+  {
+    "name": "Evan Brooks",
+    "relation": "friend",
+    "description": "Evan Brooks is one of Jordan\u2019s close friends, often joining him for weekend plans, debugging rants, or late-night ramen runs."
+  },
+  {
+    "name": "Mount Snow Resort",
+    "relation": "ski resort",
+    "description": "Mount Snow Resort is a winter getaway Jordan visited with friends, despite packing the wrong gloves and spending more time in the lodge."
+  },
+  {
+    "name": "Allston Auto Repair",
+    "relation": "auto service",
+    "description": "Allston Auto Repair is where Jordan gets oil changes and last-minute inspections, usually remembered only when his car throws a warning."
+  },
+  {
+    "name": "Clip Joint Barbershop",
+    "relation": "barbershop",
+    "description": "Clip Joint Barbershop is Jordan\u2019s local barbershop, where he nervously over-explains his desired cut every single time."
+  },
+  {
+    "name": "Dr. Laura Chan",
+    "relation": "dentist",
+    "description": "Dr. Laura Chan is Jordan\u2019s dentist, known for professional cleanings and giving him the flossing guilt-trip twice a year."
+  },
+  {
+    "name": "Dr. Michael Rios",
+    "relation": "primary care physician",
+    "description": "Dr. Michael Rios is Jordan\u2019s go-to for physicals, shot records, and occasional reassurance that his Google diagnoses are wrong."
+  },
+  {
+    "name": "Amtrak",
+    "relation": "train",
+    "description": "Amtrak is Jordan\u2019s favorite way to visit friends in NYC\u2014less stress than flying and just enough time to squeeze in a nap."
+  },
+  {
+    "name": "Brooklyn Tech Collective",
+    "relation": "event organizer",
+    "description": "Brooklyn Tech Collective coordinates tech meetups and hackathons Jordan eagerly joins to test his skills and meet like-minded coders."
+  },
+  {
+    "name": "Blue Bottle Coffee",
+    "relation": "coffee shop",
+    "description": "Blue Bottle Coffee is where Jordan indulges his third caffeine fix of the day, especially when deep in a debugging spiral."
+  },
+  {
+    "name": "Arcadia Robotics",
+    "relation": "employer",
+    "description": "Arcadia Robotics is the Boston-based robotics startup where Jordan works as a junior software engineer, learning on the fly every day."
+  },
+  {
+    "name": "Kevin Zhou",
+    "relation": "friend",
+    "description": "Kevin Zhou is one of Jordan\u2019s close friends, often joining him for weekend plans, debugging rants, or late-night ramen runs."
+  },
+  {
+    "name": "Santouka Ramen",
+    "relation": "favorite restaurant"
+  },
+  {
+    "name": "Maya Patel",
+    "relation": "cousin",
+    "description": "Maya Patel is Jordan\u2019s cousin and occasional confidante, often sending memes or offering family updates between catch-ups."
+  }
+]

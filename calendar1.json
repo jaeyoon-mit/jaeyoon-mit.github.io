@@ -2,7 +2,7 @@
   {
     "event_id": "evt_001",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-01-20T11:00",
     "end_time": "2025-01-20T11:45",
     "location": "Zoom / Label HQ"
@@ -18,7 +18,7 @@
   {
     "event_id": "evt_003",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-01-23T16:00",
     "end_time": "2025-01-23T17:00",
     "location": "Creative Lounge"
@@ -34,7 +34,7 @@
   {
     "event_id": "evt_005",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-01-27T11:00",
     "end_time": "2025-01-27T11:45",
     "location": "Zoom / Label HQ"
@@ -50,7 +50,7 @@
   {
     "event_id": "evt_007",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-01-30T16:00",
     "end_time": "2025-01-30T17:00",
     "location": "Creative Lounge"
@@ -58,7 +58,7 @@
   {
     "event_id": "evt_008",
     "title": "Happy Hour with A&R Team",
-    "related_entities": ["A&R Colleagues"],
+    "related_entities": ["Maria Gonzalez", "Kevin Swift", "Joe Evans"],
     "start_time": "2025-01-30T17:30",
     "end_time": "2025-01-30T19:30",
     "location": "Golden Gopher Bar"
@@ -66,7 +66,7 @@
   {
     "event_id": "evt_009",
     "title": "Album Launch Kickoff Meeting",
-    "related_entities": ["Marketing Team", "A&R"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson", "Maria Gonzalez", "Kevin Swift", "Joe Evans"],
     "start_time": "2025-01-24T14:00",
     "end_time": "2025-01-24T16:00",
     "location": "Conference Room Echo"
@@ -74,7 +74,7 @@
   {
     "event_id": "evt_010",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-02-03T11:00",
     "end_time": "2025-02-03T11:45",
     "location": "Zoom / Label HQ"
@@ -98,7 +98,7 @@
   {
     "event_id": "evt_013",
     "title": "Women in Music Marketing Mixer",
-    "related_entities": ["WIMM"],
+    "related_entities": ["Women in Music Marketing (WIMM)"],
     "start_time": "2025-02-04T18:00",
     "end_time": "2025-02-04T20:00",
     "location": "The Mayan Rooftop"
@@ -106,7 +106,7 @@
   {
     "event_id": "evt_014",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-02-06T16:00",
     "end_time": "2025-02-06T17:00",
     "location": "Creative Lounge"
@@ -122,7 +122,7 @@
   {
     "event_id": "evt_016",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-02-10T11:00",
     "end_time": "2025-02-10T11:45",
     "location": "Zoom / Label HQ"
@@ -138,7 +138,7 @@
   {
     "event_id": "evt_018",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-02-13T16:00",
     "end_time": "2025-02-13T17:00",
     "location": "Creative Lounge"
@@ -146,7 +146,7 @@
   {
     "event_id": "evt_019",
     "title": "Flight LAX → LAS (Festival Weekend)",
-    "related_entities": ["Southwest"],
+    "related_entities": ["Southwest Airlines"],
     "start_time": "2025-02-14T09:00",
     "end_time": "2025-02-14T10:15",
     "location": "Los Angeles International Airport (LAX)"
@@ -178,7 +178,7 @@
   {
     "event_id": "evt_023",
     "title": "Flight LAS → LAX (Return)",
-    "related_entities": ["Southwest"],
+    "related_entities": ["Southwest Airlines"],
     "start_time": "2025-02-17T12:00",
     "end_time": "2025-02-17T13:15",
     "location": "Harry Reid International Airport (LAS)"
@@ -186,7 +186,7 @@
   {
     "event_id": "evt_024",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-02-17T11:00",
     "end_time": "2025-02-17T11:45",
     "location": "Zoom / Label HQ"
@@ -194,7 +194,7 @@
   {
     "event_id": "evt_025",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-02-20T16:00",
     "end_time": "2025-02-20T17:00",
     "location": "Creative Lounge"
@@ -210,7 +210,7 @@
   {
     "event_id": "evt_027",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-02-24T11:00",
     "end_time": "2025-02-24T11:45",
     "location": "Zoom / Label HQ"
@@ -226,7 +226,7 @@
   {
     "event_id": "evt_029",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-02-27T16:00",
     "end_time": "2025-02-27T17:00",
     "location": "Creative Lounge"
@@ -242,7 +242,7 @@
   {
     "event_id": "evt_031",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-03-03T11:00",
     "end_time": "2025-03-03T11:45",
     "location": "Zoom / Label HQ"
@@ -258,7 +258,7 @@
   {
     "event_id": "evt_033",
     "title": "Women in Music Marketing Mixer",
-    "related_entities": ["WIMM"],
+    "related_entities": ["Women in Music Marketing (WIMM)"],
     "start_time": "2025-03-04T18:00",
     "end_time": "2025-03-04T20:00",
     "location": "The Mayan Rooftop"
@@ -274,7 +274,7 @@
   {
     "event_id": "evt_035",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-03-06T16:00",
     "end_time": "2025-03-06T17:00",
     "location": "Creative Lounge"
@@ -290,7 +290,7 @@
   {
     "event_id": "evt_037",
     "title": "Camila's Birthday Dinner",
-    "related_entities": ["Camila"],
+    "related_entities": ["Camila Rodriguez"],
     "start_time": "2025-03-08T19:30",
     "end_time": "2025-03-08T22:00",
     "location": "Bavel Restaurant"
@@ -298,7 +298,7 @@
   {
     "event_id": "evt_038",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-03-10T11:00",
     "end_time": "2025-03-10T11:45",
     "location": "Zoom / Label HQ"
@@ -314,7 +314,7 @@
   {
     "event_id": "evt_040",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-03-13T16:00",
     "end_time": "2025-03-13T17:00",
     "location": "Creative Lounge"
@@ -322,7 +322,7 @@
   {
     "event_id": "evt_041",
     "title": "Haircut at Nova Salon",
-    "related_entities": ["Nova Salon"],
+    "related_entities": ["Nova Hair Salon"],
     "start_time": "2025-03-15T11:00",
     "end_time": "2025-03-15T12:00",
     "location": "Nova Salon Arts District"
@@ -338,7 +338,7 @@
   {
     "event_id": "evt_043",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-03-17T11:00",
     "end_time": "2025-03-17T11:45",
     "location": "Zoom / Label HQ"
@@ -346,7 +346,7 @@
   {
     "event_id": "evt_044",
     "title": "Drive to San Diego",
-    "related_entities": ["Self"],
+    "related_entities": [],
     "start_time": "2025-03-21T17:00",
     "end_time": "2025-03-21T20:00",
     "location": "I-5 S"
@@ -362,7 +362,7 @@
   {
     "event_id": "evt_046",
     "title": "Brunch with Maria",
-    "related_entities": ["Maria"],
+    "related_entities": ["Maria Gonzalez"],
     "start_time": "2025-03-22T10:00",
     "end_time": "2025-03-22T12:00",
     "location": "Morning Glory, San Diego"
@@ -370,7 +370,7 @@
   {
     "event_id": "evt_047",
     "title": "Beach Day - Pacific Beach",
-    "related_entities": ["Self"],
+    "related_entities": [],
     "start_time": "2025-03-22T14:00",
     "end_time": "2025-03-22T18:00",
     "location": "Pacific Beach"
@@ -378,7 +378,7 @@
   {
     "event_id": "evt_048",
     "title": "Drive back to LA",
-    "related_entities": ["Self"],
+    "related_entities": [],
     "start_time": "2025-03-23T15:00",
     "end_time": "2025-03-23T18:00",
     "location": "I-5 N"
@@ -386,7 +386,7 @@
   {
     "event_id": "evt_049",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-03-24T11:00",
     "end_time": "2025-03-24T11:45",
     "location": "Zoom / Label HQ"
@@ -402,7 +402,7 @@
   {
     "event_id": "evt_051",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-03-27T16:00",
     "end_time": "2025-03-27T17:00",
     "location": "Creative Lounge"
@@ -418,7 +418,7 @@
   {
     "event_id": "evt_053",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-03-31T11:00",
     "end_time": "2025-03-31T11:45",
     "location": "Zoom / Label HQ"
@@ -426,7 +426,7 @@
   {
     "event_id": "evt_054",
     "title": "Women in Music Marketing Mixer",
-    "related_entities": ["WIMM"],
+    "related_entities": ["Women in Music Marketing (WIMM)"],
     "start_time": "2025-04-01T18:00",
     "end_time": "2025-04-01T20:00",
     "location": "The Mayan Rooftop"
@@ -442,7 +442,7 @@
   {
     "event_id": "evt_056",
     "title": "Final Creative Review for Upcoming EP",
-    "related_entities": ["Design Team", "A&R"],
+    "related_entities": ["Maria Gonzalez", "Kevin Swift", "Joe Evans"],
     "start_time": "2025-04-02T16:00",
     "end_time": "2025-04-02T17:00",
     "location": "Studio B"
@@ -450,7 +450,7 @@
   {
     "event_id": "evt_057",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-04-03T16:00",
     "end_time": "2025-04-03T17:00",
     "location": "Creative Lounge"
@@ -474,7 +474,7 @@
   {
     "event_id": "evt_060",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-04-07T11:00",
     "end_time": "2025-04-07T11:45",
     "location": "Zoom / Label HQ"
@@ -490,7 +490,7 @@
   {
     "event_id": "evt_062",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-04-10T16:00",
     "end_time": "2025-04-10T17:00",
     "location": "Creative Lounge"
@@ -514,7 +514,7 @@
   {
     "event_id": "evt_065",
     "title": "Drive to Coachella (LA → Indio)",
-    "related_entities": ["Self"],
+    "related_entities": [],
     "start_time": "2025-04-18T08:00",
     "end_time": "2025-04-18T11:30",
     "location": "I-10 E"
@@ -554,7 +554,7 @@
   {
     "event_id": "evt_070",
     "title": "Drive back to LA (Indio → LA)",
-    "related_entities": ["Self"],
+    "related_entities": [],
     "start_time": "2025-04-21T09:00",
     "end_time": "2025-04-21T12:30",
     "location": "I-10 W"
@@ -562,7 +562,7 @@
   {
     "event_id": "evt_071",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-04-24T16:00",
     "end_time": "2025-04-24T17:00",
     "location": "Creative Lounge"
@@ -586,7 +586,7 @@
   {
     "event_id": "evt_074",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-04-28T11:00",
     "end_time": "2025-04-28T11:45",
     "location": "Zoom / Label HQ"
@@ -602,7 +602,7 @@
   {
     "event_id": "evt_076",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-05-05T11:00",
     "end_time": "2025-05-05T11:45",
     "location": "Zoom / Label HQ"
@@ -618,7 +618,7 @@
   {
     "event_id": "evt_078",
     "title": "Pinterest Board Review: Summer Europe Ideas (Tentative)",
-    "related_entities": ["Self"],
+    "related_entities": [],
     "start_time": "2025-05-04T15:00",
     "end_time": "2025-05-04T16:00",
     "location": "Apartment"
@@ -626,7 +626,7 @@
   {
     "event_id": "evt_079",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-05-01T16:00",
     "end_time": "2025-05-01T17:00",
     "location": "Creative Lounge"
@@ -634,7 +634,7 @@
   {
     "event_id": "evt_080",
     "title": "Color-Match Outfit Shopping for NYC Trip (Tentative)",
-    "related_entities": ["Self"],
+    "related_entities": [],
     "start_time": "2025-05-10T14:00",
     "end_time": "2025-05-10T17:00",
     "location": "The Grove Mall"
@@ -650,7 +650,7 @@
   {
     "event_id": "evt_082",
     "title": "Weekly Team Sync",
-    "related_entities": ["Marketing Team"],
+    "related_entities": ["Jenny Smith", "Luis Ramirez", "Mike Johnson"],
     "start_time": "2025-05-12T11:00",
     "end_time": "2025-05-12T11:45",
     "location": "Zoom / Label HQ"
@@ -658,7 +658,7 @@
   {
     "event_id": "evt_083",
     "title": "Weekly Creative Brainstorm",
-    "related_entities": ["Creative Squad"],
+    "related_entities": ["Daniel Kim", "Cindy Wang"],
     "start_time": "2025-05-08T16:00",
     "end_time": "2025-05-08T17:00",
     "location": "Creative Lounge"
@@ -677,6 +677,6 @@
     "related_entities": ["LA Fitness"],
     "start_time": "2025-05-15T09:00",
     "end_time": "2025-05-15T09:15",
-    "location": "Todo"
+    "location": "TBD"
   }
 ]
